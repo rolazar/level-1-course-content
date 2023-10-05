@@ -1,5 +1,3 @@
 # level-1-course-content
 
-Teaching Plan:
-
-[Doc file](https://docs.google.com/document/d/1BpK_v2nagzqPJ-amPRIbTv63pPLCvYEgMgyFmYkN_QI/edit?usp=sharing)
+Outline of Level 1 progress (day by day): [Excel](https://1drv.ms/x/s!AsxXYiIrLOeepWL90sG-1wEwX9xH)
