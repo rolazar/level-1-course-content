@@ -13,7 +13,7 @@ Introduce the instructors to the students, the students to each other, and the c
 
 **Format:** Slide Deck with audience participation
 
-**Links:** Slide Deck (Make a copy of this slide for your presentation, so you can modify it during class, if you want. If you prefer another format, feel free to adjust!)
+**Links:** [Slide Deck](https://docs.google.com/presentation/u/0/d/16vqamNEAx1HQEhe3TdqZlV0AcUnNY2QNNx_eU7BClUY/edit) (Make a copy of this slide for your presentation, so you can modify it during class, if you want. If you prefer another format, feel free to adjust!)
 
 ---
 
