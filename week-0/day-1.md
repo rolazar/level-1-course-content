@@ -1,69 +1,58 @@
-# Week 0, Day 1
+# Day 1: Saturday Introduction
 
-**Pathway:** Pathway 1
+## Format: Morning (3 hours)
 
----
-
-## Topics:
-
-1. **Course Introduction (10 mins)**
-
-   - Welcome to the class.
-   - Brief overview of the course structure and what to expect.
-   - Explanation of the badge system and its importance.
-
-2. **Student Introductions (30 mins)**
-
-   - Each student gets roughly 1 minute to introduce themselves.
-   - Suggested points:
-     - Name
-     - Background (if any) in web development or coding
-     - A fun fact or reason they're taking this course
-
-3. **Developer Tools (25 mins)**
-
-   - What are Developer Tools?
-   - Why are they important?
-   - Hands-on: Quick demo of how to use basic features.
-   - Activity: Students try out Developer Tools on a sample site.
-
-4. **Visual Studio Code (VSCode) (25 mins)**
-
-   - Introduction to VSCode.
-   - Why is it a popular choice among developers?
-   - Basic features and settings.
-   - Hands-on: Installation and setup.
-   - Activity: Students download, install, and familiarize themselves with VSCode.
-
-5. **HTML Basics (25 mins)**
-
-   - What is HTML and why is it crucial for web development?
-   - Structure of an HTML document.
-   - Common HTML tags and their uses.
-   - Hands-on: Creating a simple HTML document.
-   - Activity: Students create their own basic HTML page.
-
-6. **Self-Paced Learning & Assistance (35 mins)**
-   - Students work on tasks and exercises related to the day's topics.
-   - Instructor available for guidance and answering queries.
+**Purpose:**
+Introduce the instructors to the students, the students to each other, and the course to the students. Aim to inspire and provide a roadmap for the students while also offering a take away. Get students started on a Badge or two for the week.
 
 ---
 
-### Homework:
+## Hour 1: Introduction
 
-1. **Devtools Activity**: Use developer tools to place your name on a newspaper website.
-2. **HTML Activity**: Use HTML to put your name and picture on a webpage using Replit.
-3. **VSCode Activity**: Download and set up Visual Studio Code.
+**Purpose:** Inspire, orient, establish rapport, and get to know each other.
 
-**Badge (Homework) Deadline:**
+**Format:** Slide Deck with audience participation
 
-- DevTools & VSCode homework due by end of the day.
+**Links:** Slide Deck (Make a copy of this slide for your presentation, so you can modify it during class, if you want. If you prefer another format, feel free to adjust!)
 
 ---
 
-### Notes for the Instructor:
+## Hour 2: First Badge (Dev Tools)
 
-- Foster an inclusive environment. Ensure every student feels welcome and comfortable sharing.
-- Keep track of time during introductions to ensure everyone gets a chance.
-- Ensure each student is following along, especially during hands-on sessions.
-- Provide additional resources or references for students who want to delve deeper.
+**Demo:**
+
+- Alter [Tennessean](https://www.tennessean.com/) to include your name and favorite color.
+- Engage students to provide information to include.
+- Encourage students to follow along at home.
+- Note the skills each step of the demo represents and check them off on the Slide Deck.
+
+**Group work (10 minutes):**
+
+- Use a breakout session for students to get to know each other.
+- Alter the Tennessean site to include the names of people in the group and their favorite colors.
+- Discuss and share screens to showcase work or address issues.
+
+(Note: This project helps gauge skill levels, so evaluate informally as you proceed.)
+
+---
+
+## Hour 3: HTML (Replit)
+
+**Demo:**
+
+- Create an HTML file in Replit. Simplify by deleting HEAD, BODY, DOCTYPE.
+- Write your name and favorite color.
+- Engage student volunteers to add their information.
+- Discuss why all names appear on the same line.
+- Introduce the paragraph tag. Emphasize the feedback loop.
+- Explore the Tennessean site using Dev Tools to identify other tags.
+- Discuss and demonstrate how to change color using online resources.
+
+---
+
+## Wrap Up (20 minutes)
+
+- Homework reminder: Complete the Dev Tools Badge and start (and ideally finish) the VSCode Badge before the next meeting.
+- Encourage independent work on badges and emphasize the importance of self-learning.
+- Answer questions and comments.
+- Assign a task, like posting in the Slack channel or forming study groups.
