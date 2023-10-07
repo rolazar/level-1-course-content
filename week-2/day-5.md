@@ -1,53 +1,55 @@
-# Week 2: Day 5 – Finalizing CSS Concepts and Integrative Project
+# Week 2: Day 5 – Finalizing CSS Concepts, "CSS Diner" Review, and Integrative Project
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Conclude the week by consolidating CSS knowledge, practicing advanced responsive design techniques, and integrating skills into a comprehensive project.
+**Purpose:** Wrap up the CSS module by consolidating knowledge, reviewing the "CSS Diner" game for students who faced challenges, and integrating skills into a comprehensive project.
 
 ---
 
-## Hour 1: Finalizing CSS Concepts and Advanced Responsive Techniques
+## Hour 1: "CSS Diner" Review and Finalizing CSS Concepts
 
-### CSS Review (15 minutes):
+### "CSS Diner" Game Review (20 minutes):
 
-- Recap key CSS concepts learned throughout the week.
+- Start with an open discussion: Ask students to share levels or selectors they found challenging.
+- Walk through some of the trickier levels based on student feedback, breaking down the solutions.
+- Provide additional resources or tips for understanding complex selectors.
+
+### CSS Concepts Recap (15 minutes):
+
+- Offer a brief review of key CSS concepts covered throughout the week, focusing on areas where students had questions during the "CSS Diner" game.
 - Address any remaining questions or clarify concepts.
 
-### Advanced Responsive Techniques (20 minutes):
+### Advanced Responsive Techniques (15 minutes):
 
 - Dive deeper into media queries, discussing more complex conditional styles.
 - Explore techniques like responsive images and typography.
 
-### CSS Best Practices (15 minutes):
-
-- Discuss organization strategies for CSS (e.g., modular styles, commenting).
-- Introduce the concept of CSS methodologies like BEM.
-
-### Interactive Session (10 minutes):
-
-- Students refine their projects with advanced responsive techniques and apply best practices to their stylesheets.
-
 ---
 
-## Hour 2: Integrative Project
+## Hour 2: CSS Best Practices and Integrative Project
 
-### Project Brief (10 minutes):
+### CSS Best Practices (15 minutes):
 
-- Introduce a comprehensive project that integrates HTML and CSS skills from the past two weeks.
+- Revisit organization strategies for CSS (e.g., modular styles, commenting).
+- Discuss CSS methodologies like BEM and their benefits.
+
+### Integrative Project Brief (10 minutes):
+
+- Introduce a comprehensive project that merges HTML and CSS skills from the past two weeks.
 - Example: A personal portfolio page or a mock landing page for a product.
 
-### Work Session (40 minutes):
+### Work Session (30 minutes):
 
-- Students work on their projects, implementing structured HTML content and styled with advanced CSS.
+- Students embark on their projects, implementing structured HTML content and styled with advanced CSS.
 - Encourage creativity and application of all the week's learning.
 
-### Showcase and Feedback (10 minutes):
+### Showcase and Feedback (5 minutes):
 
-- Students volunteer to showcase their projects.
-- Provide constructive feedback and highlight innovative solutions or designs.
+- A few students volunteer to display their projects.
+- Offer constructive feedback, highlighting innovative designs or solutions.
 
 ### Wrap-Up and Looking Ahead (5 minutes):
 
-- Recap the two-week journey from foundational HTML to advanced CSS.
-- Congratulate students on their progress and encourage continued practice.
-- Preview upcoming content for the following week: Introduction to JavaScript and interactive web development.
+- Celebrate the two-week journey from foundational HTML to advanced CSS.
+- Congratulate students on their progress and urge continued practice.
+- Preview the subsequent week's content: Introduction to JavaScript and interactive web development.
