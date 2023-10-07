@@ -1,70 +1,55 @@
-# Week 1: Day 1 – Dive Deep into Tools
+# Week 1: Day 1 – Intro to HTML with Developer Tools & VS Code
 
-## Format: Morning (3 hours)
+## Format: Morning (2 hours)
 
-**Purpose:** Reinforce knowledge about the developer tools, especially for those who may have missed or not grasped the concepts during the orientation. Enable students to confidently utilize VS Code and Chrome Dev Tools as essential tools in their web development journey.
-
----
-
-## Hour 1: Chrome Developer Tools
-
-### Recap (10 minutes):
-
-- Brief overview of what was covered during the orientation regarding Chrome Dev Tools.
-
-### Demo (20 minutes):
-
-- Opening and navigating Chrome Dev Tools.
-- Inspecting elements on a sample website.
-- Editing HTML and CSS live.
-- Viewing website files and understanding how websites load resources.
-- Simulating mobile views.
-
-### Interactive Practice (30 minutes):
-
-- Students take turns sharing their screens.
-- Real-time hands-on tasks.
-- Instructors offer immediate feedback and corrections.
+**Purpose:** Start with a review of developer tools and VS Code to ensure everyone is on the same page, then dive into the basics of HTML. Show practical applications of tools in real-world coding scenarios.
 
 ---
 
-## Hour 2: Visual Studio Code (VS Code)
+## Hour 1: Review of Developer Tools and VS Code
 
-### Recap (10 minutes):
+### Dev Tools & VS Code Overview (30 minutes):
 
-- Brief overview of VS Code's role in web development.
+- Brief recap of Chrome Dev Tools:
+  - Purpose and importance.
+  - Basic features.
+- Brief recap of VS Code:
+  - Purpose in web development.
+  - Installation process.
+  - Essential features: creating files, opening folders, and installing extensions.
 
-### Demo (25 minutes):
+### Practical Application (30 minutes):
 
-- Walkthrough of installing VS Code.
-- Opening, closing, and organizing files/folders.
-- Accessing the embedded terminal.
-- Installing a recommended extension.
-- Modifying settings for a specific coding language.
-- Formatting poorly structured code.
-
-### Interactive Practice (25 minutes):
-
-- Students share their screens.
-- Task: Students create a simple text file, modify its settings, and install an extension.
-- Feedback and guidance from instructors.
+- Install the `live-server` extension in VS Code.
+- Create a basic HTML file named "index.html".
+- Add a simple "Hello, World!" message.
+- Launch the `live-server` to view the HTML file in a browser.
+- Use Chrome Dev Tools to inspect the "Hello, World!" message.
+- Discuss how this simple setup simulates a real-world development environment.
 
 ---
 
-## Hour 3: Independent Practice and Review
+## Hour 2: Introduction to HTML
 
-### Badge Earning Opportunity (45 minutes):
+### Basics of HTML (25 minutes):
 
-- Students work independently on tasks.
-- Instructors roam (virtually) to assist.
+- Explain the building blocks of HTML documents.
+- Discuss structural tags: paragraphs, divisions, headers, and footers.
+- Show typography tags: headers, strong, and italics.
 
-### Review and Q&A (10 minutes):
+### Interactive Session (20 minutes):
 
-- Recap of the day's topics.
-- Students ask questions.
+- Students create their own basic HTML file in VS Code (or Replit if they encounter issues with VS Code).
+- They replicate the "Hello, World!" setup and experiment with adding paragraphs, headers, and basic formatting.
+
+### Contingency for Troubleshooting (10 minutes):
+
+- Address common issues with VS Code setup.
+- Provide guidance for using Replit as an alternative.
+- Highlight the importance of flexibility in tool usage in real-world scenarios.
 
 ### Wrap-Up (5 minutes):
 
-- Encourage students to review and practice.
-- Provide a teaser of what's next.
-- Encourage collaboration.
+- Encourage students to experiment further with HTML.
+- Remind them of the skills needed for the HTML badge.
+- Preview what's coming up in the next session.
