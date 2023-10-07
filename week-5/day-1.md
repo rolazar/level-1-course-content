@@ -2,47 +2,42 @@
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Transition from prior weeks, reconnecting with some of the tools and concepts, and delving deeper into JavaScript basics with a focus on variables.
+**Purpose:** Transition into JavaScript fundamentals, placing a strong emphasis on understanding variables and primitive data types.
 
 ---
 
-## Hour 1: Reconnecting with JavaScript
+## Hour 1: Introduction to JavaScript and Variables
 
-### Quick Review: Dev Tools Console (10 minutes):
+### Quick Review: Dev Tools Console and Bootstrap's JS (10 minutes):
 
-- Recap the browser developer tools' console as an environment for JavaScript.
-- Encourage students to recall their interactions with the console from Week 1.
+- Briefly recap the browser developer tools' console and its use for JavaScript.
+- Touch upon the JavaScript aspects encountered during the Bootstrap week.
 
-### From Bootstrap to Pure JavaScript (20 minutes):
+### Introduction to Variables (15 minutes):
 
-- Reflect on the Bootstrap week, emphasizing elements like nav bars.
-- Introduce the idea of understanding the "under the hood" workings of such features using JavaScript.
+- Discuss variables as the foundation for storing and managing data in scripts.
+- Explain the significance of different variable keywords: `let`, `const`, and the legacy `var`.
 
-### Basic JavaScript Concepts (30 minutes):
+### Understanding Primitive Data Types (30 minutes):
 
-- Discuss the dynamic nature of JavaScript in comparison to HTML and CSS.
-- Execute a few lines of JavaScript code, explaining comments, semicolons, and basic structure.
+- Introduce the basic data types in JavaScript: numbers, strings, booleans, null, and undefined.
+- Discuss type inference in JavaScript and how data types can be changed.
 
 ---
 
-## Hour 2: Deep Dive into Variables
+## Hour 2: Hands-On with Variables and Primitives
 
-### The Role of Variables in JavaScript (20 minutes):
+### Declaring and Initializing Variables (20 minutes):
 
-- Emphasize variables as foundational building blocks in programming.
-- Highlight how they're used to store and manage data in scripts.
+- Live coding session to demonstrate variable declaration, initialization, and type checking.
+- Showcase the dynamic nature of JavaScript with variable reassignment and type conversion.
 
-### Declaring, Initializing, and Using Variables (25 minutes):
+### Interactive Session: Exploring Primitives (30 minutes):
 
-- Revisit declaring and initializing variables using `let`, `const`, and the lesser-used `var`.
-- Showcase various data types: numbers, strings, booleans, and how they can be stored in variables.
+- Students engage in hands-on practice, experimenting with different primitive data types.
+- Challenges: Create scripts that utilize various primitives, such as performing arithmetic with numbers and manipulating strings.
 
-### Hands-On Practice (10 minutes):
+### Wrap-Up and Day's Recap (10 minutes):
 
-- Students experiment with variables, performing operations and logging results.
-- Challenge: Create a script that captures user input (like their name) and displays a greeting message.
-
-### Wrap-Up and Preview (5 minutes):
-
-- Summarize the introductory journey into core JavaScript topics.
-- Tease Day 2's content: Venturing into the world of arrays and their dynamic nature.
+- Summarize the day's journey into JavaScript variables and primitive data types.
+- Provide a brief preview of Day 2, hinting at the exploration of arrays.
