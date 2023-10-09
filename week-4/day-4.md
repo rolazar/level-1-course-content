@@ -1,45 +1,45 @@
-# Week 4: Day 4 – Introduction to GitHub Pages and Static Site Deployment
+# Week 4: Day 4 – Introduction and Exploration of Objects
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Transition from Git's technical depths to the practical application of deploying static websites using GitHub Pages, enabling students to share their work with the world.
+**Purpose:** Introduce students to objects, highlighting their significance in structuring and grouping related data in JavaScript.
 
 ---
 
-## Hour 1: Introduction to GitHub Pages
+## Hour 1: The World of Objects
 
-### Why GitHub Pages? (15 minutes):
+### Understanding Objects (15 minutes):
 
-- Discuss the importance of deploying and sharing projects.
-- Introduce GitHub Pages as a tool for hosting static web content directly from a GitHub repository.
+- Define objects as structured collections of key-value pairs.
+- Offer real-world analogies, like a person's profile with various attributes or product details.
 
-### Setting Up GitHub Pages (25 minutes):
+### Creating and Accessing Objects (25 minutes):
 
-- Guide students on how to configure a GitHub repository to host static content.
-- Explain the differences between deploying from the main branch vs. a dedicated 'gh-pages' branch.
+- Demonstrate constructing objects using curly braces `{}`.
+- Show accessing and modifying properties through dot notation `obj.property` and bracket notation `obj["property"]`.
 
-### Interactive Session (20 minutes):
+### Adding and Removing Properties (20 minutes):
 
-- Students follow along to set up GitHub Pages for a sample repository.
-- Challenge: Activate GitHub Pages for one of their repositories and share the live URL.
+- Discuss dynamically adding properties to objects post-creation.
+- Showcase the `delete` operator to remove properties from objects.
 
 ---
 
-## Hour 2: Updating and Managing Content
+## Hour 2: Interacting with Objects
 
-### Continuous Deployment with GitHub Pages (20 minutes):
+### Objects and Functions (20 minutes):
 
-- Emphasize that GitHub Pages automatically updates the hosted website upon new commits pushed to the relevant branch.
-- Demonstrate making changes, committing, pushing, and seeing the live update.
+- Display how functions can be used with objects, such as calculating values based on object properties or updating object data.
 
-### Best Practices and Tips (20 minutes):
+### Hands-On Exercises with Objects (30 minutes):
 
-- Discuss the importance of clear folder structures, especially when deploying.
-- Introduce the concept of `.gitignore` to avoid uploading unnecessary files.
-- Highlight how custom domains can be integrated with GitHub Pages for a professional touch.
+- Engage students in creating and manipulating objects related to real-world scenarios.
+- Challenges might include:
+  - Designing an object to represent a book with properties like title, author, and published year.
+  - Manipulating an object representing a student's profile, updating grades or adding courses.
 
-### Wrap-Up and Reflection (20 minutes):
+### Wrap-Up and Reflection (10 minutes):
 
-- Recap the day's journey from Git to deploying live sites using GitHub Pages.
-- Address any questions, challenges, or concerns the students might have.
-- Preview Day 5's content: Consolidation of the week's learning, ensuring mastery of both Git and GitHub Pages, and setting the stage for the final day of the week.
+- Review the core concepts associated with objects.
+- Address any lingering questions to ensure clarity on objects.
+- Provide a brief peek into Day 5: Recap of the week's learnings and ensuring a solid understanding of JavaScript's fundamental constructs.

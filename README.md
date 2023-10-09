@@ -10,8 +10,8 @@ Welcome to the Level 1 Front-End Web Development Codex Academy! This course is t
 - **Week 1:** Introduction and In-depth Study of HTML
 - **Week 2:** Cascading Style Sheets (CSS)
 - **Week 3:** Bootstrap Framework
-- **Week 4:** Git, Github, and Deployment
-- **Week 5:** JavaScript Developer 1 (Basic Concepts)
+- **Week 4:** JavaScript Developer 1 (Basic Concepts)
+- **Week 5:** Git, Github, and Deployment
 - **Week 6:** JavaScript Developer 2 (Intermediate Concepts)
 - **Week 7:** Capstone Project
 
@@ -39,17 +39,17 @@ Welcome to the Level 1 Front-End Web Development Codex Academy! This course is t
 - Work with Bootstrap components: Navs, Cards, Badges, etc.
 - Construct responsive web layouts using Bootstrap's utilities.
 
-### Week 4: Git, Github, and Deployment
-
-- Dive deep into the world of Git source control and GitHub collaboration.
-- Understand the workflow of commits, branches, and merges.
-- Deployment lessons with GitHub Pages.
-
-### Week 5: JavaScript Developer 1
+### Week 4: JavaScript Developer 1
 
 - Unveil the magic of the JavaScript programming language.
 - Grasp key concepts: variables, arrays, functions, and objects.
 - Engage in real-world scenarios using foundational JavaScript.
+
+### Week 5: Git, Github, and Deployment
+
+- Dive deep into the world of Git source control and GitHub collaboration.
+- Understand the workflow of commits, branches, and merges.
+- Deployment lessons with GitHub Pages.
 
 ### Week 6: JavaScript Developer 2
 

@@ -1,38 +1,43 @@
-# Week 4: Day 5 – Consolidation, Deployment, and Reflection
+# Week 4: Day 5 – Consolidation and Recap of JavaScript Fundamentals
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Conclude the week by providing students with ample practice opportunities, addressing challenges, and reflecting on the journey of mastering Git and GitHub Pages.
+**Purpose:** Solidify the week's learnings, address lingering questions, and offer students the opportunity to showcase their understanding.
 
 ---
 
-## Hour 1: Reinforcement and Practice
+## Hour 1: Review Session
 
-### Interactive Deployment Session (40 minutes):
+### Quick Recap (20 minutes):
 
-- Students get an extended hands-on session to pick one of their projects and deploy it on GitHub Pages.
-- Instructors circulate, providing guidance, troubleshooting deployment issues, and offering feedback.
+- Offer a brief overview of the key topics covered during the week: Variables, Arrays, Functions, and Objects.
+- Highlight the significance of each topic in the realm of JavaScript programming.
 
-### Group Discussions (20 minutes):
+### Interactive Q&A (25 minutes):
 
-- In smaller breakout groups, students discuss their experiences, challenges faced, and solutions found during the week.
-- Groups then share their main takeaways with the larger class, fostering a collaborative learning environment.
+- Open the floor for students to ask questions or clarify doubts on any topic from the week.
+- Encourage students to share their insights or "aha" moments.
+
+### Mini Challenges (15 minutes):
+
+- Present bite-sized challenges related to the week's topics.
+- Allow students to tackle them in real-time, providing hints or solutions as needed.
 
 ---
 
-## Hour 2: Reflection and Looking Ahead
+## Hour 2: Hands-On and Peer Feedback
 
-### Q&A Session (30 minutes):
+### Code Showcase (25 minutes):
 
-- A dedicated time for students to ask any lingering questions about Git, GitHub Pages, or any related topic.
-- Instructors provide clarifications, addressing any misconceptions or challenges.
+- Invite students to share pieces of code or small projects they've worked on during the week.
+- Encourage peer feedback, fostering a collaborative learning environment.
 
-### Reflection and Feedback (20 minutes):
+### Group Activities (20 minutes):
 
-- Students reflect on their progress over the week, noting areas of confidence and those needing further practice.
-- Instructors gather feedback on the week's content, teaching methods, and pacing, ensuring continuous improvement.
+- Facilitate small-group sessions where students collaboratively solve problems or enhance existing code.
+- Use this as an opportunity to observe student interactions and gauge their grasp of the material.
 
-### Wrap-Up and Preview (10 minutes):
+### Wrap-Up and Glimpse into Next Week (15 minutes):
 
-- Celebrate the students' achievements over the week, acknowledging the complexity and importance of the skills learned.
-- Provide a glimpse into the upcoming week's content, preparing students for the next phase of their learning journey.
+- Sum up the week, applauding students for their dedication and progress.
+- Offer a sneak peek into the next week's topics, ensuring they're excited and prepared for the upcoming challenges.

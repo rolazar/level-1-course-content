@@ -1,44 +1,43 @@
-# Week 4: Day 1 – Introduction to Git and Basic Concepts
+# Week 4: Day 1 – Diving into JavaScript Fundamentals and Variables
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Kick off the week by introducing students to the importance of source control systems, focusing on Git, and setting the stage for mastering the necessary skills.
+**Purpose:** Transition into JavaScript fundamentals, placing a strong emphasis on understanding variables and primitive data types.
 
 ---
 
-## Hour 1: The Importance of Source Control & Git
+## Hour 1: Introduction to JavaScript and Variables
 
-### Why Source Control? (15 minutes):
+### Quick Review: Dev Tools Console and Bootstrap's JS (10 minutes):
 
-- Discuss the problems that can be solved by source control systems like Git.
-- Highlight the significance of tracking changes, collaboration, and versioning.
+- Briefly recap the browser developer tools' console and its use for JavaScript.
+- Touch upon the JavaScript aspects encountered during the Bootstrap week.
 
-### Forking and Cloning Repositories (30 minutes):
+### Introduction to Variables (15 minutes):
 
-- Explain the concept of forking in GitHub, showcasing how it allows for personal copies of repositories.
-- Demonstrate the process of cloning a remote repository to one's local machine.
-- Interactive Session: Students fork a sample repository and clone it locally.
+- Discuss variables as the foundation for storing and managing data in scripts.
+- Explain the significance of different variable keywords: `let`, `const`, and the legacy `var`.
 
-### Differentiating Repositories (15 minutes):
+### Understanding Primitive Data Types (30 minutes):
 
-- Differentiate between local and remote repositories.
-- Discuss the importance of synchronization and how Git makes this seamless.
+- Introduce the basic data types in JavaScript: numbers, strings, booleans, null, and undefined.
+- Discuss type inference in JavaScript and how data types can be changed.
 
 ---
 
-## Hour 2: Hands-on Practice and Familiarization
+## Hour 2: Hands-On with Variables and Primitives
 
-### Setting Up and Navigating Git with VS Code (20 minutes):
+### Declaring and Initializing Variables (20 minutes):
 
-- Showcase the integrated source control panel in VS Code.
-- Walk students through basic Git operations within the editor, emphasizing its user-friendly interface.
+- Live coding session to demonstrate variable declaration, initialization, and type checking.
+- Showcase the dynamic nature of JavaScript with variable reassignment and type conversion.
 
-### Interactive Session (30 minutes):
+### Interactive Session: Exploring Primitives (30 minutes):
 
-- Students practice the steps learned: Forking, cloning, and navigating Git within VS Code.
-- Challenge: Fork a repository, clone it, make a local change, and prepare it for a commit (commit will be discussed the next day).
+- Students engage in hands-on practice, experimenting with different primitive data types.
+- Challenges: Create scripts that utilize various primitives, such as performing arithmetic with numbers and manipulating strings.
 
-### Wrap-Up (10 minutes):
+### Wrap-Up and Day's Recap (10 minutes):
 
-- Recap the foundational Git concepts covered on Day 1.
-- Preview Day 2's content: Diving deeper into Git commands, committing changes, and syncing repositories.
+- Summarize the day's journey into JavaScript variables and primitive data types.
+- Provide a brief preview of Day 2, hinting at the exploration of arrays.
