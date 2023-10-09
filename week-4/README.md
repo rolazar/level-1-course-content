@@ -1,4 +1,4 @@
-# Week 5 Summary: Unveiling the Power of JavaScript
+# Week 4 Summary: Unveiling the Power of JavaScript
 
 As we close our fifth week, let's reflect on our journey through the heart of web development: JavaScript. This week, we endeavored to understand the fundamentals that power dynamic web applications across the globe.
 
