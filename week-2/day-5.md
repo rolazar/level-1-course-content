@@ -52,4 +52,4 @@
 
 - Celebrate the two-week journey from foundational HTML to advanced CSS.
 - Congratulate students on their progress and urge continued practice.
-- Preview the subsequent week's content: Introduction to JavaScript and interactive web development.
+- Preview the subsequent week's content: Introduction to Bootstrap and styling libraries.

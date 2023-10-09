@@ -1,49 +1,49 @@
-# Week 4: Day 3 – Collaborative Workflows in Git: Branching, Merging, and Conflicts
+# Week 4: Day 3 – Diving Deep into Functions
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Equip students with the skills to utilize Git in team environments, ensuring effective collaboration, branch management, and conflict resolution.
+**Purpose:** Equip students with a robust understanding of functions, allowing them to write reusable code blocks and further modularize their scripts.
 
 ---
 
-## Hour 1: Understanding Branches in Git
+## Hour 1: Foundations of Functions
 
-### Why Branching? (15 minutes):
+### The Role of Functions in Programming (15 minutes):
 
-- Introduce the concept of branches in Git.
-- Discuss the benefits of branching: parallel development, feature segregation, and safe experimentation.
+- Discuss how functions act as reusable code blocks.
+- Highlight the importance of functions in reducing code repetition and improving readability.
 
-### Creating and Navigating Branches (20 minutes):
+### Creating Functions (25 minutes):
 
-- Demonstrate how to create new branches and switch between them.
-- Highlight the independent nature of branches and their use cases.
+- Showcase how to declare a function using the `function` keyword.
+- Discuss function naming conventions and best practices.
+- Dive into function parameters and arguments, explaining how data can be passed into functions.
 
-### Interactive Session (25 minutes):
+### Calling and Returning from Functions (20 minutes):
 
-- Students practice creating and navigating branches.
-- Challenge: Create a new feature branch, implement a minor change, and prepare it for a merge.
+- Demonstrate how to invoke or call a function.
+- Introduce the `return` keyword and explain how functions can send data back to where they were called from.
 
 ---
 
-## Hour 2: Merging and Handling Conflicts
+## Hour 2: Hands-On with Functions
 
-### The Merge Operation (20 minutes):
+### Crafting Custom Functions (20 minutes):
 
-- Introduce the process of merging branches in Git.
-- Discuss scenarios where merging is useful: integrating features, updating main branches, etc.
+- Engage students in creating their own functions to solve specific tasks or challenges.
+- Examples might include a function to calculate the area of a shape, convert temperatures, or greet a user.
 
-### Encountering and Resolving Conflicts (20 minutes):
+### Debugging and Troubleshooting Functions (20 minutes):
 
-- Delve into the common reasons for merge conflicts.
-- Walk students through the process of identifying and resolving conflicts.
+- Discuss common pitfalls and mistakes beginners make with functions.
+- Guide students through debugging scenarios using console logs and other techniques.
 
-### Hands-on Conflict Resolution (10 minutes):
+### Interactive Q&A and Scenarios (15 minutes):
 
-- Provide students with a prepared repository setup to induce a conflict.
-- Guide them as they experience, identify, and resolve a merge conflict.
+- Allow students to ask questions or present challenges they've faced related to functions.
+- Encourage peer-to-peer help, where students assist one another in understanding and problem-solving.
 
-### Wrap-Up (10 minutes):
+### Wrap-Up and Glimpse into Day 4 (5 minutes):
 
-- Recap the collaborative aspects of Git covered on Day 3.
-- Engage in a Q&A session, addressing challenges or queries.
-- Preview Day 4's content: More advanced Git topics and an introduction to GitHub Pages deployment.
+- Summarize the day's exploration of functions.
+- Preview Day 4, hinting at the introduction and understanding of objects and their foundational role in data structuring.
