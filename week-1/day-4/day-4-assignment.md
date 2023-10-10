@@ -5,18 +5,23 @@ The goal of this assignment is to reinforce understanding of advanced HTML struc
 ## Instructions
 
 1. **Setup Environment**
+
      - Open Visual Studio Code.
-     - Create a new folder named Day4_Assignment on your local machine.
+     - Create a new folder named `Day4_Assignment` on your local machine.
 
 2. **Create Files**
+
     - Inside this folder, create 2 files: an HTML file named `index.html` and `advanced.html`.
 
-3. **HTML Structure with Advanced Tags**
-    - Setup your `index.html` similar to how you have in previous assignments this week, feel free to experiment and do something new with what you have learned as well!
-    - Structure the `advanced.html` document with appropriate HTML tags, including `<article>`, `<section>`, `<aside>`, and `<main>`.
-    - Understand the use cases and significance of each tag in enhancing accessibility and SEO(search engine optimization).
+3. **Generating index.html structure**
 
-4. **Application of Attributes**
+    - Setup your `index.html` similar to how you have in previous assignments this week, feel free to experiment and do something new with what you have learned as well!
+
+4. **HTML Structure with Advanced Tags**
+
+    - Structure the `advanced.html` document with appropriate HTML tags, including `<article>`, `<section>`, `<aside>`, and `<main>`.
+    - Fill these new tags with content that is relevant to you or your interests. Feel free to put whatever you want as the content, but make sure it is appropriate for the assignment.
+    - Understand the use cases and significance of each tag in enhancing accessibility and SEO(search engine optimization).
 
 ## Rubric:
 
