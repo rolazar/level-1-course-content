@@ -12,6 +12,7 @@
 
 - Explain the significance of lists in web content.
 - Introduce the different types of lists:
+    (Follow demo code snippit)
   - Unordered lists using `<ul>` and `<li>`.
   - Ordered lists using `<ol>` and `<li>`.
 
