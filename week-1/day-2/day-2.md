@@ -11,6 +11,7 @@
 ### HTML Elements Deep Dive (25 minutes):
 
 - Reiterate the importance of HTML in web structure.
+
 - Introduce elements that control page layout:
   - `<div>`, `<span>`, `<header>`, `<footer>`, `<nav>`, and others.
 - Practical application: demonstrate constructing a basic webpage layout.
@@ -31,7 +32,10 @@
 
 ### Attributes in HTML (20 minutes):
 
+Show MDN Docs for [Attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#attributes)
+
 - Discuss common HTML attributes: `id`, `class`, and `style`.
+
 - Highlight differences and use cases for each.
 - Practical demonstration of styling with inline CSS using the `style` attribute.
 
