@@ -17,9 +17,19 @@
   - Purpose in web development.
   - Installation process.
   - Essential features: creating files, opening folders, and installing extensions.
+    - Create folder on desktop
+    - Open folder in VS Code
+    - Create index.html
+    - Create a folder in VS Code
+    - Nest a Folder within that folder to show how it displays 2 empty folders nested
+    - Create files within the folders to show how that behaves
+    - Set up Prettier, set as default code formatter. Select options format on save, format on paste.
+    - Show extensions for themes. 
+    - Show better comments extension (optional) 
+    - Turn on Auto Save
 
 ### Practical Application (30 minutes):
-
+Ask the class to follow along. 
 - Install the `live-server` extension in VS Code.
 - Create a basic HTML file named "index.html".
 - Add a simple "Hello, World!" message.
