@@ -16,7 +16,7 @@
 ### Advanced Layout Structures (20 minutes):
 
 - Dive into any remaining advanced structural tags not covered, like `<nav>`, `<figure>`, and `<figcaption>`.
-
+<!-- !! nav was covered in week two unless you want to dive deeper into it -->
 ### Interactive Session (20 minutes):
 
 - Students work on integrating the new tags into their ongoing projects.
