@@ -53,8 +53,8 @@ Ask the class to follow along.
 
   - Open VS Code and type out the starter code
   - Discuss structural tags: paragraphs, divisions, headers, and footers.
-  
-- Show typography tags: strong, and italics.
+
+  - Show typography tags: strong, and italics.
 
 ### Interactive Session (20 minutes):
 
