@@ -1,4 +1,4 @@
-# Homework for Week 1: Day 3 – Lists, Tables, and Advanced HTML Structures
+# Week 1: Day 3 – Lists, Tables, and Advanced HTML Structures
 
 The goal of this assignment is to reinforce new HTML elements in regards to creating a table and inputting information along with the ability to create lists.
 
@@ -11,31 +11,31 @@ The goal of this assignment is to reinforce new HTML elements in regards to crea
 
 2. **Create Files**
 
-   - Inside this folder, create  3 files: an HTML file named `index.html`, `lists.html`, and `table.html`.
+   - Inside this folder, create 3 files: an HTML file named `index.html`, `lists.html`, and `table.html`.
 
 3. **index.html Structure**
 
-    - Structure the document with a `<header>`, `<nav>`, `<main>`, and `<footer>`.
-    - In the `<header>`, add an `<h1>` with "Welcome to [Your Name]'s Passion Page!".
-    - Inside `<nav>`, create links using the `<a>` tag to both `index.html` (label it "Home"), `lists.html` (label it "Lists"), and `table.html` (label it "Table").
+   - Structure the document with a `<header>`, `<nav>`, `<main>`, and `<footer>`.
+   - In the `<header>`, add an `<h1>` with "Welcome to [Your Name]'s Passion Page!".
+   - Inside `<nav>`, create links using the `<a>` tag to both `index.html` (label it "Home"), `lists.html` (label it "Lists"), and `table.html` (label it "Table").
 
 4. **Lists**
 
-    - Create an unordered list with at least 5 items. The list should contain a nested list.
-    - If you are creating an ordered list ensure you are using the correct `<ol>` and `<li>` tags. Otherwise you can generate an unordered list using the `<ul>` and `<li>` tags.
-    - The content of your list can be anything of your choosing, but it should be relevant to you.
+   - Create an unordered list with at least 5 items. The list should contain a nested list.
+   - If you are creating an ordered list ensure you are using the correct `<ol>` and `<li>` tags. Otherwise you can generate an unordered list using the `<ul>` and `<li>` tags.
+   - The content of your list can be anything of your choosing, but it should be relevant to you.
 
 5. **Table**
 
-    - Create a table with some NEW information you are passionate about! This could be your favorite movies, books, food, games, etc. The table should have at least 3 columns and 3 rows.
-    - Ensure you are properly utilizing the `<table>`, `<tbody>`, `<th>`, `<tr>`, `<td>` and `<tfoot>` tags.
-    - Reference back to lecture notes if you need a refresher on how to properly structure a table!
+   - Create a table with some NEW information you are passionate about! This could be your favorite movies, books, food, games, etc. The table should have at least 3 columns and 3 rows.
+   - Ensure you are properly utilizing the `<table>`, `<tbody>`, `<th>`, `<tr>`, `<td>` and `<tfoot>` tags.
+   - Reference back to lecture notes if you need a refresher on how to properly structure a table!
 
 6. **Submission**
-    - Zip the "Day3_Assignment" folder.
-    - In the card with the label "Your work" click on the "+ Add or create."
-    - Within that dropdown click file, and attach your zipped folder.
-    - Click the submit button.
+   - Zip the "Day3_Assignment" folder.
+   - In the card with the label "Your work" click on the "+ Add or create."
+   - Within that dropdown click file, and attach your zipped folder.
+   - Click the submit button.
 
 ## Rubric:
 
