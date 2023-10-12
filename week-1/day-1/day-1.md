@@ -17,8 +17,20 @@
   - Purpose in web development.
   - Installation process.
   - Essential features: creating files, opening folders, and installing extensions.
+    - Create folder on desktop
+    - Open folder in VS Code
+    - Create index.html
+    - Create a folder in VS Code
+    - Nest a Folder within that folder to show how it displays 2 empty folders nested
+    - Create files within the folders to show how that behaves
+    - Set up Prettier, set as default code formatter. Select options format on save, format on paste.
+    - Show extensions for themes.
+    - Show better comments extension (optional)
+    - Turn on Auto Save
 
 ### Practical Application (30 minutes):
+
+Ask the class to follow along.
 
 - Install the `live-server` extension in VS Code.
 - Create a basic HTML file named "index.html".
@@ -34,8 +46,15 @@
 ### Basics of HTML (25 minutes):
 
 - Explain the building blocks of HTML documents.
-- Discuss structural tags: paragraphs, divisions, headers, and footers.
-- Show typography tags: headers, strong, and italics.
+
+  - What is HTML? HTML (HyperText Markup Language) is a markup language that tells web browsers how to structure the web pages you visit.
+  - It can be as complicated or as simple as the web developer wants it to be. HTML consists of a series of `elements`
+  - [Show anatomy of HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#anatomy_of_an_html_element)
+
+  - Open VS Code and type out the starter code
+  - Discuss structural tags: paragraphs, divisions, headers, and footers.
+
+  - Show typography tags: strong, and italics.
 
 ### Interactive Session (20 minutes):
 
