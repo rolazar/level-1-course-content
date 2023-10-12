@@ -1,0 +1,1 @@
+# Homework for Week 2: Day 4 – Mastering Flexbox, Introduction to CSS Grid, and Responsive Design Basics
