@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+
+  <nav>
+    <ul>
+      <p>Students will need to create at least 2 linking files to their main page for the assignment today along with incorporating what they have learned throughout this week across all the pages!</p>
+      <li><a href="page-one.html">Page One Example</a></li>
+      <li><a href="page-two.html">Page Two Example</a></li>
+    </ul>
+  </nav>
+
+  <h1>This lab is about experimenting with what you have learned and pushing yourself to try new things! Do not be afraid to break your webpage or try something that doesn't work, that is how you learn! Embrace it!</h1>
+
+  <h2>Figure</h2>
+  <figure>
+    <p>A figure element is self-contained content, like images, diagrams, listings, etc.</p>
+    <img src="https://source.unsplash.com/a-person-standing-on-top-of-a-hill-with-a-sunset-in-the-background-zsTWvWoBA4k" alt="man watching a volcano erupt" width="500" height="500">
+    <p>The figcaption below is how you define the caption for a figure element. I have used it to promote the photographer and website for this free image. </p>
+    <!-- !! Maybe talk about the target trick to make a link open a new tab instead of using the same tab as a fun fact -->
+    <figcaption>Photo by <a href="https://unsplash.com/@joshuaearle?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText" target="_blank">Joshua Earle</a> on <a href="https://unsplash.com/">Unsplash</a>
+    </figcaption>
+  </figure>
+
+  <h2>Forms</h2>
+
+  <form id="name-form">
+    <label for="fname">First name:</label>
+    <input type="text" id="fname" name="fname"><br><br>
+    <label for="lname">Last name:</label>
+    <input type="text" id="lname" name="lname"><br><br>
+    <input type="submit" value="Submit">
+    <textarea name="comments" id="message" cols="30" rows="10">
+This is a text area with some default text in it. 
+    </textarea>
+  </form> 
+
+  <h3>Other fun things you can do with forms....</h3>
+  <p>We can create a form with an action that will go into more advanced topics, but its a fun thing to play around with.</p>
+  <p>This form below will initiate a google search and when hitting search you will be taken to the page results of your search!</p>
+  <form action="https://www.google.com/search" method="GET" target="_blank">
+    <label for="search">Search Google</label>
+    <input type="text" name="q" id="search">
+    <input type="submit" value="Search">
+
+    <footer>A great reference for HTMl is <a href="https://www.w3schools.com/tags/default.asp">W3Schools</a></footer>
+</body>
+</html>

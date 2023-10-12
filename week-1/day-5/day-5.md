@@ -15,7 +15,7 @@
 
 ### Advanced Layout Structures (20 minutes):
 
-- Dive into any remaining advanced structural tags not covered, like `<figure>`, and `<figcaption>`.
+- Dive into any remaining advanced structural tags not covered, like `<figure>` and `<figcaption>`.
 
 ### Interactive Session (20 minutes):
 
