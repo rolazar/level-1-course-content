@@ -20,6 +20,7 @@ The goal of this assignment is to reinforce **ALL** of the HTML elements and str
 4. **Combining Knowledge**
 
    - This will be the portion of the lab where you will get to experiment with all you have learned with HTML.  You will be creating new pages or building a large page that will have multiple elements of what you have learned.
+   - Don't worry about how your page look with all these different elements on the pages, we will be learning how to style these pages next week!
    - We encourage you to try and use everything you have learned this week, but you are not limited to that. Feel free to get creative and try something new!
    - The content of your page can be anything you want, but it should be relevant to you and appropriate for the assignment.
    - **Our expectation will be that you will have a minimum of 2 pages linked together and that you tried to use as many of the elements you have learned this week as possible.**
