@@ -7,7 +7,7 @@ The main goal of this assignment is to familiarize students with the basics of s
 1. **Setup Environment**
 
    - Open **Visual Studio Code (VS Code)**.
-   - Create a new folder named `Day1_Assignment` on your local machine.
+   - Create a new folder named `HTML_Day1_Assignment` on your local machine.
 
 2. **Create File and Structure**
 

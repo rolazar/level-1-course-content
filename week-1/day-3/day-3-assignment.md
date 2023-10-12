@@ -7,7 +7,7 @@ The goal of this assignment is to reinforce new HTML elements in regards to crea
 1. **Setup Environment**
 
    - Open **Visual Studio Code**.
-   - Create a new folder named `Day3_Assignment` on your local machine.
+   - Create a new folder named `HTML_Day3_Assignment` on your local machine.
 
 2. **Create Files**
 

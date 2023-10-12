@@ -7,7 +7,7 @@ The goal of this assignment is to reinforce understanding of advanced HTML struc
 1. **Setup Environment**
 
      - Open Visual Studio Code.
-     - Create a new folder named `Day4_Assignment` on your local machine.
+     - Create a new folder named `HTML_Day4_Assignment` on your local machine.
 
 2. **Create Files**
 
