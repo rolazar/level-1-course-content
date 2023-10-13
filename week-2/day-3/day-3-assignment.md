@@ -43,3 +43,39 @@ Today you were introduced to CSS positioning/display properties and utilizing ad
       - Click the submit button.
 
 ## Rubric
+
+### Day 3 Advanced CSS: Positioning, Advanced Selectors, and Layout Introduction - /20
+
+### CSS Diner - /10
+
+- **Fully Achieved - 10 pts**
+  - All 32 levels of the game are completed.
+  - Screenshot of all completed levels is attached to submission.
+
+- **Partially Achieved - 5 pts**
+  - Majority of levels of the game are completed.
+  - Screenshot of completed levels is attached to submission.
+
+- **Not Achieved - 0 pts**
+  - Less than half of the levels of the game are completed.
+  - Screenshot of completed levels is not attached to submission.
+
+### Implementation of CSS - /10
+
+- **Fully Achieved - 10 pts**
+  - Integrated the majority of the CSS elements learned this week appropriately.
+  - Populated content to fill elements.
+  - Utilized both positioning and display properties.
+  - Utilized external styling methods.
+
+- **Partially Achieved - 5 pts**
+  - Integrated some of the CSS elements learned this week appropriately.
+  - Populated content to fill elements.
+  - Utilized both positioning and display properties.
+  - Utilized external styling methods.
+
+- **Not Achieved - 0 pts**
+  - No attempt was made to integrate the CSS elements learned from lesson.
+  - No attempt was made to populate content to fill elements.
+  - No attempt was made to utilize both positioning and display properties.
+  - No attempt was made to utilize external styling methods.
