@@ -2,6 +2,21 @@
 
 The goal of this assignment is to further reinforce the understanding of HTML elements and attributes by creating a personal webpage layout with navigation.
 
+## Overview
+
+Create two well formed HTML files and link them.
+
+## New Concepts
+
+* Linking with anchor tags
+* Semantic tags like header, nav, main, footer
+* HTML attributes like id class and style
+* headers for each page
+
+## Reviewed concepts
+
+* Well formed HTML boilerplate
+* Typographic tags: h1
 ## Instructions:
 
 1. **Setup Environment**

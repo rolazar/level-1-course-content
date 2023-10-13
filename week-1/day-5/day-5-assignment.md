@@ -2,6 +2,20 @@
 
 The goal of this assignment is to reinforce **ALL** of the HTML elements and structures you have learned this week. You will be tasked with creating new HTML page(s) that will showcase all of your learning this week! Repetition is key to learning, so this will be a great way to practice and solidify your understanding of HTML.
 
+## Overview
+
+Create a multi-page website based on several topics that interest you. (e.g. movies, books, etc)
+
+Use all the skills we have learned so far.
+
+## New Concepts
+
+* creativity in using new found skills
+
+## Reviewed Concepts
+
+* any/all
+
 ## Instructions
 
 1. **Setup Environment**
