@@ -25,6 +25,7 @@ Lecture today went deeper into the Flexbox layout technique, introduced another 
 - This will be where most of your experimentation will go for this assignment.
 - Manipulate your generated elements on `index.html` with the Flexbox and CSS Grid properties.
 - A couple examples of things to do could be: create a 3 x 3 grid using the CSS Grid properties, test out manipulating block elements with Flexbox properties, or come up with something you think would be fun to create with these properties.
+- Utilize some of the relative units discussed in class (`em`, `rem`, `vw`, and `vh`). These will help you understand how you can make your webpage responsive to different screen sizes.
 - Refer to your notes from lecture and feel free to see some examples of how to setup the CSS grid can be found at [w3schools - CSS grid](https://www.w3schools.com/css/css_grid.asp).
 
 5.**Expectations**
