@@ -7,7 +7,7 @@ The goal of this assignment is to reinforce **ALL** of the HTML elements and str
 1. **Setup Environment**
 
    - Open **Visual Studio Code**.
-   - Create a new folder named `Day5_Assignment` on your local machine.
+   - Create a new folder named `HTML_Day5_Assignment` on your local machine.
 
 2. **Create Files**
 

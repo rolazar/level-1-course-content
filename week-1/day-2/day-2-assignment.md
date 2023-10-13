@@ -7,7 +7,7 @@ The goal of this assignment is to further reinforce the understanding of HTML el
 1. **Setup Environment**
 
    - Open **Visual Studio Code**.
-   - Create a new folder named `Day2_Assignment` on your local machine.
+   - Create a new folder named `HTML_Day2_Assignment` on your local machine.
 
 2. **Create Files**
 
