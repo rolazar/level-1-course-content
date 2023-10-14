@@ -30,6 +30,8 @@ You made it to the end of week 2! This assignment will test your knowledge of al
     - In the card with the label "Your work" click on the "+ Add or create."
     - Within that dropdown click file, and attach your zipped folder.
     - Click the submit button.
+      **or**
+    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "CSS_Day5_Assignment".
 
 ## Rubric
 

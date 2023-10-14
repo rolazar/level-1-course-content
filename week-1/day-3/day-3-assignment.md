@@ -47,6 +47,8 @@ The goal of this assignment is to reinforce new HTML elements in regards to crea
    - In the card with the label "Your work" click on the "+ Add or create."
    - Within that dropdown click file, and attach your zipped folder.
    - Click the submit button.
+    **or**
+   - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "HTML_Day3_Assignment".
 
 ## Rubric:
 

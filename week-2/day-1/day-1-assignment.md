@@ -11,7 +11,7 @@ The goal of this assignment is to expand off your HTML knowledge from last week 
 
 2. **Create Files**
 
-   - Inside this folder, create 2 files: an HTML file named `index.html` and a CSS file named `table.html`.
+   - Inside this folder, create 2 files: an HTML file named `index.html` and an html file named `table.html`.
 
 3. **Generating index.html structure**
 
@@ -31,10 +31,13 @@ The goal of this assignment is to expand off your HTML knowledge from last week 
       - For your `table.html` file, use the internal styling method to style your table and nav bar. Feel free to add more elements to this page, just make sure all styling is done in your internal stylesheet!
 
 6. **Submission**
+
     - Zip the "CSS_Day1_Assignment" folder.
     - In the card with the label "Your work" click on the "+ Add or create."
     - Within that dropdown click file, and attach your zipped folder.
     - Click the submit button.
+      **or**
+    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "CSS_Day1_Assignment".
 
 ## Rubric
 
