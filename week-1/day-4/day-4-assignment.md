@@ -2,6 +2,25 @@
 
 The goal of this assignment is to reinforce understanding of advanced HTML structures and attributes.
 
+## Overview
+
+Experiment with what you have learned by making a page based on your interests.
+
+Make a website with two pages: index and advanced.
+
+In advanced use these tags `<article>`, `<section>`, `<aside>`, and `<main>` to make a website about any topic you like.
+
+Think about how these tags may affect SEO
+
+## New Concepts
+
+* more sematic HTML tags
+* SEO
+
+## Reviewed Concepts
+
+* anything you have learned so far
+
 ## Instructions
 
 1. **Setup Environment**

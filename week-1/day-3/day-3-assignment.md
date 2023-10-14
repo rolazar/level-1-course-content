@@ -2,6 +2,17 @@
 
 The goal of this assignment is to reinforce new HTML elements in regards to creating a table and inputting information along with the ability to create lists.
 
+## New Concepts
+
+* html tags with structure
+* lists
+* tables
+
+## Reviewed Concepts
+
+* navigation header
+* typographic html tags like h1
+
 ## Instructions
 
 1. **Setup Environment**

@@ -2,6 +2,19 @@
 
 The main goal of this assignment is to familiarize students with the basics of setting up and structuring an HTML document.
 
+## Overview
+
+Make a well structured HTML file.
+
+It should include a body, h1, h2, p tags, and blockquote
+
+It should also include a title. (Note: this is required for HTML validators.)
+
+## New Concepts
+
+* Well formed html files
+* Typographic tags: h1, h2, p, blockquote
+
 ## Steps:
 
 1. **Setup Environment**
