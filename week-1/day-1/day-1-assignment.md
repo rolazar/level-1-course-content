@@ -33,6 +33,8 @@ The main goal of this assignment is to familiarize students with the basics of s
    - In the card with the label "Your work" click on the "+ Add or create."
    - Within that dropdown click file, and attach your zipped folder.
    - Click the submit button.
+   **or**
+   - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "HTML_Day1_Assignment".
 
 ## Rubric:
 

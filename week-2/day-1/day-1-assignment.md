@@ -36,6 +36,8 @@ The goal of this assignment is to expand off your HTML knowledge from last week 
     - In the card with the label "Your work" click on the "+ Add or create."
     - Within that dropdown click file, and attach your zipped folder.
     - Click the submit button.
+      **or**
+    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "CSS_Day1_Assignment".
 
 ## Rubric
 
