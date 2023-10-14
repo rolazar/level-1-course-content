@@ -3,14 +3,17 @@ body{
 }
 
 h1{
-  color: white;
+  color: blue;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   font-size: 50px;
   text-align: center;
   margin-top: 100px;
 }
 
 h2{
-  color: white;
+  color: red;
+  font-family: Arial, Helvetica, sans-serif;
+  text-decoration: underline;
   font-size: 30px;
   text-align: center;
   margin-top: 100px;
@@ -18,6 +21,8 @@ h2{
 
 #first-p{
   color: white;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  border: solid white 2px;
   font-size: 20px;
   text-align: center;
   padding-top: 15px;
@@ -25,13 +30,17 @@ h2{
 
 #second-p{
   color: white;
+  border: solid white 2px;
+  width: fit-content;
   font-size: 20px;
   text-align: center;
+  margin: auto;
   padding-top: 50px;
 }
 
 #third-p{
   color: white;
+  border: solid white 2px;
   font-size: 20px;
   text-align: center;
 }
