@@ -1,1 +1,6 @@
 # Homework for Week 3: Day 2 – Exploring Bootstrap's Grid System and Key Components
+
+## Instructions
+
+
+## Rubric
