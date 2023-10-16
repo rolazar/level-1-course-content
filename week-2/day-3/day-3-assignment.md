@@ -31,6 +31,7 @@ Today you were introduced to CSS positioning/display properties and utilizing ad
 5. **styles.css**
     - As mentioned above each element will need to be manipulated with one of the positioning/display properties.
     - You will be applying CSS positioning to these elements, so you will have 1 with `position: static`, 1 with `position: relative`, 1 with `position: absolute`, 1 with `position: fixed`, and 1 with `position: sticky`.
+    - Ensure you have your live server open as you apply these position properties so you can see how they interact with each other. Change the border color of each element to make it easier to see.
     - The remaining elements will be using the `display` property, so you will have 1 with `display: block`, 1 with `display: inline`, 1 with `display: inline-block`, and 1 with `display: none`.
     - Try setting distinct borders to each element with different colors so you can see how they interact with each other. (Remember to use your class/id selectors to make your life easier!)
     - Feel free to experiment with the Flexbox properties you learned as well, however we will be diving deeper into these tomorrow!
