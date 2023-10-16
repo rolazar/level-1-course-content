@@ -32,7 +32,7 @@ The goal of this assignment is to reinforce new HTML elements in regards to crea
    - Reference back to lecture notes if you need a refresher on how to properly structure a table!
 
 6. **Submission**
-   - Zip the "Day3_Assignment" folder.
+   - Zip the "HTML_Day3_Assignment" folder.
    - In the card with the label "Your work" click on the "+ Add or create."
    - Within that dropdown click file, and attach your zipped folder.
    - Click the submit button.

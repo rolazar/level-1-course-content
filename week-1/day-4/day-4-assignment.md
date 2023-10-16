@@ -29,12 +29,12 @@ The goal of this assignment is to reinforce understanding of advanced HTML struc
    - Understand the use cases and significance of each tag in enhancing accessibility and SEO(search engine optimization).
 
 6. **Submission**
-   - Zip the "Day4_Assignment" folder.
+   - Zip the "HTML_Day4_Assignment" folder.
    - In the card with the label "Your work" click on the "+ Add or create."
    - Within that dropdown click file, and attach your zipped folder.
    - Click the submit button.
     **or**  
-  - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "HTML_Day4_Assignment".
+   - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "HTML_Day4_Assignment".
 
 ## Rubric
 

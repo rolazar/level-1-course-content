@@ -29,7 +29,7 @@ The main goal of this assignment is to familiarize students with the basics of s
    - Ensure everything looks as expected.
 
 5. **Submission**
-   - Zip the "Day1_Assignment" folder.
+   - Zip the "HTML_Day1_Assignment" folder.
    - In the card with the label "Your work" click on the "+ Add or create."
    - Within that dropdown click file, and attach your zipped folder.
    - Click the submit button.

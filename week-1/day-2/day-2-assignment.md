@@ -30,7 +30,7 @@ The goal of this assignment is to further reinforce the understanding of HTML el
    - Ensure that both pages have a navigation bar that links to each other. Test to see that the navigation works.
 
 6. **Submission**
-   - Zip the "Day2_Assignment" folder.
+   - Zip the "HTML_Day2_Assignment" folder.
    - In the card with the label "Your work" click on the "+ Add or create."
    - Within that dropdown click file, and attach your zipped folder.
    - Click the submit button.
