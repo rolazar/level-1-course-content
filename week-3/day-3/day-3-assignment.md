@@ -73,13 +73,13 @@ Assignment for today will be to create a product display page using Bootstrap's 
 ### Content/CSS - /5
 
 - **Fully Achieved - 5 pts**
-  - All content is relevant to the student and is appropriate for the assignment.
+  - All content is relevant to the assignment and is appropriate for the assignment.
   - CSS is used in meaningful ways or attempts were made to experiment with new CSS properties.
 
 - **Partially Achieved - 3 pts**
-  - Some content is relevant to the student and is appropriate for the assignment.
+  - Some content is relevant to the assignment and is appropriate for the assignment.
   - CSS is used in meaningful ways or attempts were made to experiment with new CSS properties.
 
 - **Not Achieved - 0 pts**
-  - The content is not relevant to the student and is not appropriate for the assignment.
+  - The content is not relevant to the assignment and is not appropriate for the assignment.
   - No attempt was made to use CSS in meaningful ways or experiment with new CSS properties.

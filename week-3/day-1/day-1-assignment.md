@@ -60,9 +60,9 @@ Goal of this assignment is get you used to using Bootstrap and to get you thinki
 ### Content - /5
 
 - **Fully Achieved - 5 pts**
-  - All content is relevant to the student and is appropriate for the assignment.
+  - All content is relevant to the assignment and is appropriate for the assignment.
 - **Partially Achieved - 3 pts**  
-  - Some content is relevant to the student and is appropriate for the assignment.
+  - Some content is relevant to the assignment and is appropriate for the assignment.
 - **Not Achieved - 0 pts**
-  - The content is not relevant to the student and is not appropriate for the assignment.
+  - The content is not relevant to the assignment and is not appropriate for the assignment.
 
