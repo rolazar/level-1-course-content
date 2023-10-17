@@ -49,11 +49,13 @@ The goal of this assignment is to reinforce new HTML elements in regards to crea
   - All necessary files are created and correctly named.
   - All necessary elements are included to allow for a user to navigate between the pages.
   - All required `<table>` and `<list>` tags are included. Including their sub elements.
+
 - **Partially Achieved - 3 pts**
   - One or two of the required files are missing or improperly named.
   - One or two of the required elements are missing or improperly placed.
   - One or two of the required `<table>` and `<list>` tags are missing. Including their sub elements.
 - **Not Achieved - 0 pts**
+
   - More than two of the required files are missing or improperly named.
   - More than two of the required elements are missing or improperly placed.
   - More than two of the required `<table>` and `<list>` tags are missing. Including their sub elements.
@@ -63,9 +65,11 @@ The goal of this assignment is to reinforce new HTML elements in regards to crea
 - **Fully Achieved - 5 pts**
   - A list is generated with at least 5 items.
   - The list contains a nested list.
+
 - **Partially Achieved - 3 pts**
   - A list is generated with at least 3 items.
   - There was an attempt at creating a nested list.
+
 - **Not Achieved - 0 pts**
   - A list is not generated with at least 3 items.
   - The list does not contain a nested list.
@@ -75,9 +79,11 @@ The goal of this assignment is to reinforce new HTML elements in regards to crea
 - **Fully Achieved - 5 pts**
   - A table is generated with at least 3 columns and 3 rows.
   - The table contains the appropriate `<table>`, `<tbody>`, `<th>`, `<tr>`, `<td>` and `<tfoot>` tags.
+
 - **Partially Achieved - 3 pts**
   - A table is generated with at least 2 columns and 2 rows.
   - The table contains some of the appropriate `<table>`, `<tbody>`, `<th>`, `<tr>`, `<td>` and `<tfoot>` tags.
+
 - **Not Achieved - 0 pts**
   - A table is not generated with at least 2 columns and 2 rows.
   - The table does not contain any of the appropriate `<table>`, `<tbody>`, `<th>`, `<tr>`, `<td>` and `<tfoot>` tags.
@@ -86,7 +92,9 @@ The goal of this assignment is to reinforce new HTML elements in regards to crea
 
 - **Fully Achieved - 5 pts**
   - All content is relevant to the student and is appropriate for the assignment.
+
 - **Partially Achieved - 3 pts**
   - Some content is relevant to the student and is appropriate for the assignment.
+  
 - **Not Achieved - 0 pts**
   - The content is not relevant to the student and is not appropriate for the assignment.
