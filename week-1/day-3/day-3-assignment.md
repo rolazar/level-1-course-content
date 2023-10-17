@@ -54,8 +54,8 @@ The goal of this assignment is to reinforce new HTML elements in regards to crea
   - One or two of the required files are missing or improperly named.
   - One or two of the required elements are missing or improperly placed.
   - One or two of the required `<table>` and `<list>` tags are missing. Including their sub elements.
+  
 - **Not Achieved - 0 pts**
-
   - More than two of the required files are missing or improperly named.
   - More than two of the required elements are missing or improperly placed.
   - More than two of the required `<table>` and `<list>` tags are missing. Including their sub elements.

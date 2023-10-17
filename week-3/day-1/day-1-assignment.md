@@ -41,9 +41,11 @@ Goal of this assignment is get you used to using Bootstrap and to get you thinki
 - **Fully Achieved - 5 pts**
   - The necessary files are created and correctly named `index.html`.
   - All Bootstrap elements introduced during lecture (ie. buttons, containers, utility classes `p-*` and `m-*`.) are included and used appropriately.
+
 - **Partially Achieved - 3 pts**
   - One or two of the required files are missing or improperly named.
   - Attempt was made to use Bootstrap elements introduced during lecture.
+
 - **Not Achieved - 0 pts**
   - More than two of the required files are missing or improperly named.
   - No attempt was made to use Bootstrap elements introduced during lecture.
@@ -52,8 +54,10 @@ Goal of this assignment is get you used to using Bootstrap and to get you thinki
 
 - **Fully Achieved - 10 pts**
   - Integrated the majority of the Bootstrap elements introduced during lecture appropriately.
+
 - **Partially Achieved - 5 pts**
   - Attempt was made to use the majority of the Bootstrap elements introduced during lecture appropriately.
+
 - **Not Achieved - 0 pts**
   - No attempt was made to use the Bootstrap elements introduced during lecture.
 
@@ -61,8 +65,9 @@ Goal of this assignment is get you used to using Bootstrap and to get you thinki
 
 - **Fully Achieved - 5 pts**
   - All content is relevant to the assignment and is appropriate for the assignment.
+
 - **Partially Achieved - 3 pts**  
   - Some content is relevant to the assignment and is appropriate for the assignment.
+
 - **Not Achieved - 0 pts**
   - The content is not relevant to the assignment and is not appropriate for the assignment.
-
