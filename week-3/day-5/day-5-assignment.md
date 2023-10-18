@@ -18,12 +18,14 @@ This assignment will be the creation of a new site idea like we have previously 
 
     - Ensure you are properly bringing in Bootstrap via instructions from the [documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
     - There is no set structure for this assignment, you are free to create whatever you want. Ensure you have a design idea in place and that it is recognizable as a site.
-    - Try to use as much of the Bootstrap components and utilities as you can. Feel free to mix in HTML elements that you have learned as well.
+    - Try to use as much of the Bootstrap components and utilities as you can. We introduced some components like the modal that have JavaScript, you are NOT obligated to add these at this point, but you can try! It will be beneficial practice as we move into next week.
+    - Feel free to mix in HTML elements that you have learned as well.
 
 4. **styles.css**
 
     - Ensure you have your `styles.css` file linked to your `index.html` file and any additional files you create.
     - Add some styling to your `index.html` file using CSS.
+    - You were introduced to extensions such as Bootswatch and Bootstrap-select. Try to utilize some type of extension to customize your site!
     - Make the page unique to your own style or look up other designs for inspiration.
 
 5. **Submission**
@@ -67,18 +69,22 @@ This assignment will be the creation of a new site idea like we have previously 
   - No attempt was made to use the Bootstrap elements introduced during this week.
   - Site is not recognizable as a site or is not built around an idea.
 
-### Content - /5
+### Styling/Content - /5
 
 - **Fully Achieved - 5 pts**
   - Site is populated with content from either manually created information or images from local/site urls.
   - Site's content is appropriate for the outline of the assignment.
+  - Student attempted to utilize a Bootstrap extension to customize their site.
 
 - **Partially Achieved - 3 pts**
   - Site is populated with content from either manually created information or images from local/site urls.
   - Site's content is not appropriate for the outline of the assignment.
+  - Student attempted to utilize a Bootstrap extension to customize their site.
 
 - **Not Achieved - 0 pts**
   - Site is not populated with content from either manually created information or images from local/site urls.
   - Site's content is not appropriate for the outline of the assignment.
+  - Student did not attempt to utilize a Bootstrap extension to customize their site.
 
-  
+
+
