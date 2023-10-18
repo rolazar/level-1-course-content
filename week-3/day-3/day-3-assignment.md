@@ -16,6 +16,7 @@ Assignment for today will be to create a product display page using Bootstrap's 
 
 3. **index.html Structure**
 
+    - Ensure you are properly bringing in Bootstrap via instructions from the [documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
     - Utilize the [spinner component](https://getbootstrap.com/docs/5.3/components/spinners/) to create a loading page.
     - Utilize the [navbar component](https://getbootstrap.com/docs/5.3/components/navbar/) to create a navigation bar if you have a multi-page site.
     - Utilize the [card components](https://getbootstrap.com/docs/5.3/components/card/) to create a product display page. You can use the [list group](https://getbootstrap.com/docs/5.3/components/card/#list-groups) component to expand on your cards if you want to.

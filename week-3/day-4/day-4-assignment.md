@@ -16,6 +16,7 @@ This assignment is designed to get you used to using Bootstrap's advanced utilit
 
 3. **index.html Structure**
 
+    - Ensure you are properly bringing in Bootstrap via instructions from the [documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
     - The structure of your page can be a build out similar to your product display page from yesterday's assignment.
     - **DO NOT COPY AND PASTE YOUR PREVIOUS CODE** Get the reps in and build it out again, while modifying it to adjust the responsive design from what you have learned today.
     - Utilize new images and content for your products, feel free to use [unsplash.com](https://unsplash.com/) for images if you need them.

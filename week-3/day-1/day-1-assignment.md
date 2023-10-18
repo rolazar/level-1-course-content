@@ -1,6 +1,6 @@
 # Homework for Week 3: Day 1 – Introduction to Bootstrap and Basic Styling
 
-Goal of this assignment is get you used to using Bootstrap and to get you thinking about how to use Bootstrap to style your projects.
+Goal of this assignment is get you used to using Bootstrap and to get you thinking about how to use Bootstrap to style your projects. Ensure you are properly bringing in Bootstrap via instructions from the [documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/) or refer to your notes from class.
 
 ## Instructions
 

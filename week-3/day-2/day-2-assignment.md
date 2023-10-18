@@ -16,6 +16,7 @@ Today's assignment will be testing your ability to generate a grid system using 
 
 3. **index.html Structure**
 
+    - Ensure you are properly bringing in Bootstrap via instructions from the [documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
     - Our goal will be to replicate creating a grid system similar to what we did in class today.
     - You previously built a grid system using CSS, now we will be using Bootstrap to do the same thing.
     - Along with creating a grid system, try out the `alert`, `nav`, and `badge` components.
