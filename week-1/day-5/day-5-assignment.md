@@ -40,7 +40,7 @@ Use all the skills we have learned so far.
    - **Our expectation will be that you will have a minimum of 2 pages linked together and that you tried to use as many of the elements you have learned this week as possible.**
 
 5. **Submission**
-    - Zip the "Day5_Assignment" folder.
+    - Zip the "HTML_Day5_Assignment" folder.
     - In the card with the label "Your work" click on the "+ Add or create."
     - Within that dropdown click file, and attach your zipped folder.
     - Click the submit button.
