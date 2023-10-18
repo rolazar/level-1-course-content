@@ -11,14 +11,15 @@ Goal of this assignment is get you used to using Bootstrap and to get you thinki
 
 2. **Create Files**
 
-    - Create a new file named `index.html`.
-    - We will just be using the `index.html` file for this assignment since we will be bringing in Bootstrap from a CDN.
+    - Create a new file named `index.html` and a `styles.css`.
+    - We will be using the `index.html` file for the majority this assignment since we will be bringing in Bootstrap from a CDN.
+    - You can use the `styles.css` file to add any additional styling you would like to add to your page, but you will need to reference containers for bootstrap and how you can use CSS to style them. [containers](https://getbootstrap.com/docs/5.3/layout/containers/)
 
 3. **index.html Structure**
 
     - Experiment with the Bootstrap classes we learned about in class today.
     - Try the different button classes and their variations, try updating the text within the buttons.
-    - Wrap these buttons in different containers and see how the containers affect the buttons.
+    - Wrap these buttons in different containers and see how the containers affect the buttons when you introduce styling.
     - Feel free to experiment with other Bootstrap classes as well. (We are going into grids, rows, columns and other concepts tomorrow...)
     - You can mix in HTML elements with Bootstrap classes as well. For example, you can have a `<h1>` element with a Bootstrap class around it.
     - Experiment, have some fun, this assignment is less technical and more about getting you used to using Bootstrap.
