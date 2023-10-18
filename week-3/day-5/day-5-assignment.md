@@ -85,6 +85,3 @@ This assignment will be the creation of a new site idea like we have previously 
   - Site is not populated with content from either manually created information or images from local/site urls.
   - Site's content is not appropriate for the outline of the assignment.
   - Student did not attempt to utilize a Bootstrap extension to customize their site.
-
-
-
