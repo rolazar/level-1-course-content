@@ -1,0 +1,1 @@
+# Homework for Week 4: Day 1 – Diving into JavaScript Fundamentals and Variables
