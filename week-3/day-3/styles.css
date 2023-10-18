@@ -5,10 +5,12 @@ body {
 
 .container {
   margin-bottom: 20px;
+  text-align: center;
 }
 
 .container h2 {
   margin-bottom: 10px;
+  text-align: center;
 }
 
 /* Center the card and size the image */
