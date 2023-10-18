@@ -20,7 +20,7 @@ Welcome to the world of JavaScript! Today you learned about the fundamentals of 
     - Generate a generic HTML page, you are not required to bring in any elements.
     - JavaScript runs in the browser, so we need to link our JavaScript file to our HTML file.
     - Ensure you connect your `script.js` file to your `index.html` file. (use a script tag like this `<script src="script.js"></script>`)
-    - You will be utilizing your dev tools to see your console logs you create below! (hint: right click on your page and click inspect, then click on the console tab in case you need a refresher!)
+    - **You will be utilizing your dev tools to see your console logs you create below! (hint: right click on your page and click inspect, then click on the console tab in case you need a refresher!)**
 
 4. **script.js**
 
