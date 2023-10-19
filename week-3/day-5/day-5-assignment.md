@@ -17,7 +17,7 @@ This assignment will be the creation of a new site idea like we have previously 
 3. **index.html Structure**
 
     - Ensure you are properly bringing in Bootstrap via instructions from the [documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/).
-    - There is no set structure for this assignment, you are free to create whatever you want. Ensure you have a design idea in place and that it is recognizable as a site.
+    - There is not set structure for this assignment on what you should build, you could build an expanded portfolio, a blog about something you enjoy, review site of products, it is completely up to you.
     - Try to use as much of the Bootstrap components and utilities as you can. We introduced some components like the modal that have JavaScript, you are NOT obligated to add these at this point, but you can try! It will be beneficial practice as we move into next week.
     - Feel free to mix in HTML elements that you have learned as well.
 

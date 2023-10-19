@@ -1,11 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Document</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <title>Bootstrap Spinner, Card, and List Components</title>
 </head>
+
 <body>
-  
+
+    <!-- Spinners and Loaders -->
+    <div class="container">
+        <h2>Spinners and Loaders</h2>
+        <div class="spinner-grow text-primary" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+        <div class="spinner-border text-secondary" role="status">
+            <span class="sr-only">Loading...</span>
+        </div>
+    </div>
+
+    <!-- List Groups -->
+    <div class="container">
+        <h2>List Groups</h2>
+        <ul class="list-group">
+            <li class="list-group-item">Item 1</li>
+            <li class="list-group-item">Item 2</li>
+            <li class="list-group-item">Item 3</li>
+        </ul>
+    </div>
+
+    <!-- Cards - Bootstrap's Versatile Component -->
+    <div class="container">
+        <h2>Cards - Bootstrap's Versatile Component</h2>
+        <div class="card">
+            <img src="https://images.unsplash.com/photo-1680783954745-3249be59e527?auto=format&fit=crop&q=80&w=1964&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" class="card-img-top" alt="Robot Hand and Human Hand touching">
+            <div class="card-body">
+                <h5 class="card-title">Technology and Humans Meet</h5>
+                <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                <a href="https://unsplash.com/@cashmacanaya" class="btn btn-primary">Artist: Cash Macanaya</a>
+            </div>
+        </div>
+    </div>
+
 </body>
+
 </html>
