@@ -7,7 +7,7 @@ Arrays are an extremely powerful data structure in JavaScript. Today you learned
 1. **Setup Environment**
 
     - Open **Visual Studio Code**.
-    - Create a new folder named `JS_Day2_Assignment` on your local machine.
+    - Create a new folder named `JS_Arrays_Assignment` on your local machine.
 
 2. **Create Files**
 
@@ -39,12 +39,12 @@ Arrays are an extremely powerful data structure in JavaScript. Today you learned
 
 5. **Submission**
 
-    - Zip the "JS_Day2_Assignment" folder.
+    - Zip the "JS_Arrays_Assignment" folder.
     - In the card with the label "Your work" click on the "+ Add or create."
     - Within that dropdown click file, and attach your zipped folder.
     - Click the submit button.
       **or**
-    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "JS_Day2_Assignment".
+    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "JS_Arrays_Assignment".
 
 ## Rubric
 
