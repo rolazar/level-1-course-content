@@ -1,52 +1,47 @@
-# Week 1: Day 4 – Advanced HTML Structures and Deeper into Attributes
+# Week 1: Day 4 – Advanced HTML Structures, Styling with `<style>` Element, and Working with External Images
 
 ## Format: Morning (2 hours)
 
-**Purpose:** Dive into the more advanced aspects of HTML and ensure students have a nuanced understanding of attributes and their significance.
+**Purpose:** Deepen students' understanding of advanced HTML structures, introduce the `<style>` element for page styling, and teach them how to incorporate external resources like images from Unsplash into their projects. 
 
 ---
 
-## Hour 1: Advanced HTML Structures
+## Hour 1: Blog Project Structuring Using Advanced HTML Elements and Introduction to the `<style>` Element
 
-### Deep Dive into Advanced Tags (20 minutes):
+### Introducing the Blog Project (10 minutes):
+- Recap of the significance of semantic HTML in web design and SEO.
+- Introduction to the day's task: structuring a blog-like project live.
 
-- Reiterate the importance of semantic HTML.
-- Explore `<article>`, `<section>`, `<aside>`, and `<main>`.
-- Explain use cases for each and their importance in accessibility and SEO.
+### Live Structuring of a Blog Page and Styling with the `<style>` Element (40 minutes):
+- Construct the foundational layout of the blog using semantic tags: `<main>`, `<article>`, `<header>`, `<section>`, `<aside>`, and `<footer>`.
+- Introduce the `<style>` element to apply global CSS styles to the page and demonstrate how to enhance the blog's appearance.
 
-### Interactive Session on Advanced Structures (25 minutes):
-
-- Students add these advanced structures to their ongoing HTML projects.
-- Task: Reframe a given block of content using these new tags to ensure semantic accuracy.
-
-### Review & Feedback (15 minutes):
-
-- Students share their screens to showcase how they've implemented the new structures.
-- Address nuances, best practices, and answer queries.
+### Hands-on Structuring and Styling Session (10 minutes):
+- Students practice laying out and styling their blog.
+- Encourage real-time questions and provide immediate feedback.
 
 ---
 
-## Hour 2: Delving Deeper into Attributes
+## Hour 2: Enhancing the Blog with External Images and Advanced Attributes
 
-### Understanding the Power of Attributes (20 minutes):
+### Introduction to Unsplash and Image Integration (15 minutes):
+- Guide on how to obtain photos from Unsplash and the importance of attribution.
+- Demonstration on adjusting Unsplash image sizes using the `w` parameter in the URL.
+- Showcase downloading images and embedding them locally in projects.
 
-- Revisit the `id`, `class`, and `style` attributes.
-- Introduce global attributes like `title`, `tabindex`, and `data-*`.
-- Discuss how attributes enhance functionality and aesthetics.
+### Live Demonstration: Creating Clickable Thumbnails (20 minutes):
+- Illustrate the creation of image thumbnails linking to separate HTML files displaying the full-sized image.
+- Employ the `id` attribute and the `<style>` element to set the linked image's width to `100vw`.
 
-### Practical Session on Attributes (20 minutes):
+### A Deep Dive into Selected Attributes (15 minutes):
+- Revisit `id`, `class`, and previously introduced attributes.
+- Introduction to the `title` attribute for tooltips.
+- Explanation of the `data-*` attribute for extra info storage.
 
-- Students apply the discussed attributes to their HTML projects.
-- Task: Style different elements using the `style` attribute, add tooltips using the `title` attribute, and customize data attributes.
+### Interactive Enhancement Session (5 minutes):
+- Students integrate external images and utilize the discussed attributes in their blogs.
 
-### Combining Knowledge (15 minutes):
-
-- A mini-project: Students create a structured content page (e.g., a blog post) using all they've learned.
-  - The page should include headers, lists, tables, links, and advanced structures.
-  - Encourage the use of various attributes for enhanced interactivity and style.
-
-### Wrap-Up (5 minutes):
-
-- Recap the day's content.
-- Encourage students to refine their mini-projects.
-- Teaser for Day 5: Finalizing the HTML badge requirements and introducing forms.
+### Wrap-Up and Transition to Assignment (5 minutes):
+- Summary of the day emphasizing a comprehensive, interactive, and styled blog project.
+- Motivate students to further polish their projects for their assignments.
+- Preview of Day 5: Exploring HTML forms and reinforcing their HTML expertise.
