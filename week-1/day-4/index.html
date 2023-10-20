@@ -1,50 +1,169 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Week One - Day Four</title>
-</head>
-<body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Blog Project</title>
+    <style>
+      body {
+        font-family: Arial, Helvetica, sans-serif;
+        margin: 20;
+        background-color: #f4f4f4;
+      }
 
-<h3>Main</h3>
-  <main>
-    <h4>What is a main?</h4>
-    <p>the main tag specifies the main content of a document</p>
-    <p>there should be only one main element in a document</p>
-  </main>
+      main {
+        background-color: white;
+        padding: 20px;
+        box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+      }
 
-<h3>Article</h3>
+      aside {
+        float: right;
+        width: 30%;
+        padding-left: 20px;
+      }
 
- <article>
-  <h4>What is an article?</h4>
-  <p>the article tag defines an independent, self-contained content</p>
-  <p>such as a blog post, a magazine or newspaper article, or a comment</p>
- </article>
+      section {
+        float: left;
+        width: 65%;
+      }
 
-<h3>Section</h3>
+      footer {
+        clear: both;
+      }
 
-  <section>
-    <h4>What is a section?</h4>
-    <p>the section tag defines a section in a document</p>
-    <p>such as chapters, headers, footers, or any other sections of the document</p>
-  </section>
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin: 20px;
+      }
 
-<h3>Aside</h3>
+      th,
+      td {
+        padding: 10px;
+        text-align: left;
+        border-bottom: 1px solid #ddd;
+      }
+      thead {
+        background-color: #f4f4f4;
+      }
 
-  <aside>
-    <h4>What is an aside?</h4>
-    <p>the aside tag defines content "aside" from the content it is placed in.</p>
-    <p>This means aside content should be INDIRECTLY related to the surround content</p>
-  </aside>
+      tr:hover {
+        background-color: #f5f5f5;
+      }
 
-<!-- ** Notes on tabindex and data-* -->
+      .go-red {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+    <main id="main">
+      <!-- This is a code comment -->
 
-<!-- 
-tabindex: attribute that specifies the tab order of an element when the tab button is used for navigating
+      <article>
+        <header tabindex="0">
+          <h1>Title of the Blog Post</h1>
+          <p>
+            <!-- add date time attribute to store a computer readible version of the date -->
+            Posted on <time datetime="2023-10-28">October 18, 2023</time> by
+            <span style="color: rgb(12, 85, 109)">Author Name</span>
+          </p>
+        </header>
 
-data-*: attribute used to store custom data private to the page or application, this gives us the ability to embed custom data attributes on all HTML elements
- -->
+        <!-- Main content of the article -->
+        <section class="go-red" tabindex="1">
+          <h2>Content Title</h2>
+          <p>
+            This is the main content of the blog post. Its where the bulk of
+            text will reside. The section element helps in representing a
+            standalone section of functionality or content.
+          </p>
+          <p>
+            This section can be multiple paragraphs, images, code snippits, or
+            any relevant content.
+          </p>
+        </section>
+        <section class="go-red" tabindex="2">
+          <a title="A laptop in shadow" href="laptop.html">
+            <!-- https://unsplash.com/photos/gray-and-black-laptop-computer-on-surface-Im7lZjxeLhg?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash -->
+            <img
+              src="https://images.unsplash.com/photo-1531297484001-80022131f5a1?auto=format&fit=crop&q=80&w=200&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              alt="a laptop in shadow"
+            />
+          </a>
 
-</body>
+          <a href="code.html">
+            <!-- https://unsplash.com/photos/turned-on-gray-laptop-computer-XJXWbfSo2f0?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash -->
+            <img
+              title="Some code on a monitor"
+              src="https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?auto=format&fit=crop&q=80&w=200&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+              alt="some code on a monitor"
+            />
+          </a>
+        </section>
+        <!-- Main section of article, containing table -->
+        <section tabindex="3">
+          <h2>Content Title</h2>
+          <p>This is some related content for the table</p>
+          <table>
+            <thead>
+              <tr tabindex="4">
+                <th>Category</th>
+                <th>2019</th>
+                <th>2020</th>
+                <th>2021</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr tabindex="5">
+                <td data-cat="Category 1">Category 1</td>
+                <td data-cell="60">Sixty</td>
+                <td data-cell="70">Seventy</td>
+                <td data-cell="80">Eighty</td>
+              </tr>
+              <tr tabindex="6">
+                <td>Category 2</td>
+                <td>80</td>
+                <td>75</td>
+                <td>30</td>
+              </tr>
+              <!--TODO Insert additional rows -->
+            </tbody>
+            <tfoot>
+              <tr tabindex="7">
+                <td class="go-red">Total</td>
+                <td>1202</td>
+                <td>2212</td>
+                <td>9000</td>
+              </tr>
+            </tfoot>
+          </table>
+          <!-- Summary/Explanation of data -->
+
+          <p>Explanation of table data</p>
+          <p class="go-red">Summary of all the table data</p>
+        </section>
+
+        <!-- Sidebar with related content but not directly related to the main -->
+        <aside tabindex="8">
+          <h2>Related Posts</h2>
+          <nav>
+            <ul>
+              <li>
+                <a href="#">Related topic 1</a>
+              </li>
+              <li>
+                <a href="#">Related topic 2</a>
+              </li>
+            </ul>
+          </nav>
+        </aside>
+
+        <footer class="go-red">
+          <p>Comments, Post-navigation, or Social Media</p>
+        </footer>
+      </article>
+    </main>
+  </body>
 </html>
