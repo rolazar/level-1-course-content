@@ -52,15 +52,15 @@ Today you were introduced to CSS positioning/display properties and utilizing ad
 ### CSS Diner - /10
 
 - **Fully Achieved - 10 pts**
-  - All 32 levels of the game are completed.
+  - First 16 levels of the game are completed.
   - Screenshot of all completed levels is attached to submission.
 
 - **Partially Achieved - 5 pts**
-  - Majority of levels of the game are completed.
+  - Majority of first 16 levels of the game are completed.
   - Screenshot of completed levels is attached to submission.
 
 - **Not Achieved - 0 pts**
-  - Less than half of the levels of the game are completed.
+  - Less than 8 levels of the game are completed.
   - Screenshot of completed levels is not attached to submission.
 
 ### Implementation of CSS - /10
