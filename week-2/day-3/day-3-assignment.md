@@ -16,8 +16,8 @@ Today you were introduced to CSS positioning/display properties and utilizing ad
 
 3. **CSS Diner**
 
-   - Navigate to the [CSS Diner](https://flukeout.github.io/) game.
-   - Complete all 32 levels of the game.
+   - Navigate to the CSS Diner game.  https://flukeout.github.io/
+   - Complete first 16 levels of the game.
    - Take a screenshot of **all the completed levels** and attach it to your submission in the root directory like you did yesterday for your box model screenshot.
    - Utilize the TAs and your classmates if you get stuck! This is a great opportunity to practice your collaboration skills.
 
