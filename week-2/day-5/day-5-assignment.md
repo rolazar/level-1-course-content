@@ -1,4 +1,4 @@
-# Homework for Week 2: Day 5 – Finalizing CSS Concepts, "CSS Diner" Review, and Integrative Project
+# Week 2: Day 5 – Finalizing CSS Concepts, "CSS Diner" Review, and Integrative Project
 
 You made it to the end of week 2! This assignment will test your knowledge of all the CSS concepts you have learned this week. You will be creating a webpage that will be styled using the CSS properties you have learned this week. You will also be using the HTML elements you have learned to structure your page.
 
