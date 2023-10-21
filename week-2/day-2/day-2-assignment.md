@@ -1,4 +1,4 @@
-# Homework for Week 2: Day 2 – Expanding CSS Knowledge: Fonts, Borders, and the Box Model
+# Week 2: Day 2 – Expanding CSS Knowledge: Fonts, Borders, and the Box Model
 
 We are continuing to build on our CSS knowledge from yesterday. Today we will be diving deeper into the box model, text styling, and understanding browser defaults.
 
