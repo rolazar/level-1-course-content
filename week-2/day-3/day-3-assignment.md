@@ -1,4 +1,4 @@
-# Homework for Week 2 Day 3 – Advanced CSS: Positioning, Advanced Selectors, and Layout Introduction
+# Week 2 Day 3 – Advanced CSS: Positioning, Advanced Selectors, and Layout Introduction
 
 Today you were introduced to CSS positioning/display properties and utilizing advanced selectors. This assignment will be broken up into 2 different parts. The first part will be the completion of the [CSS Diner](https://flukeout.github.io/) game which will help with understanding the advanced selectors. The second part will be a small webpage to practice the position and display properties.
 
