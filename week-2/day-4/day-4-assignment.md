@@ -1,4 +1,4 @@
-# Homework for Week 2: Day 4 – Mastering Flexbox, Introduction to CSS Grid, and Responsive Design Basics
+# Week 2: Day 4 – Mastering Flexbox, Introduction to CSS Grid, and Responsive Design Basics
 
 Lecture today went deeper into the Flexbox layout technique, introduced another powerful layout tool (CSS Grid), and laid the foundation for responsive web design. This assignment will encourage you to use the Flexbox properties you learned today as well as introducing the CSS grid properties.
 
