@@ -13,9 +13,13 @@ console.log(numbers[2]); // Access the third element
 
 // Introduce core array methods
 numbers.push(6); // Add an item to the end
+console.log('we added 6 to our numbers array ' + numbers)
 numbers.pop();   // Remove an item from the end
+console.log('we removed 6 from our numbers array ' + numbers)
 numbers.shift(); // Remove the first item
+console.log('we removed the first item from our numbers array ' + numbers)
 numbers.unshift(0); // Add an item to the beginning
+console.log('we added 0 to the beginning of our numbers array ' + numbers)
 
 
 // Elaborate on the length property and others

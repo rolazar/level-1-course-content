@@ -7,7 +7,7 @@ Welcome to the world of JavaScript! Today you learned about the fundamentals of 
 1. **Setup Environment**
 
     - Open **Visual Studio Code**.
-    - Create a new folder named `JS_Day1_Assignment` on your local machine.
+    - Create a new folder named `JS_Variables_Assignment` on your local machine.
 
 2. **Create Files**
 
@@ -37,12 +37,12 @@ Welcome to the world of JavaScript! Today you learned about the fundamentals of 
 
 5. **Submission**
 
-    - Zip the "JS_Day1_Assignment" folder.
+    - Zip the "JS_Variables_Assignment" folder.
     - In the card with the label "Your work" click on the "+ Add or create."
     - Within that dropdown click file, and attach your zipped folder.
     - Click the submit button.
       **or**
-    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "JS_Day1_Assignment".
+    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "JS_Variables_Assignment".
 
 ## Rubric
 
