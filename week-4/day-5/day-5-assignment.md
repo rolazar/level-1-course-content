@@ -35,7 +35,7 @@ This assignment will test your understanding of variables, functions, objects, a
 
   - **Functions**:
     - Create a function named calculatePerimeter that calculates and returns the perimeter of a rectangle. The function should take two parameters, length and width. **if you are unsure of how to find the perimeter of a rectangle, google it!**
-    - Create a function named reverseArray that takes an array as a parameter and returns a new array with the elements reversed. You can use built-in methods or create your own logic.
+    - Create a function named reverseArray that takes an array as a parameter and returns a new array with the elements reversed. You can use built-in methods or create your own logic. **Check the MDN documentation on how to reverse an array, if needed.**
 
 
 4. **Console Logs**
