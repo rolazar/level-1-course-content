@@ -7,11 +7,11 @@ const book = {
     publishedYear: 1925
 };
 
-// Function to print book information
-function printBookInfo(bookObject) {
-    console.log(`Book Title: ${bookObject.title}`);
-    console.log(`Author: ${bookObject.author}`);
-    console.log(`Published Year: ${bookObject.publishedYear}`);
+// Function to print book object information
+function printBookInfo(book) {
+    console.log(`Book Title: ${book.title}`);
+    console.log(`Author: ${book.author}`);
+    console.log(`Published Year: ${book.publishedYear}`);
 }
 
 // Object representing a student's profile

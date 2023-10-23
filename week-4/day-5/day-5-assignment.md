@@ -17,13 +17,13 @@ This assignment will test your understanding of variables, functions, objects, a
 - In the scripts.js file, perform the following tasks:
 
   - **Variables**:
-    - Create a variable called name and assign your name as a string.
+    - Create a variable called firstName and assign your name as a string.
     - Create a variable called age and assign your age as a number.
     - Create a variable called isStudent and assign it a boolean value (true or false).
-    - Generate a console log that concatenates your name, age, and isStudent variables into a string. For example your output should look similar to: "My name is John, I am 30 years old, and my student status is true."
+    - Generate a console log that concatenates your firstName, age, and isStudent variables into a string. For example your output should look similar to: "My name is John, I am 30 years old, and my student status is true."
 
   - **Objects**:
-    - Create an object named person with properties for name, age, and isStudent. Use the variables you defined earlier to populate the object's values.
+    - Create an object named person with properties for firstName, age, and isStudent. Use the variables you defined earlier to populate the object's values.
     - Console log your object to ensure it has the correct properties and values.
 
   - **Arrays**:
