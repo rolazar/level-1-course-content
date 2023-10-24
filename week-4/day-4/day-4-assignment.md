@@ -1,7 +1,8 @@
 # Homework for Week 4: Day 4 – Introduction and Exploration of Objects
 
 In today's lecture, you learned about the fundamentals of objects and how they can be used to structure and group related data in JavaScript. Now it's time to put your knowledge to the test.
-Instructions
+
+## Instructions
 
   1. **Setup Environment**
       - Open Visual Studio Code.
