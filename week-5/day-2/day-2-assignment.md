@@ -31,7 +31,7 @@ Write a brief reflection on your experience with the commit cycle and synchroniz
 
 Submission:
 
-Submit your homework by pushing the committed changes and your reflection to your forked repository on GitHub. Ensure that your changes are clearly visible in your repository, and your synchronization answer is in a text file (e.g., synchronization.txt) and your screenshot is present.
+Submit your homework by pushing the committed changes and your reflection to your forked repository on GitHub. Ensure that your changes are clearly visible in your repository, and your reflect and share answer is in a text file (e.g., synchronization.txt) and your screenshot is present.
 
 After checking to ensure your files were properly pushed to your forked repository, submit the link to your forked repository in the card with the label "Your work", and click on the "+ Add or create" button. Within that dropdown, click "Link," and attach your link. Click the submit button.
 
