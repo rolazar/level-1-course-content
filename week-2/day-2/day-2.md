@@ -8,20 +8,27 @@
 
 ## Hour 1: Text Styling and Font Control
 
-### Text Styling Basics (15 minutes):
+### Linking an External Stylesheet and Introduction to CSS Reset (10 minutes):
+
+- Demonstrate how to link an external stylesheet to an HTML document.
+- Show where to find and how to include a `reset.css` file to normalize browser styles.
+- Explain the benefits of using an external stylesheet for maintainability and performance.
+  
+### Text Styling Basics (10 minutes):
 
 - Discuss properties like `font-size`, `font-weight`, `font-family`, `text-align`, and `line-height`.
 - Demonstrate how these properties impact the text's appearance.
 
-### Custom Fonts and Web Typography (15 minutes):
+### Custom Fonts and Web Typography (10 minutes):
 
 - Introduce web-safe fonts and custom fonts.
 - Show how to import and use fonts from sources like Google Fonts.
 
-### Interactive Session (25 minutes):
 
-- Students experiment with different font styles and custom fonts on their HTML content.
-- Task: Create a visually pleasing block of text using the properties discussed, incorporating a custom font.
+### Interactive Session (20 minutes):
+
+- Students experiment with different font styles, custom fonts, and external stylesheets on their HTML content.
+- Task: Create a visually pleasing block of text using the properties discussed, incorporating a custom font, and utilizing an external stylesheet.
 
 ---
 
