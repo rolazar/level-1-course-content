@@ -4,7 +4,7 @@ You've had an informative morning session learning about the significance of sou
 
 ## Instructions
 
-Part 1: Hands-on Practice (20 minutes)
+Part 1: Hands-on Practice
 
 Now, it's time to extend your hands-on experience with Git.
 
@@ -16,7 +16,7 @@ Now, it's time to extend your hands-on experience with Git.
 
     Add and commit changes: After completing your questions in part 2, stage your changes and commit them with a meaningful commit message. Push your changes to your remote repository.
 
-Part 2: Reflection (10 minutes)
+Part 2: Reflection
 
 Please answer the following questions in a well-structured paragraph(utilize your markdown file named `reflections.md` and answer these 2 questions):
 
