@@ -1,6 +1,6 @@
 # Week 2: Day 3 – Advanced CSS: Positioning, Advanced Selectors, and Layout Introduction
 
-## Format: Morning (2 hours)
+## Format: (2 hours) + 1 Hour workshop
 
 **Purpose:** Delve into the intricacies of CSS positioning, explore advanced selectors, start introducing basic layout techniques, and assign an engaging game for practical application.
 
