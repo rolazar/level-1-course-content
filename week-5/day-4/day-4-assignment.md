@@ -18,7 +18,7 @@ Part 2: Continuous Deployment Practice
 
     Commit and Push: Commit your changes and push them to your repository on GitHub.
 
-    Observe Live Update: Visit your live website URL and observe how the changes are automatically reflected without any manual intervention. Take a screenshot of the updated webpage.
+    Observe Live Update: Visit your live website URL and observe how the changes are automatically reflected without any manual intervention. Take a screenshot of the updated webpage and add it to your file directory.
 
 Part 3: Best Practices and Custom Domain
 
@@ -31,3 +31,11 @@ Part 3: Best Practices and Custom Domain
 Submission:
 
 Submit your homework by pushing any changes made to your repository and your documentation file (e.g., workflow.txt) to your GitHub repository. Ensure that your updated website is accessible and that your documentation file provides insights into your experience.
+
+After checking to ensure your files were properly pushed to your forked repository, submit the link to your forked repository in the card with the label "Your work", and click on the "+ Add or create" button. Within that dropdown, click "Link," and attach your link. Click the submit button.
+
+# Rubric
+
+## Day 4 Introduction to GitHub Pages and Static Site Deployment - /20
+
+### Deploy Your Website - /10
