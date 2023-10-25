@@ -4,7 +4,7 @@ Instructions:
 
 Following the in-depth lecture on Git branches and the merging process, it's time to put your knowledge into practice and prepare for the next class session.
 
-Part 1: Branching Mastery 
+Part 1: Branching Mastery
 
     Create a Feature Branch: In your forked and cloned repository, create a new branch named "feature-yourname" where "yourname" is your own name or a chosen identifier.
 
