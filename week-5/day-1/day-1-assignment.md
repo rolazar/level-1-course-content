@@ -30,9 +30,9 @@ Please submit your homework by pushing the changes to your forked repository on 
 
 After checking to ensure your files were properly pushed to your forked repository, submit the **link** to your forked repository in the card with the label "Your work", and click on the "+ Add or create" button. Within that dropdown, click "Link," and attach your link. Click the submit button.
 
-## Rubric
+# Rubric
 
-# Day 1 Introduction to Git and Basic Concepts - /20
+## Day 1 Introduction to Git and Basic Concepts - /20
 
 ### Hands-on Practice - /10
 

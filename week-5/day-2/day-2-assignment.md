@@ -37,9 +37,9 @@ After checking to ensure your files were properly pushed to your forked reposito
 
 In the next class (Day 3), we will discuss any challenges faced during the synchronization process and dive deeper into collaboration using Git. Be ready to share your experiences!
 
-## Rubric
+# Rubric
 
-# Day 2 Deep Dive into Git: Cloning, Committing, and Syncing Changes - /20
+## Day 2 Deep Dive into Git: Cloning, Committing, and Syncing Changes - /20
 
 ### Commit Cycle Mastery - /10
 
