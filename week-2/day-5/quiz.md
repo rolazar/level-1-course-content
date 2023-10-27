@@ -96,25 +96,25 @@
 - [ ] Inside the `<head>` section only
 - [x] All of the above
 
-#### Question 17 (Revised): What does RGB stand for in terms of color properties in CSS?
+#### Question 17: What does RGB stand for in terms of color properties in CSS?
 - [x] Red, Green, Blue
 - [ ] Really Great Build
 - [ ] Rapid Graphical Browser
 - [ ] Righteous Grid Blocks
 
-#### Question 18 (New): What property would you use to add space around an element inside of the defined borders?
+#### Question 18: What property would you use to add space around an element inside of the defined borders?
 - [x] `padding`
 - [ ] `margin`
 - [ ] `border`
 - [ ] `spacing`
 
-#### Question 19 (New): How can you select every `<p>` element that is a direct child of a `<div>`?
+#### Question 19: How can you select every `<p>` element that is a direct child of a `<div>`?
 - [ ] `div + p`
 - [ ] `div p`
 - [x] `div > p`
 - [ ] `p > div`
 
-#### Question 20 (New): What is the purpose of a pseudo-class in CSS?
+#### Question 20: What is the purpose of a pseudo-class in CSS?
 - [ ] To hide classes in the stylesheet
 - [ ] To target a specific element in JavaScript
 - [ ] To define a false class for debugging
