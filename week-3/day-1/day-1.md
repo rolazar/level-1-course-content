@@ -1,6 +1,6 @@
 # Week 3: Day 1 – Introduction to Bootstrap and Basic Styling
 
-## Format: Morning (2 hours)
+## Format: (2 hours)
 
 **Purpose:** Introduce students to the Bootstrap framework, highlight its utility in front-end web development, and delve into basic styling techniques.
 
