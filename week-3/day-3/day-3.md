@@ -8,46 +8,48 @@
 
 ## Hour 1: Exploring More Bootstrap Components
 
-### Spinners and Loaders (15 minutes):
+### Breadcrumbs (15 minutes):
 
-- Introduce Bootstrap's `spinner` component, explaining its significance in UX for indicating loading or processing states.
-- Showcase different types of spinners: growing, border, and colors.
+- Introduce Bootstrap's `breadcrumb` component, explaining its role in enhancing navigation and user experience.
+- Demonstrate how to implement a breadcrumb trail and discuss best practices.
 
-### List Groups (15 minutes):
+### Pagination (15 minutes):
 
-- Discuss the utility of `list-group` for creating lists with flexible styles.
-- Demonstrate variations: actionable items, badges within list groups, and color variations.
+- Explore the `pagination` component for navigating through large datasets or lists.
+- Showcase different styles, sizes, and configurations, emphasizing usability.
 
-### Cards - Bootstrap's Versatile Component (25 minutes):
+### Tooltips and Popovers (25 minutes):
 
-- Introduce the `card` component as a widely-used element for displaying content in a structured manner.
-- Showcase different parts of a card: headers, footers, image overlays, and horizontal variants.
+- Introduce `tooltips` and `popovers` for providing additional information and context to users.
+- Show how to implement them, discuss when to use each, and highlight the importance of accessibility.
 
 ### Interactive Session (5 minutes):
 
-- Students begin experimenting with spinners, list groups, and cards, incorporating them into their projects.
-- Prompt: Create a card-based layout to display a collection of items, each with an image, title, description, and action buttons.
+- Students experiment with implementing breadcrumbs, pagination, tooltips, and popovers in their projects.
+- Prompt: Enhance a list or data-heavy section of your project using pagination and provide additional context using tooltips or popovers.
 
 ---
 
 ## Hour 2: Integrating Components and Refining Design
 
-### Design Review (20 minutes):
+### Creating a Featured Section with Media Object (20 minutes):
 
-- Discuss common design patterns using Bootstrap: hero sections, feature grids, and footers.
-- Emphasize the importance of consistency in design, leveraging Bootstrap's built-in themes.
+- Introduce the `media object` component as a versatile tool for creating featured content sections.
+- Demonstrate how to structure content within media objects and integrate them into your layout.
 
 ### Hands-on Project Work (30 minutes):
 
-- Students work on integrating the components learned so far into a cohesive web page or refining their existing projects.
-- Encourage collaboration: students can pair up, share ideas, and help each other troubleshoot issues.
+- Continue integrating and experimenting with Bootstrap components in practical scenarios.
+- Encourage collaboration and experimentation, fostering a creative learning environment.
 
 ### Group Feedback and Showcase (5 minutes):
 
-- A few students volunteer to showcase what they've built, highlighting any unique design decisions or challenges they overcame.
-- Provide constructive feedback and celebrate innovative implementations.
+- Facilitate a session where students can share their progress, discuss challenges, and receive feedback.
+- Highlight unique implementations and creative solutions, fostering a supportive learning community.
 
 ### Wrap-Up (5 minutes):
 
-- Recap the day's dive into Bootstrap's diverse components and the importance of design cohesion.
-- Preview Day 4's content: Delving into advanced Bootstrap topics, customizing Bootstrap, and exploring utilities for spacing, visibility, and more.
+- Recap the importance of navigation, user feedback, and featured content in web design.
+- Preview Day 4, setting the stage for diving into advanced Bootstrap topics and customization.
+
+---
