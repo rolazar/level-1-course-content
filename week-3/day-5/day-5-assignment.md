@@ -1,4 +1,4 @@
-# Homework for Week 3: Day 5 – Project Finalization, Best Practices, and Beyond
+# Week 3: Day 5 – Project Finalization, Best Practices, and Beyond
 
 This assignment will be the creation of a new site idea like we have previously done with the products page. This time you will be creating a site that is unique to you and your interests. This site can be anything you want it to be. Utilize [unsplash.com](https://unsplash.com/) for images if you need them. Some ideas you could create are: a writer's blog, a personal site, a recipe sharing site, a travel blog, or anything else you want.
 
