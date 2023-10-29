@@ -26,12 +26,14 @@ Welcome to Week 3, where our web designs come to life with the power and conveni
 ### Day 3: **Diving Deeper into Bootstrap Components and Practical Applications**
 
 - **Key Topics:**
-  - Exploration of additional Bootstrap components: spinners, list groups, and cards.
-  - Deepening understanding through real-world application and design considerations.
+  - Exploration and practical application of various Bootstrap components including breadcrumb, pagination, tooltips, popovers, media objects, and cards.
+  - Advanced design considerations for creating a user-friendly and aesthetically pleasing web interface.
 - **Hands-on Activity:**
-  - Students work on integrating new components and refining their designs.
+  - Students will create a product display page, employing a range of Bootstrap components to enhance both functionality and design aesthetics.
+  - Focus on refining design elements and experimenting with advanced Bootstrap features to achieve a cohesive and visually appealing user experience.
 
 ---
+
 
 ### Day 4: **Advanced Bootstrap Topics, Customization, and Utilities**
 
