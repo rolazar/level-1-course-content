@@ -1,4 +1,4 @@
-# Homework for week 3: day 4 – Advanced Bootstrap Topics, Customization, and Utilities
+# Week 3: day 4 – Advanced Bootstrap Topics, Customization, and Utilities
 
 This assignment is designed to get you used to using Bootstrap's advanced utilities, explore customization options, and enable you to create unique and personalized designs.
 
