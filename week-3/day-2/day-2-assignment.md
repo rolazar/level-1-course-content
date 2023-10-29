@@ -1,4 +1,4 @@
-# Homework for Week 3: Day 2 – Exploring Bootstrap's Grid System and Key Components
+# Week 3: Day 2 – Exploring Bootstrap's Grid System and Key Components
 
 Today's assignment will be testing your ability to generate a grid system using Bootstrap and to use some of the key components we learned about in class today.
 
