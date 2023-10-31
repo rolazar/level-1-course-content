@@ -1,6 +1,6 @@
 # Week 3: Day 2 – Exploring Bootstrap's Grid System and Key Components
 
-## Format: Morning (2 hours)
+## Format:(2 hours)
 
 **Purpose:** Dive deeper into the grid system, which is fundamental to Bootstrap's layout capabilities, and explore some of the framework's key components.
 
