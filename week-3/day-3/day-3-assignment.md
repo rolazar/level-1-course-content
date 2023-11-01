@@ -1,16 +1,36 @@
-Assignment: Create a product display page using Bootstrap's components and utilities, focusing on a product card layout using the Bootstrap Grid system.Instructions
-Open VS Code
-Create a new folder named Bootstrap_Day3_Assignment.
-Create a new file named index.html.
-Create a new file named styles.css.
-Link Bootstrap CSS using the official BootstrapCDN.
-Ensure your styles.css file is properly linked.
-Implement the breadcrumb component to enhance site navigation.
-Utilize the pagination component if needed.
-Add tooltips and popovers for additional information on products.
-Create a product display using Bootstrap’s Grid system along with a card. It should contain and image, and some text describing the product 
-Add additional styling to complement the Bootstrap styles and make your product cards stand out.
-Zip the "Bootstrap_Day3_Assignment" folder and submit it as per your course’s submission guidelines.
+# Assignment: Create a Product Display Page using Bootstrap
+
+## Instructions
+
+### 1. Setup Environment
+   - Open Visual Studio Code.
+   - Create a new folder named `Bootstrap_Day3_Assignment`.
+
+### 2. Create Files
+   - Inside the `Bootstrap_Day3_Assignment` folder, create a new file named `index.html`.
+   - Create another new file named `styles.css`.
+
+### 3. Implement Bootstrap and Styling
+   - Link Bootstrap's CSS in your `index.html` using the official BootstrapCDN.
+   - Ensure your `styles.css` file is properly linked in your `index.html` file.
+
+### 4. Structure Your Page
+   - Implement the breadcrumb component to enhance site navigation.
+   - Utilize the pagination component if needed.
+   - Add tooltips and popovers to provide additional information on products.
+
+### 5. Create Product Display
+   - Using Bootstrap’s Grid system, create a product display layout.
+   - Incorporate card components into your layout. Each card should contain:
+     - An image
+     - Some text describing the product
+   - Add additional styling in `styles.css` to complement Bootstrap's styles and make your product cards stand out.
+
+### 6. Finalize and Submit
+   - Once you've completed your product display page, save your changes.
+   - Zip the "Bootstrap_Day3_Assignment" folder.
+   - Submit the zipped folder as per your course’s submission guidelines.
+
 
 ## Rubric
 
