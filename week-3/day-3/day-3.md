@@ -32,10 +32,17 @@
 
 ## Hour 2: Integrating Components and Refining Design
 
-### Creating a Featured Section with Media Object (20 minutes):
+### Creating a Featured Section with Cards and Grid System (20 minutes):
 
-- Introduce the `media object` component as a versatile tool for creating featured content sections.
-- Demonstrate how to structure content within media objects and integrate them into your layout.
+- Introduce the concept of Cards in Bootstrap as a flexible and extensible content container.
+- Explain that Cards support a wide variety of content, including text, images, links, and more.
+- Highlight that the Bootstrap Grid system allows you to create responsive layouts, making your card-based design adapt seamlessly to different screen sizes.
+- Showcase how to combine Cards and the Grid system to create a featured content section on your website.
+- Provide an example of how to structure the HTML to implement a grid of cards, paying attention to the use of classes such as `row`, `col-md-4`, and `card`.
+- Discuss best practices for creating visually appealing and user-friendly card layouts.
+- Encourage students to experiment with different types of content inside the cards, such as images, text, buttons, and links.
+- Highlight the importance of consistency in card design to provide a cohesive user experience.
+
 
 ### Hands-on Project Work (30 minutes):
 
