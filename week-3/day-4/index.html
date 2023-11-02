@@ -131,6 +131,35 @@
     </div>
 </div>
 
+<!-- Container for images -->
+<div class="d-flex flex-wrap justify-content-around">
+  <!-- object-fit-contain -->
+  <div class="p-2">
+    <img src="https://source.unsplash.com/random/200x200/?tech" class="object-fit-contain border rounded" alt="Object Fit Contain">
+    <!-- This will scale the image to maintain its aspect ratio while fitting within the element's content box. The entire object will be visible. -->
+  </div>
+  
+  <!-- object-fit-cover -->
+  <div class="p-2">
+    <img src="https://source.unsplash.com/random/200x200/?technology" class="object-fit-cover border rounded" alt="Object Fit Cover">
+    <!-- This will scale the image to maintain its aspect ratio while filling the element's entire content box. The object will be clipped to fit. -->
+  </div>
+  
+  <!-- object-fit-fill -->
+  <div class="p-2">
+    <img src="https://source.unsplash.com/random/200x200/?gadget" class="object-fit-fill border rounded" alt="Object Fit Fill">
+    <!-- This will stretch the image to fit the content box, regardless of its aspect-ratio. -->
+  </div>
+
+  <!-- object-fit-scale does not exist in standard CSS. If you have a custom implementation, you can demonstrate it here. Otherwise, the standard property that might have been meant is 'scale-down'. -->
+  
+  <!-- object-fit-none -->
+  <div class="p-2">
+    <img src="https://source.unsplash.com/random/200x200/?electronics" class="object-fit-none border rounded" alt="Object Fit None">
+    <!-- This will display the image at its actual size, ignoring the size of the containing box. -->
+  </div>
+</div>
+
 
     <!-- Link to Bootstrap JS for interactive components -->
     <script src="path_to_bootstrap_js"></script>
