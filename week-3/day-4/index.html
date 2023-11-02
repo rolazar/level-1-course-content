@@ -1,66 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="styles.css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <title>Bootstrap Utility Classes</title>
+    <title>Bootstrap Utilities and Customization Class</title>
+    <!-- Ensure to link the Bootstrap CSS file -->
+    <link rel="stylesheet" href="path_to_your_bootstrap_css_file.css">
+    <!-- Add your custom styles here -->
+    <style>
+        /* DO THIS IN CSS FILE */
+        /* Custom background color for demonstration */
+        .custom-bg {
+            background-color: #4e342e; /* Earthy brown tone */
+        }
+        /* Custom button styling */
+        .custom-btn {
+            background-color: #6f4e37; /* Coffee brown */
+            border: none;
+            color: white;
+        }
+        /* Custom alert style */
+        .custom-alert {
+            background-color: #fff3cd;
+            border-left: 4px solid #ffeeba;
+        }
+        /* This is where you can add more custom styles */
+    </style>
 </head>
-
 <body>
 
-   
-  <!-- The container class is a responsive fixed width container, a fundamental part of the Bootstrap grid system -->
-  <div class="container mt-4">
-    
-    <!-- Demonstrating background utility: .bg-light adds a light background color to the div -->
-    <div class="bg-light p-3 mb-3">
-      <!-- Instructor Note: Explain how utility classes can be quickly used to style elements without writing custom CSS -->
-      <p class="mb-0">This div has a light background color using the .bg-light utility.</p>
-    </div>
+<!-- Example of Utility Classes for Spacing -->
+<!-- Add comments on what each class does to explain to your students -->
+<!-- mx-auto centers the container, my-5 adds vertical margins -->
+<div class="container mx-auto my-5">
+    <h1>Bootstrap Advanced Utilities and Customization</h1>
+    <p class="mt-3">
+        <!-- mt-3 adds a margin-top of spacing 3 -->
+        Here we see an example of vertical spacing using Bootstrap's utility classes.
+    </p>
+</div>
 
-    <!-- Demonstrating text utilities: .text-center centers the text, .text-primary changes the text color -->
-    <div class="text-center text-primary mb-3">
-      <!-- Instructor Note: Highlight how text utilities help in aligning and coloring text content easily -->
-      <p class="mb-0">This text is centered and has a primary color using .text-center and .text-primary utilities.</p>
-    </div>
+<!-- Customizing Components with CSS -->
+<!-- Walk through the process of customizing standard Bootstrap components -->
+<!-- Start with a standard Navbar component -->
+<nav class="navbar navbar-expand-lg custom-bg">
+    <!-- Custom background color is applied using the custom-bg class -->
+    <a class="navbar-brand text-white" href="#">Brand</a>
+    <!-- Text color is changed to white for contrast against the custom background -->
+    <!-- More navbar content goes here -->
+</nav>
 
-    <!-- Demonstrating spacing utilities: .m-3 adds margin, .p-3 adds padding -->
-    <div class="m-3 p-3 border mb-3">
-      <!-- Instructor Note: Discuss the spacing scale in Bootstrap and how it helps maintain consistent spacing -->
-      <p class="mb-0">This div has margin and padding of 3 spaces using .m-3 and .p-3 utilities.</p>
-    </div>
+<!-- Responsive Utilities and Display example -->
+<!-- Explain how Bootstrap's display utilities control visibility across different screen sizes -->
+<div class="d-none d-lg-block">
+    <!-- This div will only be visible on large screens and above -->
+    This content is visible only on large screens.
+</div>
 
-    <!-- Demonstrating border and corner rounding utilities -->
-    <div class="border rounded-3 p-3 mb-3">
-      <!-- Instructor Note: Explain how border utilities can be used to add or remove borders and round corners -->
-      <p class="mb-0">This div has a border and rounded corners using .border and .rounded-3 utilities.</p>
-    </div>
+<!-- Custom Button -->
+<!-- Show how to override Bootstrap's default styles -->
+<button class="btn custom-btn my-2">
+    <!-- The custom-btn class applies our custom styles -->
+    Custom Button
+</button>
 
-    <!-- Demonstrating display utilities: .d-none hides the element, .d-md-block shows it on medium screens and up -->
-    <div class="d-none d-md-block bg-secondary p-3 mb-3">
-      <!-- Instructor Note: Talk about responsive utilities and how they help in creating responsive designs -->
-      <p class="mb-0">This div is hidden on small screens and visible on medium screens and up using .d-none and .d-md-block utilities.</p>
-    </div>
+<!-- Custom Alert Style -->
+<!-- Discuss the importance of consistent UI feedback through alerts -->
+<div class="alert custom-alert" role="alert">
+    <!-- The custom-alert class changes the default look to align with a brand -->
+    This is a custom alert!
+</div>
 
-    <!-- Demonstrating flex utilities: aligning items in a flex container -->
-    <div class="d-flex justify-content-between align-items-center bg-info p-3 mb-3">
-      <!-- Instructor Note: Discuss the flexbox model and how it simplifies layout design and alignment -->
-      <div>Start</div>
-      <div>Center</div>
-      <div>End</div>
-    </div>
+<!-- Add more examples as needed, using comments as teaching notes -->
 
-    <!-- Demonstrating position utilities: fixing an element's position to the bottom right corner -->
-    <div class="position-fixed bottom-0 end-0 p-3 bg-warning">
-      <!-- Instructor Note: Highlight how position utilities can be used for creating sticky footers, navigation, etc. -->
-      <p class="mb-0">This div is fixed to the bottom right corner using .position-fixed, .bottom-0, and .end-0 utilities.</p>
-    </div>
-
-  </div>
-
+<!-- Don't forget to link the Bootstrap JS file if you're going to demonstrate interactive components -->
+<script src="path_to_your_bootstrap_js_file.js"></script>
 </body>
-
 </html>
