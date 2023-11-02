@@ -3,77 +3,112 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Bootstrap Utilities and Customization Class</title>
-    <!-- Ensure to link the Bootstrap CSS file -->
-    <link rel="stylesheet" href="path_to_your_bootstrap_css_file.css">
-    <!-- Add your custom styles here -->
+    <title>Bootstrap Utilities and Customization Workshop</title>
+    <!-- Ensure you have Bootstrap CSS linked here -->
+    <link rel="stylesheet" href="path_to_bootstrap_css">
+    <!-- Custom CSS styles -->
     <style>
-        /* DO THIS IN CSS FILE */
-        /* Custom background color for demonstration */
+        /* Add custom styles after Bootstrap to override default properties */
         .custom-bg {
-            background-color: #4e342e; /* Earthy brown tone */
+            background-color: #4e342e; /* Example of overriding background-color for a darker shade */
         }
-        /* Custom button styling */
         .custom-btn {
-            background-color: #6f4e37; /* Coffee brown */
+            background-color: #6f4e37; /* Custom button color */
             border: none;
             color: white;
+            /* You can also add hover effects */
+            transition: background-color 0.2s; /* Smooth transition for hover effect */
         }
-        /* Custom alert style */
+        .custom-btn:hover {
+            background-color: #5d4037; /* Darken button color on hover */
+        }
         .custom-alert {
             background-color: #fff3cd;
             border-left: 4px solid #ffeeba;
+            /* Adding some custom padding */
+            padding: 0.75rem 1.25rem;
         }
-        /* This is where you can add more custom styles */
+        /* This is where you would add more customizations as needed */
     </style>
 </head>
 <body>
 
-<!-- Example of Utility Classes for Spacing -->
-<!-- Add comments on what each class does to explain to your students -->
-<!-- mx-auto centers the container, my-5 adds vertical margins -->
-<div class="container mx-auto my-5">
-    <h1>Bootstrap Advanced Utilities and Customization</h1>
-    <p class="mt-3">
-        <!-- mt-3 adds a margin-top of spacing 3 -->
-        Here we see an example of vertical spacing using Bootstrap's utility classes.
+<!-- Container for content -->
+<div class="container my-5">
+    <!-- Header for the section -->
+    <h1 class="text-center mb-4">Bootstrap Utility Classes and Custom Styles</h1>
+
+    <!-- Example: Using spacing utilities -->
+    <p class="mb-3">
+        <!-- mb-3 adds a margin-bottom of 1rem (16px if base font-size is 16px) -->
+        Bootstrap provides powerful spacing utilities. We can apply margin and padding to any side of an element using classes like 'mt-3' for margin-top, or 'px-4' for padding on the left and right (the X-axis).
     </p>
-</div>
 
-<!-- Customizing Components with CSS -->
-<!-- Walk through the process of customizing standard Bootstrap components -->
-<!-- Start with a standard Navbar component -->
-<nav class="navbar navbar-expand-lg custom-bg">
-    <!-- Custom background color is applied using the custom-bg class -->
-    <a class="navbar-brand text-white" href="#">Brand</a>
-    <!-- Text color is changed to white for contrast against the custom background -->
-    <!-- More navbar content goes here -->
-</nav>
+    <!-- Example: Text alignment and color utilities -->
+    <p class="text-center text-primary">
+        <!-- text-center centers the text, text-primary applies the primary theme color -->
+        Text alignment and color can be controlled easily with Bootstrap's text utility classes.
+    </p>
 
-<!-- Responsive Utilities and Display example -->
-<!-- Explain how Bootstrap's display utilities control visibility across different screen sizes -->
-<div class="d-none d-lg-block">
-    <!-- This div will only be visible on large screens and above -->
-    This content is visible only on large screens.
-</div>
+    <!-- Example: Display property utilities for responsiveness -->
+    <div class="d-none d-md-block">
+        <!-- This div will be displayed on medium (md) or larger screens, hidden on small screens -->
+        This content is hidden on small screens and only visible on medium or larger devices.
+    </div>
 
-<!-- Custom Button -->
-<!-- Show how to override Bootstrap's default styles -->
-<button class="btn custom-btn my-2">
-    <!-- The custom-btn class applies our custom styles -->
-    Custom Button
-</button>
+    <!-- Example: Flex utilities -->
+    <div class="d-flex justify-content-between align-items-center my-2">
+        <!-- d-flex enables flexbox, justify-content-between spaces out children, and align-items-center vertically aligns them -->
+        <div>Flex Item 1</div>
+        <div>Flex Item 2</div>
+        <div>Flex Item 3</div>
+    </div>
 
-<!-- Custom Alert Style -->
-<!-- Discuss the importance of consistent UI feedback through alerts -->
-<div class="alert custom-alert" role="alert">
-    <!-- The custom-alert class changes the default look to align with a brand -->
-    This is a custom alert!
-</div>
+    <!-- Example: Border and Color utilities -->
+    <div class="border rounded text-secondary p-3 my-2">
+        <!-- border adds a border, rounded rounds the corners, text-secondary applies secondary text color, p-3 adds padding on all sides -->
+        Borders and rounded corners enhance the visual appeal. The 'rounded' class is very handy for creating pill-shaped elements like tags and buttons.
+    </div>
 
-<!-- Add more examples as needed, using comments as teaching notes -->
+    <!-- Navbar with custom background -->
+    <nav class="navbar navbar-expand-lg custom-bg mb-4">
+        <a class="navbar-brand text-white" href="#">Your Brand</a>
+        <!-- Rest of navbar content -->
+    </nav>
 
-<!-- Don't forget to link the Bootstrap JS file if you're going to demonstrate interactive components -->
-<script src="path_to_your_bootstrap_js_file.js"></script>
+    <!-- Custom Button -->
+    <button class="btn custom-btn mb-2">
+        Click Me
+    </button>
+
+    <!-- Custom Alert -->
+    <div class="alert custom-alert" role="alert">
+        Pay attention to this custom-styled alert!
+    </div>
+
+    <!-- More complex example: combining utilities for a card layout -->
+    <div class="card mb-3" style="max-width: 540px;">
+        <div class="row no-gutters">
+            <div class="col-md-4">
+                <img src="your_image_path.jpg" class="card-img" alt="...">
+                <!-- Explain how 'card-img' is used with Bootstrap cards for images -->
+            </div>
+            <div class="col-md-8">
+                <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+                    <p class="card-text">
+                        <small class="text-muted">Last updated 3 mins ago</small>
+                        <!-- text-muted applies a light gray color indicating secondary information -->
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- More utility examples and teaching notes can be added here -->
+
+    <!-- Link to Bootstrap JS for interactive components -->
+    <script src="path_to_bootstrap_js"></script>
 </body>
 </html>
