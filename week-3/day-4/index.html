@@ -106,7 +106,31 @@
         </div>
     </div>
 
-    <!-- More utility examples and teaching notes can be added here -->
+<!--  Same as above, but using d-flex to do the same layout -->
+<div class="card mb-3 d-flex flex-row" style="max-width: 540px;">
+    <!-- Use d-flex and flex-row to create a horizontal layout -->
+    
+    <!-- Flex item for the image -->
+    <div class="flex-fill">
+        <!-- flex-fill will make sure the image takes the space it needs -->
+        <img src="your_image_path.jpg" class="card-img" alt="...">
+        <!-- Explain how 'card-img' is used with Bootstrap cards for images -->
+    </div>
+    
+    <!-- Flex item for the card body -->
+    <div class="flex-grow-1">
+        <!-- flex-grow-1 allows the card body to take up the remaining space -->
+        <div class="card-body">
+            <h5 class="card-title">Card title</h5>
+            <p class="card-text">This is a wider card with supporting text below as a natural lead-in to additional content.</p>
+            <p class="card-text">
+                <small class="text-muted">Last updated 3 mins ago</small>
+                <!-- text-muted applies a light gray color indicating secondary information -->
+            </p>
+        </div>
+    </div>
+</div>
+
 
     <!-- Link to Bootstrap JS for interactive components -->
     <script src="path_to_bootstrap_js"></script>
