@@ -11,40 +11,55 @@
 
 <body>
 
-    <!-- Bootstrap's Utility Classes -->
-    <div class="container">
-        <h2>Bootstrap's Utility Classes</h2>
-        <div class="d-none">This content is hidden on all devices.</div>
-        <div class="mt-3 mb-3">This content has top and bottom margin.</div>
-        <div class="border p-3">This content has a border and padding.</div>
-        <button class="btn btn-primary">Button</button>
-        <button class="btn btn-danger ml-2">Button</button>
+   
+  <!-- The container class is a responsive fixed width container, a fundamental part of the Bootstrap grid system -->
+  <div class="container mt-4">
+    
+    <!-- Demonstrating background utility: .bg-light adds a light background color to the div -->
+    <div class="bg-light p-3 mb-3">
+      <!-- Instructor Note: Explain how utility classes can be quickly used to style elements without writing custom CSS -->
+      <p class="mb-0">This div has a light background color using the .bg-light utility.</p>
     </div>
 
-    <!-- Customizing Bootstrap -->
-    <div class="container">
-        <h2>Customizing Bootstrap</h2>
-        <p>Bootstrap allows customization through variables and build tools.</p>
+    <!-- Demonstrating text utilities: .text-center centers the text, .text-primary changes the text color -->
+    <div class="text-center text-primary mb-3">
+      <!-- Instructor Note: Highlight how text utilities help in aligning and coloring text content easily -->
+      <p class="mb-0">This text is centered and has a primary color using .text-center and .text-primary utilities.</p>
     </div>
 
-    <!-- Responsive Utilities and Display -->
-    <div class="container">
-        <h2>Responsive Utilities and Display</h2>
-
-        <!-- !! Show how this content is present in the code BUT CAN NOT BE SEEN ON THE LIVE SERVER -->
-        <div class="d-block d-md-none">This content is visible on mobile only.</div>
-        <!-- !! ^ should be invisible in browser unless on mobile -->
-        <div class="d-none d-md-block">This content is hidden on mobile.</div>
-        <div class="mt-md-3">This content has top margin on medium and larger screens.</div>
+    <!-- Demonstrating spacing utilities: .m-3 adds margin, .p-3 adds padding -->
+    <div class="m-3 p-3 border mb-3">
+      <!-- Instructor Note: Discuss the spacing scale in Bootstrap and how it helps maintain consistent spacing -->
+      <p class="mb-0">This div has margin and padding of 3 spaces using .m-3 and .p-3 utilities.</p>
     </div>
 
-    <!-- Component Customization -->
-    <div class="container">
-        <h2>Component Customization</h2>
-        <nav class="navbar navbar-light bg-light">
-            <a class="navbar-brand" href="#">Navbar</a>
-        </nav>
+    <!-- Demonstrating border and corner rounding utilities -->
+    <div class="border rounded-3 p-3 mb-3">
+      <!-- Instructor Note: Explain how border utilities can be used to add or remove borders and round corners -->
+      <p class="mb-0">This div has a border and rounded corners using .border and .rounded-3 utilities.</p>
     </div>
+
+    <!-- Demonstrating display utilities: .d-none hides the element, .d-md-block shows it on medium screens and up -->
+    <div class="d-none d-md-block bg-secondary p-3 mb-3">
+      <!-- Instructor Note: Talk about responsive utilities and how they help in creating responsive designs -->
+      <p class="mb-0">This div is hidden on small screens and visible on medium screens and up using .d-none and .d-md-block utilities.</p>
+    </div>
+
+    <!-- Demonstrating flex utilities: aligning items in a flex container -->
+    <div class="d-flex justify-content-between align-items-center bg-info p-3 mb-3">
+      <!-- Instructor Note: Discuss the flexbox model and how it simplifies layout design and alignment -->
+      <div>Start</div>
+      <div>Center</div>
+      <div>End</div>
+    </div>
+
+    <!-- Demonstrating position utilities: fixing an element's position to the bottom right corner -->
+    <div class="position-fixed bottom-0 end-0 p-3 bg-warning">
+      <!-- Instructor Note: Highlight how position utilities can be used for creating sticky footers, navigation, etc. -->
+      <p class="mb-0">This div is fixed to the bottom right corner using .position-fixed, .bottom-0, and .end-0 utilities.</p>
+    </div>
+
+  </div>
 
 </body>
 
