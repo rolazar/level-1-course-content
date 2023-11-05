@@ -63,7 +63,7 @@
 #### Question 11: What will `console.log(4 + 5 + "7")` output?
 - [ ] `"457"`
 - [ ] `16`
-- [ ] `"97"`
+- [ ] `97`
 - [x] `"97"`
 
 #### Question 12: Why do we use functions in our code?
