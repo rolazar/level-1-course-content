@@ -1,4 +1,4 @@
-# Homework for Week 4: Day 2 – Exploring Arrays and Their Fundamental Operations
+# Week 4: Day 2 – Exploring Arrays and Their Fundamental Operations
 
 Arrays are an extremely powerful data structure in JavaScript. Today you learned about the fundamentals of arrays and how to use them. Now it's time to put your knowledge to the test. Understanding how to utilize arrays and their methods will be crucial to your success as a developer.
 
