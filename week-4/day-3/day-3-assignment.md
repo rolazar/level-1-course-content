@@ -1,4 +1,4 @@
-# Homework for Week 4: Day 3 – Diving Deep into Functions
+# Week 4: Day 3 – Diving Deep into Functions
 
  In today's lecture, you learned about the fundamentals of functions and how they can be used to create reusable code blocks. Now it's time to put your knowledge to the test.
 
