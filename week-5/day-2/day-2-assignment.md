@@ -5,7 +5,7 @@ The goal of this assignment is to reinforce understanding of cloning, committing
 ## Instructions
 
 After an insightful class about the Git commit cycle and synchronization, it's time to put your knowledge into practice and prepare for the next class session.
-[Git Cheat Sheet](https://dev.to/vishnuchilamakuru/git-cheatsheet-1oaj)
+Git Cheat Sheet https://dev.to/vishnuchilamakuru/git-cheatsheet-1oaj
 
 Part 1: Commit Cycle Mastery
 
@@ -44,11 +44,13 @@ In the next class (Day 3), we will discuss any challenges faced during the synch
 ### Commit Cycle Mastery - /10
 
 - **Fully Achieved - 10 pts**
+
   - The student successfully staged their changes.
   - The student successfully wrote a **meaningful** commit message.
   - The student successfully committed their changes.
 
 - **Partially Achieved - 5 pts**
+
   - The student successfully staged their changes.
   - The student attempted to write a **meaningful** commit message.
   - The student did not successfully commit their changes.
@@ -61,11 +63,13 @@ In the next class (Day 3), we will discuss any challenges faced during the synch
 ### Synchronization Challenge - /10
 
 - **Fully Achieved - 10 pts**
+
   - The student successfully pushed their committed changes to their remote repository.
   - The student successfully created a synchronization.txt file and pulled the remote change to their local repository.
   - Screenshot was included to show local files with the synchronization.txt file.
 
 - **Partially Achieved - 5 pts**
+
   - The student successfully pushed their committed changes to their remote repository.
   - The student successfully created a synchronization.txt file but **did not** successfully pull the remote change to their local repository.
   - Screenshot was included to show local files with the synchronization.txt file.
