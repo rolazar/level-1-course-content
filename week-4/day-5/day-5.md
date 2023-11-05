@@ -1,43 +1,58 @@
-# Week 4: Day 5 – Consolidation and Recap of JavaScript Fundamentals
+# Week 4: Day 5 – Comprehensive Review and Variable Hoisting in JavaScript
 
-## Format: Morning (2 hours)
+## Overview
 
-**Purpose:** Solidify the week's learnings, address lingering questions, and offer students the opportunity to showcase their understanding.
+In today's session, we'll consolidate our knowledge from the previous four days, focusing on variables, arrays, functions, objects, and how they interact. We will also discuss the peculiarities of `var` and variable hoisting.
 
----
+- **6:30 PM to 8:30 PM**: Lecture and interactive coding (includes a 10-minute break)
+- **8:30 PM**: Closing remarks and Q&A
 
-## Hour 1: Review Session
+## Detailed Schedule
 
-### Quick Recap (20 minutes):
+### 6:30 PM - 7:30 PM: Review and Interactive Coding
 
-- Offer a brief overview of the key topics covered during the week: Variables, Arrays, Functions, and Objects.
-- Highlight the significance of each topic in the realm of JavaScript programming.
+**Recap of Variables and Primitive Data Types (20 minutes):**
 
-### Interactive Q&A (25 minutes):
+- Review variables, the different data types, and the use of `alert`, `prompt`, and `document.write`.
 
-- Open the floor for students to ask questions or clarify doubts on any topic from the week.
-- Encourage students to share their insights or "aha" moments.
+**Arrays and their Methods (20 minutes):**
 
-### Mini Challenges (15 minutes):
+- Revisit array manipulation methods such as `.push()`, `.pop()`, and `.join()`.
 
-- Present bite-sized challenges related to the week's topics.
-- Allow students to tackle them in real-time, providing hints or solutions as needed.
+**Functions and Scope (20 minutes):**
 
----
+- Discuss the role of functions, the use of arrow functions, and function scope.
 
-## Hour 2: Hands-On and Peer Feedback
+**Objects and their Power (10 minutes):**
 
-### Code Showcase (25 minutes):
+- Review the creation and manipulation of objects, including properties and methods.
 
-- Invite students to share pieces of code or small projects they've worked on during the week.
-- Encourage peer feedback, fostering a collaborative learning environment.
+### 7:30 PM - 7:40 PM: Break (10 minutes)
 
-### Group Activities (20 minutes):
+Give students a short break to refresh before diving into the second half of the session.
 
-- Facilitate small-group sessions where students collaboratively solve problems or enhance existing code.
-- Use this as an opportunity to observe student interactions and gauge their grasp of the material.
+### 7:40 PM - 8:30 PM: Deep Dive into Variable Hoisting and Advanced Concepts
 
-### Wrap-Up and Glimpse into Next Week (15 minutes):
+**Variable Hoisting with `var` (10 minutes):**
 
-- Sum up the week, applauding students for their dedication and progress.
-- Offer a sneak peek into the next week's topics, ensuring they're excited and prepared for the upcoming challenges.
+- Explain variable hoisting and demonstrate with examples why `let` and `const` are preferable.
+
+**Advanced Concepts (40 minutes):**
+
+- Introduce and code examples on the following topics:
+  - Template Literals and Expressions
+  - Default Function Parameters
+  - Destructuring Assignments
+  - Spread and Rest Operators
+
+### 8:30 PM: Closing Remarks and Q&A
+
+- Summarize key takeaways from today's session.
+- Address any remaining questions and provide guidance for further study.
+
+## Conclusion
+
+- Recap the importance of each concept covered and how they fit into everyday coding tasks.
+- Encourage the practice of newly learned skills with additional exercises and projects.
+
+**Note:** Students should have their development environments ready for the interactive coding session. The code written today will be an essential reference for future learning and practice.

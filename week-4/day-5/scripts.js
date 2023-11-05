@@ -1,139 +1,146 @@
-// Introduction to Object Literals
-// Instructor Note: Start by explaining what object literals are and how they are defined.
+// Day 1: Variables, Primitives, and Basic Interaction
+// Instructor Note: Begin with an explanation of what variables are and the types of primitive data in JavaScript: string, number, boolean, null, undefined, symbol, and bigint.
+
+// Variables
+let message = 'Hello, JavaScript!';
+alert(message); // Display a pop-up with the message
+
+// String indexing
+let firstChar = message[0]; // 'H'
+console.log(firstChar);
+
+// String methods
+console.log(message.toUpperCase()); // Convert message to uppercase
+console.log(message.slice(0, 5)); // Extracts 'Hello'
+
+// Instructor Note: Demonstrate the use of prompt for user input and document.write to display content on the webpage.
+let userName = prompt("What's your name?");
+document.write(`Welcome, ${userName}!`); // Displays a welcome message on the page
+
+// Day 2: Fundamentals with Arrays
+// Instructor Note: Explain that arrays are used to store multiple values in a single variable.
+
+let fruits = ['Apple', 'Banana', 'Cherry'];
+console.log(fruits.join(' - ')); // Join all elements into a string separated by ' - '
+
+// Array manipulation
+fruits.push('Dragonfruit'); // Add an item at the end
+console.log(fruits);
+fruits.pop(); // Remove the last item
+console.log(fruits);
+
+// Day 3: Fundamentals with Functions
+// Instructor Note: Discuss the importance of functions for code reuse and modularity.
+
+function greet(name) {
+  return `Hello, ${name}!`;
+}
+console.log(greet(userName)); // Greet the user by name
+
+// Arrow function
+const multiply = (a, b) => a * b;
+console.log(multiply(2, 3)); // Outputs: 6
+
+// Instructor Note: Introduce the concept of function scope and the block scope.
+
+// Day 4: Objects
+// Instructor Note: Explain that objects are collections of properties and methods.
+
 const superhero = {
   name: 'Batman',
   city: 'Gotham',
   isVigilante: true,
-};
-console.log(superhero);
-
-// Properties and Order
-// Instructor Note: Discuss that properties in an object have no guaranteed order and accessing properties using indices isn't possible like in arrays.
-// Try accessing a property with an index to show that it doesn't work and returns 'undefined'.
-console.log(superhero[0]); // undefined
-
-// Adding Properties
-// Instructor Note: Demonstrate different ways to add properties to an object after its creation using both dot notation and bracket notation.
-superhero.alias = 'The Dark Knight';
-superhero['base'] = 'Batcave';
-console.log(superhero);
-
-// Accessing Properties
-// Instructor Note: Show how to access object properties. Use dot notation for typical cases, and bracket notation for property names that are not valid identifiers (e.g., containing spaces or starting with numbers).
-console.log(superhero.name); // Dot notation
-console.log(superhero['city']); // Bracket notation
-
-// Creating Methods
-// Instructor Note: Methods are functions that are properties of an object. Show how to add a method within an object literal and using dot notation.
-// Add a greet method within the literal
-const hero = {
-  name: 'Superman',
-  greet: function () {
-    console.log(`Hello, I am ${this.name}.`);
+  allies: ['Robin', 'Batgirl', 'Superman'],
+  introduce: function () {
+    console.log(`I am ${this.name}, the protector of ${this.city}.`);
+  },
+  addAlly: function (ally) {
+    this.allies.push(ally);
+    console.log(this.allies);
   },
 };
-hero.greet(); // Invoke the method
+superhero.introduce();
+superhero.addAlly('Nightwing');
 
-// Adding Methods using Dot Notation
-// Instructor Note: Now add another method using dot notation to show it can be done post object creation as well.
-superhero.introduce = function () {
-  console.log(
-    `I am ${this.name}, known as ${this.alias}, and I operate from the ${this.base}.`
-  );
-};
-superhero.introduce(); // Call the method
+// Day 5: Review and Variable Hoisting
+// Instructor Note: Take a moment to review the previous concepts before the break.
 
-// Part Two - Realistic Examples of Objects
-// Instructor Note: Let's create some more realistic examples of objects that students might encounter or use.
+// Review of variables
+console.log(`Your name is still ${userName}, right?`); // Recall the userName from Day 1
 
-// Example of a User object
-const user = {
-  firstName: 'Bruce',
-  lastName: 'Wayne',
-  username: 'bwayne',
-  email: 'bruce.wayne@example.com',
-  fullName: function () {
-    return `${this.firstName} ${this.lastName}`;
-  },
-};
-console.log(user.fullName());
+// Review of arrays
+console.log(`Here's an array of fruits from Day 2: ${fruits.join(', ')}`);
 
-// Example of a Product object in an e-commerce setting
-const product = {
-  name: 'Wireless Mouse',
-  price: 19.99,
-  discountPercent: 5,
-  calculateDiscountPrice: function () {
-    return this.price * (1 - this.discountPercent / 100);
-  },
-};
+// Review of functions and scope
 console.log(
-  `Discounted price: $${product.calculateDiscountPrice().toFixed(2)}`
+  `The multiply arrow function from Day 3 gives us: ${multiply(5, 8)}`
 );
 
-// Interactive "Quiz" Component
+// Review of objects
+console.log(`Does ${superhero.name} still live in ${superhero.city}?`);
 
-// Question 1 - Easy
-// Instructor Note: Start with a very simple question to ensure everyone is on the same page.
-console.log(user.firstName); // Ask students what this will output.
-// Expected output: "Bruce"
+// 10-Minute Break
+// Instructor Note: Announce a 10-minute break before continuing with the demonstration of variable hoisting.
 
-// Question 2 - Easy
-console.log(product.price > 20); // Ask what this comparison will output.
-// Expected output: false
+// Understanding `var` and its peculiarities
+// Instructor Note: Explain that `var` has function scope and is hoisted, which can lead to unexpected behavior.
 
-// Question 3 - Moderate
-// Instructor Note: Encourage students to think about the order of operations in method calls.
-console.log(product.calculateDiscountPrice() === 18.99); // What will this output?
-// Expected output: false, because it will be 19.99 - 5% of 19.99
-
-// Question 4 - Moderate
-// Instructor Note: This one checks if students remember how to update object properties.
-user.age = 30; // We've just added a new property 'age' to the user object.
-console.log(user.age); // What will this output now?
-// Expected output: 30
-
-// Question 5 - Challenging
-// Instructor Note: This question checks if students understand method context and the 'this' keyword.
-const getUserName = user.fullName;
-console.log(getUserName()); // What will this output and why?
-// Expected output: undefined undefined, because 'this' is no longer referring to the 'user' object.
-
-// Question 6 - Challenging
-// Instructor Note: Encourage students to think about dynamic property names.
-const propName = 'lastName';
-console.log(user[propName]); // Ask students what this will output.
-// Expected output: "Wayne"
-
-// Question 7 - Advanced
-// Instructor Note: This question combines knowledge of methods and property updates.
-user.updateEmail = function (newEmail) {
-  this.email = newEmail;
-};
-user.updateEmail('wayne@newemail.com'); // Updating the email address.
-console.log(user.email === 'wayne@newemail.com'); // What will this output?
-// Expected output: true
-
-// Question 8 - Advanced
-// Instructor Note: Ask students to predict the outcome after a property is deleted.
-delete user.username; // Deleting the username property.
-console.log(user.username); // What will this output?
-// Expected output: undefined
-
-// Question 9 - Very Advanced
-// Instructor Note: This one is to check if students can predict the behavior of a method after a property it uses has been changed.
-product.applyDiscount = function (discount) {
-  this.price = this.price - this.price * (discount / 100);
-};
-product.applyDiscount(10); // Applying a 10% discount directly to the price.
-console.log(product.price); // What is the new price of the product?
-// Expected output: Price after a 10% discount on the already discounted price.
-
-// Question 10 - Very Advanced
-// Instructor Note: This question involves understanding property enumeration and the concept of "own" properties.
-for (let key in user) {
-  console.log(`${key}: ${user[key]}`); // What will this output?
+// Example of var hoisting
+function varHoistingExample() {
+  console.log(hoistedVar); // Output: undefined due to hoisting
+  var hoistedVar = 'var is hoisted';
+  console.log(hoistedVar); // Output: 'var is hoisted'
 }
-// Expected output: A list of user object properties and their values, excluding any inherited properties.
+varHoistingExample();
 
-// Instructor Note: Use these quiz questions to reinforce the lessons and to challenge students' understanding. After each question, discuss the answer and the relevant concepts with the class to ensure comprehension before moving on.
+// Instructor Note: Explain why modern JavaScript favors `let` and `const` due to block scoping, which prevents the issues seen with `var`.
+
+// Template Literals and Expressions
+// Instructor Note: Explain template literals and how they can be used to embed expressions.
+let price = 10;
+let taxRate = 0.05;
+let totalPrice = `Total Price: $${(price * (1 + taxRate)).toFixed(2)}`;
+console.log(totalPrice); // Outputs: Total Price: $10.50
+
+// Default Function Parameters
+// Instructor Note: Introduce the concept of default parameters in functions.
+function calculateTotal(price, taxRate = 0.05) {
+  return price * (1 + taxRate);
+}
+console.log(calculateTotal(20)); // No tax rate passed, defaults to 0.05
+console.log(calculateTotal(20, 0.1)); // Tax rate is passed as 0.1
+
+// Destructuring Assignments
+// Instructor Note: Teach how to extract data from arrays or objects into distinct variables.
+const rgb = [255, 0, 0];
+const [red, green, blue] = rgb;
+console.log(red, green, blue); // Outputs: 255 0 0
+
+const user = {
+  firstName: 'John',
+  lastName: 'Doe',
+  email: 'john.doe@example.com',
+};
+const { firstName, email } = user;
+console.log(firstName, email); // Outputs: John john.doe@example.com
+
+// Spread and Rest Operators
+// Instructor Note: Show how to use spread syntax to expand elements and rest syntax to collect arguments.
+
+// Spread for arrays
+let numbers = [1, 2, 3];
+let moreNumbers = [...numbers, 4, 5, 6];
+console.log(moreNumbers); // Outputs: [1, 2, 3, 4, 5, 6]
+
+// Rest for function arguments
+function sum(...numbers) {
+  return numbers.reduce((total, num) => total + num, 0);
+}
+console.log(sum(1, 2, 3, 4)); // Outputs: 10
+
+// Instructor Note: Use the examples to explain how each feature contributes to cleaner and more expressive code. Encourage the students to think of scenarios where these could be particularly useful.
+
+// Conclusion
+// Instructor Note: Summarize the day's lesson and remind students how the new concepts build on what they've already learned. Reiterate the importance of understanding scope and why modern JavaScript has introduced `let` and `const` to avoid the pitfalls of `var`.
+
+// End of Day 5 Content.
