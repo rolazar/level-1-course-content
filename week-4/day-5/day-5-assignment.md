@@ -1,4 +1,4 @@
-# Homework for Week 4: Day 5 – Consolidation and Recap of JavaScript Fundamentals
+# Week 4: Day 5 – Consolidation and Recap of JavaScript Fundamentals
 
 This assignment will test your understanding of variables, functions, objects, and arrays. You'll be working with data and applying various operations.
 
