@@ -1,49 +1,81 @@
-# Week 4: Day 3 – Diving Deep into Functions
+# Week 4: Day 3 – Understanding and Leveraging Functions in JavaScript
 
-## Format: Morning (2 hours)
+## Overview
 
-**Purpose:** Equip students with a robust understanding of functions, allowing them to write reusable code blocks and further modularize their scripts.
+Today's focus is on functions: what they are, how they work, and why they're so central to programming in JavaScript. We'll start by connecting functions to what students already know—built-in JavaScript functions and methods. This session will enhance students' abilities to read and write their JavaScript functions and understand the use of functions they'll encounter in everyday coding.
 
----
+- **6:30 PM to 8:30 PM**: Lecture with interactive code-along segments (includes a 10-minute break)
+- **8:30 PM to 9:30 PM**: Breakout workshop session
 
-## Hour 1: Foundations of Functions
+## Detailed Schedule
 
-### The Role of Functions in Programming (15 minutes):
+### 6:30 PM - 7:30 PM: Fundamentals of Functions in JavaScript
 
-- Discuss how functions act as reusable code blocks.
-- Highlight the importance of functions in reducing code repetition and improving readability.
+**Introduction to Functions (10 minutes):**
 
-### Creating Functions (25 minutes):
+- Start with an explanation of what functions are and their importance.
+- Relate to known functions like `alert()`, `prompt()`, and string methods like `.toUpperCase()`.
+- Emphasize how built-in functions prevent us from having to write complex code from scratch.
 
-- Showcase how to declare a function using the `function` keyword.
-- Discuss function naming conventions and best practices.
-- Dive into function parameters and arguments, explaining how data can be passed into functions.
+**What Functions Look Like (10 minutes):**
 
-### Calling and Returning from Functions (20 minutes):
+- Discuss the syntax of a function.
+- Show the structure of a function with `function functionName() {}`.
+- Highlight the `()` which indicates that it is a function.
 
-- Demonstrate how to invoke or call a function.
-- Introduce the `return` keyword and explain how functions can send data back to where they were called from.
+**Functions We've Already Seen (15 minutes):**
 
----
+- Explain that `alert` and `prompt` are built-in functions in JavaScript.
+- Highlight that methods such as `.slice()` on strings are functions attached to string objects.
 
-## Hour 2: Hands-On with Functions
+**Demonstrating `.slice()` with Indexing (10 minutes):**
 
-### Crafting Custom Functions (20 minutes):
+- Code block for demonstrating `.slice()` with indexing will go here.
 
-- Engage students in creating their own functions to solve specific tasks or challenges.
-- Examples might include a function to calculate the area of a shape, convert temperatures, or greet a user.
+**Invoking Functions (Multiple Times) (15 minutes):**
 
-### Debugging and Troubleshooting Functions (20 minutes):
+- Show how to invoke or call the `sayHello()` function from earlier multiple times.
+- Explain what happens if you forget the parentheses (function will not execute).
+- Demonstrate multiple invocations with different parameters to show flexibility.
 
-- Discuss common pitfalls and mistakes beginners make with functions.
-- Guide students through debugging scenarios using console logs and other techniques.
+**Closing the Hour:**
 
-### Interactive Q&A and Scenarios (15 minutes):
+- Summarize the importance of functions.
+- Open the floor for any questions.
 
-- Allow students to ask questions or present challenges they've faced related to functions.
-- Encourage peer-to-peer help, where students assist one another in understanding and problem-solving.
+### 7:30 PM - 7:40 PM: Break (10 minutes)
 
-### Wrap-Up and Glimpse into Day 4 (5 minutes):
+### 7:40 PM - 8:30 PM: Going Deeper with Functions
 
-- Summarize the day's exploration of functions.
-- Preview Day 4, hinting at the introduction and understanding of objects and their foundational role in data structuring.
+**`function` Keyword vs. Variable Declarations (10 minutes):**
+
+- Clarify the difference between `function` keyword and variable declarations using `let` or `const`.
+- Discuss hoisting and how function declarations are hoisted but not variable declarations.
+
+**Function Expressions (10 minutes):**
+
+- Explain a function expression by assigning a function to a variable.
+- Compare and contrast declaration vs. expression.
+
+**Array of Functions (10 minutes):**
+
+- Show that functions can be stored in arrays and invoked later.
+
+**Arrow Functions (10 minutes):**
+
+- Introduce arrow function syntax.
+- Show how to convert an arrow function to a traditional function.
+
+- Encourage sticking with the `function` keyword for now, for simplicity.
+
+**Wrap-Up and Day's Recap (10 minutes):**
+
+- Recap the session's content.
+- Prepare students for the workshop activity and encourage them to practice writing their functions.
+
+### 8:30 PM - 9:30 PM: Breakout Workshop Session
+
+**Function Exercises:**
+
+- Facilitate a workshop where students create their functions to solve specific problems.
+- Provide exercises
