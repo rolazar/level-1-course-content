@@ -1,33 +1,93 @@
-'use strict';
+/* Day 2: Arrays and More */
+'use strict;';
+/* Recap of Strings */
+// Quick recap on string indexing
+console.log('Recap: String indexing');
+let exampleString = 'JavaScript';
+console.log(exampleString[0]); // Outputs: "J"
 
-// Define arrays as ordered, list-like collections
-let fruits = ['apple', 'banana', 'orange'];
+// String methods like slice
+console.log('String methods: .slice()');
+console.log(exampleString.slice(0, 4)); // Outputs: "Java"
 
-// Demonstrate the creation of arrays using square brackets
-let numbers = [1, 2, 3, 4, 5];
+/* Variable Declarations */
+console.log('Variable declarations');
+let firstName = 'John';
+let lastName = 'Doe';
+let city = 'New York';
+let country = 'USA';
+let occupation = 'Developer';
+let hobby = 'Photography';
+let favoriteFood = 'Pizza';
+let favoriteColor = 'Blue';
+let favoriteMusic = 'Jazz';
+let favoriteBook = '1984';
 
-// Explain zero-based indexing and accessing items within arrays
-console.log(fruits[0]); // Access the first element
-console.log(numbers[2]); // Access the third element
+/* Segway into Arrays */
+console.log('Introduction to arrays');
+// Declare an array literal
+let favoriteThings = ['Pizza', 'Blue', 'Jazz', favoriteBook];
 
+// Alerting the array and accessing its items
 
-// Introduce core array methods
-numbers.push(6); // Add an item to the end
-console.log('we added 6 to our numbers array ' + numbers)
-numbers.pop();   // Remove an item from the end
-console.log('we removed 6 from our numbers array ' + numbers)
-numbers.shift(); // Remove the first item
-console.log('we removed the first item from our numbers array ' + numbers)
-numbers.unshift(0); // Add an item to the beginning
-console.log('we added 0 to the beginning of our numbers array ' + numbers)
+alert(favoriteThings);
+console.log('Accessing array items');
+console.log(favoriteThings[0]); // Outputs: "Pizza"
 
+// Using .length property
+console.log('Array length property');
+console.log(favoriteThings.length); // Outputs: 4
 
-// Elaborate on the length property and others
-console.log(numbers.length); // Print the length of the array
-console.log(Array.isArray(numbers)); // Check if it's an array
+// Inject array items into a string template
+console.log(`Some of my favorite things: ${favoriteThings.join(', ')}`);
 
+/* Break */ 
+// Instructor Note: This is a good place to take a short break
 
-// Example: Add more fruits to the 'fruits' array
-fruits.push('grapes');
-fruits.push('kiwi');
-console.log(fruits); // Print the updated array
+/* More on Arrays and Strings */
+console.log('Indexing arrays and strings');
+// Show nested indexing
+console.log('Nested indexing: ' + ['strings'][0][3]); // Outputs: "i"
+
+// Assigning elements to an array using indexing
+console.log('Assigning new elements to an array');
+favoriteThings[4] = 'Chess'; // Add a new favorite thing
+console.log(favoriteThings);
+
+// What happens when you skip an index
+favoriteThings[6] = 'Programming'; // Skips the index 5
+console.log(favoriteThings); // Index 5 will be "empty"
+
+/* Array Manipulation Methods */
+console.log('Array manipulation: push() and pop()');
+// Push and Pop
+favoriteThings.push('Tea'); // Adds to the end
+console.log(favoriteThings);
+favoriteThings.pop(); // Removes from the end
+console.log(favoriteThings);
+
+console.log('Array manipulation: shift() and unshift()');
+// Shift and Unshift
+favoriteThings.shift(); // Removes the first element
+console.log(favoriteThings);
+favoriteThings.unshift('Coffee'); // Adds to the beginning
+console.log(favoriteThings);
+
+// Using const with arrays
+console.log('Using const with arrays');
+const arrayExample = [1, 2, 3];
+arrayExample.push(4); // This is allowed
+console.log(arrayExample);
+
+/* 2D Arrays */
+console.log('2D arrays');
+let matrix = [
+  [1, 2, 3],
+  [4, 5, 6],
+  [7, 8, 9],
+];
+console.log(matrix[0][2]); // Access the third element of the first array
+
+/* Instructor Note */
+// Encourage students to try their own methods and play with the arrays.
+// Show more examples if time allows, and prepare for exercises and tasks.
