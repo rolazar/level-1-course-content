@@ -37,6 +37,7 @@ After checking to ensure your files were properly pushed to your forked reposito
 ### Hands-on Practice - /10
 
 - **Fully Achieved - 10 pts**
+
   - The student successfully forked the repository.
   - The student successfully cloned the repository.
   - The student successfully created a new markdown file.
@@ -44,6 +45,7 @@ After checking to ensure your files were properly pushed to your forked reposito
   - The student successfully pushed their changes to their remote repository.
 
 - **Partially Achieved - 5 pts**
+
   - The student successfully forked the repository.
   - The student successfully cloned the repository.
   - The student successfully created a new markdown file.
@@ -60,10 +62,12 @@ After checking to ensure your files were properly pushed to your forked reposito
 ### Reflection - /10
 
 - **Fully Achieved - 10 pts**
+
   - The student successfully answered both questions in a well-structured paragraph.
   - Student provided a clear understanding of the importance of source control and the differences between local and remote repositories.
 
 - **Partially Achieved - 5 pts**
+
   - The student successfully answered both questions in a well-structured paragraph.
   - Student provided a clear understanding of the importance of source control or the differences between local and remote repositories.
 
