@@ -1,45 +1,66 @@
-# Week 4: Day 4 – Introduction and Exploration of Objects
+# Week 4: Day 4 – Exploring Objects in JavaScript
 
-## Format: Morning (2 hours)
+## Overview
 
-**Purpose:** Introduce students to objects, highlighting their significance in structuring and grouping related data in JavaScript.
+On Day 4, we delve into the world of objects in JavaScript. Students will learn about creating objects, accessing properties, and methods. We will also discuss the significance of objects in organizing and structuring data in a program.
 
----
+- **6:30 PM to 8:30 PM**: Lecture with interactive code-along segments (includes a 10-minute break)
+- **8:30 PM to 9:30 PM**: Breakout workshop session
 
-## Hour 1: The World of Objects
+## Detailed Schedule
 
-### Understanding Objects (15 minutes):
+### 6:30 PM - 7:30 PM: Fundamentals of Objects in JavaScript
 
-- Define objects as structured collections of key-value pairs.
-- Offer real-world analogies, like a person's profile with various attributes or product details.
+**Introduction to Objects (10 minutes):**
 
-### Creating and Accessing Objects (25 minutes):
+- Start with an explanation of objects as collections of key-value pairs.
+- Highlight the use of objects to represent real-world entities and data structures.
 
-- Demonstrate constructing objects using curly braces `{}`.
-- Show accessing and modifying properties through dot notation `obj.property` and bracket notation `obj["property"]`.
+**Creating Objects (15 minutes):**
 
-### Adding and Removing Properties (20 minutes):
+- Show how to create an object literal with `{}`.
+- Discuss properties and methods, differentiating between data properties and functions within an object.
 
-- Discuss dynamically adding properties to objects post-creation.
-- Showcase the `delete` operator to remove properties from objects.
+**Accessing Object Properties (15 minutes):**
 
----
+- Teach how to access properties using dot notation and bracket notation.
+- Explain when to use bracket notation (e.g., with property names that are not valid identifiers).
 
-## Hour 2: Interacting with Objects
+**Object Methods (15 minutes):**
 
-### Objects and Functions (20 minutes):
+- Define methods as functions that are properties of an object.
+- Show how `this` keyword can be used within methods to refer to the object itself.
 
-- Display how functions can be used with objects, such as calculating values based on object properties or updating object data.
+**Modifying Objects (15 minutes):**
 
-### Hands-On Exercises with Objects (30 minutes):
+- Discuss adding, modifying, and deleting properties from an object.
+- Explain how objects are mutable and the implications of this mutability.
 
-- Engage students in creating and manipulating objects related to real-world scenarios.
-- Challenges might include:
-  - Designing an object to represent a book with properties like title, author, and published year.
-  - Manipulating an object representing a student's profile, updating grades or adding courses.
+### 7:30 PM - 7:40 PM: Break (10 minutes)
 
-### Wrap-Up and Reflection (10 minutes):
+### 7:40 PM - 8:30 PM: Deep Dive into Objects
 
-- Review the core concepts associated with objects.
-- Address any lingering questions to ensure clarity on objects.
-- Provide a brief peek into Day 5: Recap of the week's learnings and ensuring a solid understanding of JavaScript's fundamental constructs.
+**Nested Objects (15 minutes):**
+
+- Introduce the concept of objects within objects and how to access nested properties.
+
+**Iterating Over Objects (15 minutes):**
+
+- Teach how to iterate over an object's properties using `for...in` loop and `Object` methods.
+
+**Objects and Arrays (15 minutes):**
+
+- Discuss the relationship between objects and arrays.
+- Show examples of arrays of objects and how to work with them.
+
+**Wrap-Up and Day's Recap (10 minutes):**
+
+- Recap the session's content.
+- Open the floor for any questions and discuss how objects tie into the broader JavaScript landscape.
+
+### 8:30 PM - 9:30 PM: Breakout Workshop Session
+
+**Object Manipulation Exercises:**
+
+- Students practice creating objects, accessing and modifying properties, and writing methods.
+- Provide exercises tailored to reinforce the day's learning objectives.
