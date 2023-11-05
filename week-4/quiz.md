@@ -1,4 +1,4 @@
-### Week 4: JavaScript and Bootstrap Fundamentals Quiz
+### Week 4: JavaScript Fundamentals Quiz
 
 #### Question 1: What is the correct syntax to create a variable called `firstName` and assign it the string "Alex"?
 - [ ] `var firstName = 'Alex'`
