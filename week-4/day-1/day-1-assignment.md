@@ -1,4 +1,4 @@
-# Homework for Week 4: Day 1 – Diving into JavaScript Fundamentals and Variables
+# Week 4: Day 1 – Diving into JavaScript Fundamentals and Variables
 
 Welcome to the world of JavaScript! Today you learned about the fundamentals of JavaScript and how to use variables. Now it's time to put your knowledge to the test.
 
