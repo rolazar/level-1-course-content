@@ -1,43 +1,80 @@
 # Week 4: Day 1 – Diving into JavaScript Fundamentals and Variables
 
-## Format: Morning (2 hours)
+## Overview
 
-**Purpose:** Transition into JavaScript fundamentals, placing a strong emphasis on understanding variables and primitive data types.
+Tonight's session will be entirely dedicated to a deep dive into JavaScript, with a strong focus on variables, types, and basic user interaction through code-along examples. Students will be coding alongside the instructor for the entire duration. Here's the updated plan:
 
----
+- **6:30 PM to 8:30 PM**: Lecture with code-along segments (includes a 10-minute break)
+- **8:30 PM to 9:30 PM**: Breakout workshop session
 
-## Hour 1: Introduction to JavaScript and Variables
+## Detailed Schedule
 
-### Quick Review: Dev Tools Console and Bootstrap's JS (10 minutes):
+### 6:30 PM - 7:30 PM: Introduction to JavaScript and Variables
 
-- Briefly recap the browser developer tools' console and its use for JavaScript.
-- Touch upon the JavaScript aspects encountered during the Bootstrap week.
+**Introduction and Developer Tools (10 minutes):**
 
-### Introduction to Variables (15 minutes):
+- Quick tour of the browser developer tools console.
+- Recap the use of the console for JavaScript debugging and execution.
 
-- Discuss variables as the foundation for storing and managing data in scripts.
-- Explain the significance of different variable keywords: `let`, `const`, and the legacy `var`.
+**Introduction to Variables (15 minutes):**
 
-### Understanding Primitive Data Types (30 minutes):
+- Discuss the 'use strict' directive.
+- Explain the role of variables in JavaScript.
+- Demonstrate variable declaration with `let` and best practices.
+- Showcase the common mistake of creating an unintended global variable due to a typo.
 
-- Introduce the basic data types in JavaScript: numbers, strings, booleans, null, and undefined.
-- Discuss type inference in JavaScript and how data types can be changed.
+**Variable Inspection and Output (5 minutes):**
 
----
+- Code along on how to use the developer tools to inspect variables.
+- Introduce the `console.log` method to display variable values.
 
-## Hour 2: Hands-On with Variables and Primitives
+**Constants and Immutable Variables (5 minutes):**
 
-### Declaring and Initializing Variables (20 minutes):
+- Introduce `const` and try to reassign to illustrate the resulting error.
+- Discuss why `var` should be avoided and how to substitute it with `let` in most cases.
 
-- Live coding session to demonstrate variable declaration, initialization, and type checking.
-- Showcase the dynamic nature of JavaScript with variable reassignment and type conversion.
+**Understanding Primitive Data Types (25 minutes):**
 
-### Interactive Session: Exploring Primitives (30 minutes):
+- Dive into numbers, strings, booleans, `null`, and `undefined`.
+- Discuss dynamic typing and demonstrate type coercion with live code examples.
 
-- Students engage in hands-on practice, experimenting with different primitive data types.
-- Challenges: Create scripts that utilize various primitives, such as performing arithmetic with numbers and manipulating strings.
+### 7:30 PM - 7:40 PM: Break (10 minutes)
 
-### Wrap-Up and Day's Recap (10 minutes):
+**A brief pause before the next engaging code-along session.**
 
-- Summarize the day's journey into JavaScript variables and primitive data types.
-- Provide a brief preview of Day 2, hinting at the exploration of arrays.
+### 7:40 PM - 8:30 PM: Deep Dive into Variables and Data Types
+
+**Alerts, Prompts, and Document Writing (15 minutes):**
+
+- Demonstrate how to use `alert`, `prompt`, and `document.write` for basic user interaction.
+
+**String Manipulation (15 minutes):**
+
+- Explore string concatenation, escape characters, and the importance of template literals.
+- Live coding to concatenate a list of variables using different methods.
+
+**String Properties and Methods (20 minutes):**
+
+- Discuss string indexing and the `length` property.
+- Go through important string methods like `toUpperCase`, `toLowerCase`, and others as time allows.
+
+**Wrap-Up and Day's Recap (10 minutes):**
+
+- Sum up the session's content, reinforcing the key takeaways.
+- Prepare students for the workshop activity and what to expect in the breakout rooms.
+- Introduce the concept of arrays as a teaser for Day 2.
+
+### 8:30 PM - 9:30 PM: Breakout Workshop Session
+
+**Workshop and Collaboration:**
+
+- Organize students into small groups for the workshop.
+- Focus on tasks that reinforce the lecture content in a hands-on manner.
+- Provide detailed instructions and support through a separate markdown file.
+
+**Conclusion:**
+
+- Gather feedback from the groups and address any lingering questions.
+- Offer concluding remarks and share instructions for the next class.
+
+**Note:** The detailed assignment and guidelines will be provided in the markdown (md) file. Make sure your development environment is set up for a fully interactive code-along experience.
