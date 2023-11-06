@@ -58,7 +58,7 @@ Today marks the beginning of our journey into Git, a cornerstone tool in modern 
 
 **Installing Git on Windows**:
 
-- Download the latest Git version from [git-scm.com](https://git-scm.com/download/win).
+- Download the latest Git version from git-scm.com https://git-scm.com/download/win
 - Run the downloaded installer and follow the setup wizard to install Git.
 - Accept the default options provided, unless specific customizations are needed.
 - Verify the installation by opening the Command Prompt and typing `git --version`.
