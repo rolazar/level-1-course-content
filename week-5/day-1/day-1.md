@@ -81,14 +81,21 @@ Today marks the beginning of our journey into Git, a cornerstone tool in modern 
 
 - Note: Using the binary installer ensures that you have the latest version of Git, and it's a straightforward installation process recommended for most users.
 - Note: If Git is installed with a lower version than 2.23, a couple of commands may not work, but there are older alternatives. (`git switch` would be replaced with `git checkout`)
-  **Installing Git on Chromebooks**:
+
+#### Installing Git on Chromebooks:
 
 - Enable Linux (Beta) on your Chromebook (Settings > Advanced > Developers).
+
+  - Open the Terminal application.
+  - Type `git --version` and press Enter.
+  - If the version number is 2.23 or higher, you're all set.
+  - If Git is not installed or the version is lower than 2.23, proceed with the following steps.
+
 - Open the Linux Terminal and update your package list with `sudo apt update`.
 - Install Git using `sudo apt install git`.
 - Verify the installation by typing `git --version` in the Linux Terminal.
 
-**Verifying the Installation and Basic Git Configuration**:
+#### Verifying the Installation and Basic Git Configuration:
 
 - After installation, confirm Git is working with `git --version`.
 - Configure your Git user name and email:
