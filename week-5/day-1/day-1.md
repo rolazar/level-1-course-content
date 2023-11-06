@@ -19,7 +19,7 @@ Today marks the beginning of our journey into Git, a cornerstone tool in modern 
 **Defining Git**:
 
 - Introduce Git as a distributed version control system.
-- Note: Compare with centralized systems (e.g., SVN).
+- Note: Compare with centralized systems (e.g., SVN -(Subversion doesn't use branching and is not distrubuted)).
 - Key features: branch management, speed, non-linear development.
 - Note: Each developer has a complete code history.
 
