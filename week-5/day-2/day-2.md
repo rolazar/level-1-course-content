@@ -1,157 +1,54 @@
-# Week 5: Day 2 – Deep Dive into Git: Cloning, Committing, and Syncing Changes
+# Week 5: Day 2 – Advanced Git Operations
 
-## Overview
+## Session Outline
 
-We will apply what we learned about Git to clone repositories, make commits, and sync changes, with a focus on hands-on practice.
+Focus: Practical application of Git operations including cloning, committing, and syncing changes.
 
-## Detailed Schedule
+## Objectives
 
-### 6:30 PM - 7:30 PM: Lecture - Advanced Git Operations
+1. Master the Git commit cycle: staging, committing, and meaningful commit messages.
+2. Learn Git operations for syncing changes: push and pull.
+3. Gain hands-on experience in using Git for version control and collaboration.
 
-#### Advanced Git Commit Cycle (20 minutes)
+## Key Concepts
 
-- Introduce the `git add` and `git commit` commands to stage and save changes.
-- Discuss the importance of writing meaningful commit messages.
+### 1. Advanced Git Commit Cycle
 
-```bash
+- Detailed walkthrough of `git add` and `git commit`.
+- Importance of meaningful commit messages.
+- Practice initializing a Git repository and making the first commit.
 
-# Navigate to Desktop and create a new directory for the project
+### 2. Syncing Changes with Remote Repositories
 
-cd Desktop
-mkdir GitProject
-cd GitProject
+- Understanding Git's push and pull operations.
+- Hands-on demonstration of adding a remote repository and pushing changes.
+- Techniques for pulling the latest changes from a remote repository.
 
-# Initialize a new Git repository
+### 3. Q&A and Troubleshooting
 
-git init
+- Addressing student queries and common issues with Git commands.
 
-# Create a new file and open it in VS Code
+## Hands-On Exercise: The Git Commit Cycle
 
-touch README.md
+- Guided exercise for students to edit, stage, commit, and push changes.
+- Demonstrating the process of pulling updates from a remote repository.
+- Reflection session on experiences and challenges with the Git commit cycle.
 
-# Optionally, open VS Code in the current directory and edit the file from there
+## Assignment Preparation
 
-code README.md
+- Instructions for capturing and adding screenshots to the repository for assignment submission.
 
-# Add changes to the staging area
+## Breakout Rooms: Collaborative Git Workflow
 
-git add README.md
-
-# Commit changes with a meaningful message
-
-git commit -m "Initial commit with README"
-
-```
-
-### Instructor Notes for Initializing a Git Repository
-
-Before students begin working with Git, they need to understand what a repository is and how it's initialized. Here are some key points to cover:
-
-- A Git repository is like a project's workspace where all the version history is stored.
-- The `git init` command is used to start a new repository. It's the first command you use in a new project.
-- Explain that initializing a repository will create a hidden `.git` directory. This is where Git keeps all the metadata for the repository's history.
-- Emphasize that `git init` should be run in the root of the project directory. If it's run in the wrong place, it could lead to confusion about where files are being tracked.
-- Show students how to check for the `.git` directory with `ls -a`, which lists all files, including hidden ones.
-- Mention that once a repository is initialized, they can start adding files to it and track changes with commits.
-
-```bash
-
-# Navigate to the project folder, here assumed to be on the Desktop
-
-cd ~/Desktop/GitProject
-
-# Initialize a new Git repository
-
-git init
-
-# Instructor will demonstrate the creation of the hidden .git directory
-
-ls -a
-
-Explain that we should now see a .git directory, indicating the repository has been successfully initialized
-
-# Add a remote repository and push changes
-
-git remote add origin <remote-repository-URL>
-git push -u origin main
-
-# Pull the latest changes from the remote repository
-
-git pull origin main
-
-```
-
-#### Q&A and Troubleshooting (20 minutes)
-
-- Resolve questions about the commit cycle, pushing, and pulling changes with Git.
-
-### 7:30 PM - 8:30 PM: Hands-On Exercise - The Git Commit Cycle
-
-- Conduct a live exercise where students edit, stage, commit, and push changes to a remote repository.
-- Show how to handle updates from the remote repository by pulling them into the local repository.
-
-```bash
-
-# Make changes to README.md and save the file in VS Code
-
-# Stage the edited README.md file
-
-git add README.md
-
-# Commit the changes with a descriptive message
-
-git commit -m "Update README with project details"
-
-# Push the commit to the remote repository
-
-git push origin main
-
-# Pull new files created on GitHub
-
-git pull origin main
-
-```
-
-#### Reflecting on the Commit Cycle (10 minutes)
-
-- Invite students to discuss their experience with Git commands and the commit cycle.
-
-#### Preparing for the Assignment Submission (10 minutes)
-
-- Instruct students on capturing and adding a screenshot to their repository.
-
-```bash
-
-# Assume the screenshot is named 'sync_screenshot.png' and is located on the Desktop
-
-# Navigate to the project directory if you're not already there
-
-cd ~/Desktop/GitProject
-
-# Move the screenshot from the Desktop to the current project directory
-
-mv ~/Desktop/sync_screenshot.png .
-
-# Add the screenshot to the repository
-
-git add sync_screenshot.png
-
-# Commit the screenshot with a message
-
-git commit -m "Add screenshot for assignment verification"
-
-# Push the commit to the remote repository
-
-git push origin main
-
-```
-
-### 8:30 PM - 9:30 PM: Breakout Rooms - Collaborative Git Workflow
-
-- Manage breakout rooms where students practice cloning, committing, pushing, and opening pull requests.
+- Students practice cloning repositories and engaging in a collaborative Git workflow.
+- Focus on committing, pushing, and opening pull requests.
 
 ## Conclusion
 
-- Recap the practical aspects of using Git for version control and collaboration.
-- Encourage students to apply these skills in their projects.
-- Preview the next session's content, focusing on merge conflicts and advanced collaboration.
+- Summarizing the day's lessons on Git.
+- Encouragement to apply learned skills in real-world projects.
+- Preview of the next session focusing on merge conflicts and advanced collaboration techniques.
+
+---
+
+**Note for Instructors**: Tailor the depth and duration of each section to fit the audience's skill level and time constraints. Prepare additional resources for extended learning and troubleshooting common Git issues.
