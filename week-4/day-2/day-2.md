@@ -45,4 +45,4 @@ Focus: In-depth exploration of arrays and advanced string operations in JavaScri
 
 ---
 
-**Note for Instructors**: Adjust the content and duration based on the audience's familiarity with JavaScript and their learning pace. Prepare additional materials and
+**Note for Instructors**: Adjust the content and duration based on the audience's familiarity with JavaScript and their learning pace. Prepare additional materials and resources for extended learning and practice.
