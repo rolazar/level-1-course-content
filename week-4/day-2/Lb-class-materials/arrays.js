@@ -15,6 +15,7 @@ console.log('Variable declarations');
 let firstName = 'John';
 let lastName = 'Doe';
 let city = 'New York';
+let age = 39;
 let country = 'USA';
 let occupation = 'Developer';
 let hobby = 'Photography';
@@ -22,11 +23,14 @@ let favoriteFood = 'Pizza';
 let favoriteColor = 'Blue';
 let favoriteMusic = 'Jazz';
 let favoriteBook = '1984';
+let isOnline = true;
 
 /* Segway into Arrays */
 console.log('Introduction to arrays');
 // Declare an array literal
-let favoriteThings = ['Pizza', 'Blue', 'Jazz', favoriteBook];
+let favoriteThings = ['Banana', 'Red', 'Rock', 'Cold Fire'];
+
+favoriteThings = [favoriteFood, favoriteColor, favoriteMusic, favoriteBook];
 
 // Alerting the array and accessing its items
 
@@ -41,7 +45,7 @@ console.log(favoriteThings.length); // Outputs: 4
 // Inject array items into a string template
 console.log(`Some of my favorite things: ${favoriteThings.join(', ')}`);
 
-/* Break */ 
+/* Break */
 // Instructor Note: This is a good place to take a short break
 
 /* More on Arrays and Strings */
@@ -57,7 +61,7 @@ console.log(favoriteThings);
 // What happens when you skip an index
 favoriteThings[6] = 'Programming'; // Skips the index 5
 console.log(favoriteThings); // Index 5 will be "empty"
-
+/////
 /* Array Manipulation Methods */
 console.log('Array manipulation: push() and pop()');
 // Push and Pop
@@ -87,6 +91,14 @@ let matrix = [
   [7, 8, 9],
 ];
 console.log(matrix[0][2]); // Access the third element of the first array
+
+// Challenge:
+let challenge = [
+  [1, 2, 3],
+  [4, 'apple', 6],
+  [7, 8, 9],
+];
+// index the letter e in apple with challenge [1][1][4]
 
 /* Instructor Note */
 // Encourage students to try their own methods and play with the arrays.
