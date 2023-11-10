@@ -1,43 +1,55 @@
-# Week 6: Day 1 – Introduction to Comparisons and Control Structures
+# Week 6: Day 1 – Introduction to DOM Manipulation and Control Structures
 
-## Format: Morning (2 hours)
+## Session Outline
 
-**Purpose:** Begin the week by diving into comparisons and control structures, paving the way for more complex logical constructs in JavaScript.
+Focus: Beginning with basic DOM manipulation in JavaScript, followed by an introduction to comparisons and control structures.
+
+## Objectives
+
+1. Gain familiarity with the Document Object Model (DOM) and learn basic DOM manipulation techniques.
+2. Understand the role of comparisons and control structures in programming.
+3. Apply learned concepts through hands-on coding exercises.
+
+## Key Concepts
+
+### 1. Introduction to DOM Manipulation
+
+- Understanding the DOM: What it is and its importance in web development.
+- Basic DOM manipulation: Creating and appending elements.
+
+### 2. First Steps in DOM Manipulation
+
+- Creating an HTML container for dynamic content.
+- Using JavaScript to select elements and create new content.
+- Appending new elements to the DOM.
+
+### 3. Understanding Comparisons
+
+- The role of comparisons in programming logic.
+- Differentiating between comparison operators: `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`.
+
+### 4. Truthy and Falsy Values
+
+- Introduction to truthy and falsy concepts in JavaScript.
+- Practical implications of these values in conditional statements.
+
+### 5. Introduction to Control Structures
+
+- Exploring conditional statements: `if`, `else if`, and `else`.
+- Real-world application of these structures in web programming.
+
+## Interactive Elements
+
+- **Practical Demonstrations**: Live coding examples illustrating DOM manipulation.
+- **Code-Along Segments**: Participants will engage in coding exercises to apply the concepts of comparisons and control structures.
+- **Interactive Scenarios**: Use cases where students apply logical constructs to solve problems.
+
+## Wrap-Up
+
+- Recap of the day's content, focusing on DOM manipulation and its integration with logical structures.
+- Preview of the next session's topics.
+- Open Q&A session for clarifications and further discussions.
 
 ---
 
-## Hour 1: Understanding Comparisons
-
-### The Role of Comparisons in Programming (15 minutes):
-
-- Discuss the importance of comparisons in decision-making within code.
-- Highlight the fundamental comparison operators: `==`, `===`, `!=`, `!==`, `>`, `<`, `>=`, `<=`.
-
-### Truthy and Falsy Values (20 minutes):
-
-- Introduce the concepts of truthy and falsy in JavaScript.
-- Discuss scenarios where understanding these values is crucial.
-
-### Hands-On Comparisons (25 minutes):
-
-- Engage students with exercises centered on making comparisons.
-- Examples could include comparing numbers, strings, or checking the validity of user input.
-
----
-
-## Hour 2: Diving into Control Structures
-
-### Introduction to `if`, `else if`, and `else` (20 minutes):
-
-- Explain the basic structure of conditional statements.
-- Showcase scenarios where different conditions lead to different code execution paths.
-
-### Practical Application: Interactive Scenarios (25 minutes):
-
-- Provide students with real-world scenarios where they must use comparisons and control structures to determine outcomes.
-- Challenges might include validating form input, determining pricing based on user roles, or generating custom messages based on user behavior.
-
-### Wrap-Up and Day's Recap (15 minutes):
-
-- Sum up the key takeaways related to comparisons and control structures.
-- Offer a preview of Day 2, hinting at the introduction of loops and their pivotal role in repetitive tasks.
+**Note for Instructors**: This session is designed to be interactive and engaging. Encourage students to think creatively when applying the concepts in their code. Provide ample examples and be ready to assist in the hands-on exercises.

@@ -46,42 +46,37 @@ Welcome to the world of JavaScript! Today you learned about the fundamentals of 
 
 ## Rubric
 
-# Day 1 Diving into JavaScript Fundamentals and Variables - /20
+# Week 6: Day 1 Assignment - Basic DOM Manipulation and JavaScript Logic - /20
 
-### File Setup and Structure - /10
-
-- **Fully Achieved - 10 pts**
-
-  - The necessary files are created and correctly named `index.html` and `script.js`.
-  - The `script.js` file is properly linked to the `index.html` file.
-  - Variables are created and named appropriately.
-  - Variables are assigned the correct values.
-  - Variables are console logged to the console.
-
-- **Partially Achieved - 5 pts**
-
-  - One or two of the required files are missing or improperly named.
-  - Attempt was made to create variables and assign them values.
-  - Attempt was made to console log variables to the console.
-
-- **Not Achieved - 0 pts**
-  - More than two of the required files are missing or improperly named.
-  - No attempt was made to create variables and assign them values.
-  - No attempt was made to console log variables to the console.
-
-### Implementation of JavaScript - /10
+### Project Setup and DOM Manipulation - /10
 
 - **Fully Achieved - 10 pts**
 
-  - Variables are created and named appropriately.
-  - Variables are assigned the correct values.
-  - Variables are console logged to the console.
+  - Successfully set up `index.html` and `script.js` with correct file linking.
+  - Accurately created and appended elements to the DOM using JavaScript.
+  - Implemented dynamic content updates in response to user interaction.
 
 - **Partially Achieved - 5 pts**
 
-  - Attempt was made to create variables and assign them values.
-  - Attempt was made to console log variables to the console.
+  - Basic setup of `index.html` and `script.js` with minor issues in file linking or structure.
+  - Made an effort to manipulate the DOM, but with some inaccuracies or incomplete implementation.
 
 - **Not Achieved - 0 pts**
-  - No attempt was made to create variables and assign them values.
-  - No attempt was made to console log variables to the console.
+  - Incorrect or incomplete setup of required files.
+  - Little to no attempt at DOM manipulation or dynamic content updates.
+
+### Implementation of JavaScript Logic - /10
+
+- **Fully Achieved - 10 pts**
+
+  - Correctly used comparison operators and control structures (`if-else`) in JavaScript.
+  - Logic is effectively applied to produce different outputs based on user input.
+
+- **Partially Achieved - 5 pts**
+
+  - Made an attempt to use comparison operators and control structures, but with some errors or lack of complexity.
+  - Demonstrated basic understanding of JavaScript logic, but implementation may be incomplete or incorrect.
+
+- **Not Achieved - 0 pts**
+  - No attempt or incorrect use of comparison operators and control structures.
+  - Failed to apply JavaScript logic to user input or produce varying outputs.

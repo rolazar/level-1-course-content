@@ -1,42 +1,54 @@
-# Week 6: Day 3 – Callbacks and Understanding Value vs. Reference
+# Week 6: Day 3 – Callback Functions and Array Methods in JavaScript
 
-## Format: Morning (2 hours)
+## Session Outline
 
-**Purpose:** Familiarize students with the crucial concepts of callbacks and the difference between value and reference in JavaScript, setting the stage for more advanced topics.
+Focus: Introducing callback functions and array methods in JavaScript, while also distinguishing between reference and primitive types.
+
+## Objectives
+
+1. Understand the concept and use of callback functions in JavaScript.
+2. Explore JavaScript array methods: `map`, `filter`, and `forEach`.
+3. Differentiate between reference types and primitive types.
+
+## Key Concepts
+
+### 1. Introduction to Callback Functions
+
+- Definition and role of callback functions in JavaScript.
+- Simple examples of callback functions for easy understanding.
+
+### 2. Exploring Array Methods
+
+- Deep dive into `map`, `filter`, and `forEach` methods.
+- Practical use cases of these methods with callback functions.
+
+### 3. Array Methods in Action
+
+- Demonstrating how to use `map`, `filter`, and `forEach` in real-world scenarios.
+- Hands-on exercises to reinforce the concepts.
+
+### 4. Understanding Reference vs Primitive Types
+
+- Differentiating between reference types (Objects, Arrays) and primitive types (String, Number, Boolean, etc.).
+- Explaining how JavaScript handles these types differently.
+
+### 5. Practical Implications of Type Differences
+
+- Discussing the impact of type differences in JavaScript code.
+- Common pitfalls and best practices when working with different types.
+
+## Interactive Elements
+
+- **Code-Along Exercises**: Participants actively engage in coding examples and exercises.
+- **Practical Demonstrations**: Showcasing the use of callback functions and array methods in various scenarios.
+- **Type Comparison Challenges**: Exercises that highlight the differences between reference and primitive types.
+
+## Wrap-Up
+
+- Summarizing the key aspects of callback functions, array methods, and type differences.
+- Setting the stage for more advanced JavaScript topics in upcoming sessions.
+- Open Q&A for students to clarify concepts and ask questions.
 
 ---
 
-## Hour 1: Delving into Callbacks
-
-### What are Callbacks? (15 minutes):
-
-- Introduce callbacks as functions passed into another function as an argument.
-- Highlight the asynchronous nature of JavaScript and how callbacks play a pivotal role.
-
-### Practical Uses of Callbacks (20 minutes):
-
-- Demonstrate scenarios where callbacks are essential, such as event listeners, array methods like `map`, `filter`, and `forEach`, and asynchronous operations.
-
-### Hands-On Callback Exercises (25 minutes):
-
-- Provide students with tasks that require the implementation of callbacks.
-- Challenges might involve creating custom functions that accept and utilize callbacks or exploring built-in methods that use callbacks.
-
----
-
-## Hour 2: Value vs. Reference
-
-### Understanding Primitive and Reference Types (20 minutes):
-
-- Differentiate between primitive data types (e.g., numbers, strings) and reference data types (e.g., objects, arrays).
-- Emphasize that primitives are copied by value, while reference types are copied by reference.
-
-### Practical Demonstrations (25 minutes):
-
-- Use real-world examples to showcase the difference between value and reference.
-- Engage students in exercises that require them to distinguish between the two and predict code outcomes based on their understanding.
-
-### Wrap-Up and Reflection (15 minutes):
-
-- Recap the central themes of the day: callbacks and the distinction between value and reference.
-- Offer a brief overview of Day 4's content, hinting at diving deeper into the Browser DOM and its manipulation using JavaScript.
+**Note for Instructors**: Ensure that students grasp the fundamentals of callback functions and type differences as these are critical for advanced JavaScript programming. Provide additional resources and examples for further study.
