@@ -47,7 +47,6 @@ Focus: Practical application of Git operations including cloning, committing, an
 
 - Summarizing the day's lessons on Git.
 - Encouragement to apply learned skills in real-world projects.
-- Preview of the next session focusing on merge conflicts and advanced collaboration techniques.
 
 ---
 

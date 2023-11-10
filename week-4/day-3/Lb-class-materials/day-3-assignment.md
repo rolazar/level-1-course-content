@@ -1,73 +1,73 @@
-# Week 4: Day 3 – Diving Deep into Functions
+# Week 5: Day 2 - Practical Git Operations: Cloning, Committing, and Syncing
 
- In today's lecture, you learned about the fundamentals of functions and how they can be used to create reusable code blocks. Now it's time to put your knowledge to the test.
+Instructions:
 
-## Instructions
+After exploring advanced Git operations, this assignment will focus on practical applications of Git, including cloning repositories, committing changes, and syncing with remote repositories.
 
-1. **Setup Environment**
-    - Open Visual Studio Code.
-    - Create a new folder named JS_Functions_Assignment on your local machine.
+## Part 1: Cloning and Making Changes
 
-2. **Create Files**
-    - Create a new file named script.js and index.html.
-    - Note that VScode will automatically detect file types based on their extension, such as .html or .js.
-    - VScode will automatically color code your JavaScript file to make it easier to read.
+- **Clone a Repository**: Find a public repository on GitHub that interests you. Clone this repository to your local machine using `git clone <repository-URL>`.
 
-3. **index.html**
-    - Generate a generic HTML page; you are not required to bring in any elements.
-    - JavaScript runs in the browser, so we need to link our JavaScript file to our HTML file.
-    - Ensure you connect your script.js file to your index.html file using a script tag like this: `<script src="functions.js"></script>.`
-    - You will be utilizing your dev tools to see your console logs you create below! (hint: right-click on your page and click inspect, then click on the console tab in case you need a refresher!)
+- **Make a Change**: In your cloned repository, create a new text file named `git-experience.txt`. In this file, write a brief summary of what you've learned about Git so far.
 
-4. **functions.js**
+- **Commit Your Change**: Commit your new file with a meaningful message using `git commit -m "Add git-experience.txt with learning summary"`.
 
-    - A good practice when creating JavaScript files is to start your file with a 'use strict'; statement. This will help you avoid common mistakes and write better code.
+## Part 2: Syncing with Remote
 
-    - Create a function named calculateAreaOfRectangle that takes two parameters: length and width. Inside the function, calculate the area of a rectangle using the formula area = length * width and return the result.
+- **Create a New Repository**: On GitHub, create a new repository named "GitPractice".
 
-    - Create another function named convertFahrenheitToCelsius that takes one parameter: temperatureInFahrenheit. Inside the function, convert the temperature from Fahrenheit to Celsius using the formula Celsius = (Fahrenheit - 32) * 5/9 and return the result.
+- **Push Your Changes**: Add this new repository as a remote to your local cloned repository using `git remote add origin <new-repository-URL>`. Push your changes to this new repository using `git push -u origin main`.
 
-    - Create a third function named greetUser that takes one parameter: name. Inside the function, create a greeting message that includes the user's name and returns it.
+## Part 3: Reflection and Documentation
 
-    - Call each of these functions with appropriate arguments, and log the results to the console.
+- **Document Your Process**: In the `git-experience.txt` file, document the steps you took during this assignment, including any commands you used and any challenges you faced.
 
-5. **Submission**
-    - Zip the "JS_Functions_Assignment" folder.
-    - In the card with the label "Your work," click on the "+ Add or create."
-    - Within that dropdown, click "File," and attach your zipped folder.
-    - Click the submit button.
-        **or**
-    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "JS_Functions_Assignment."
+- **Reflect on Git's Role**: Reflect on how Git and GitHub can be used in collaborative projects, and how the skills you're learning can be applied in real-world scenarios.
 
-## Rubric
+## Submission:
 
-# Day 3 Exploring JavaScript Functions - /20
+- **Push to GitHub**: Push your `git-experience.txt` file, along with any other changes, to your "GitPractice" repository on GitHub.
 
-### File Setup and Structure - /10
+- **Submit the Link**: Submit the link to your "GitPractice" repository in the "Your work" card.
+
+This assignment is designed to solidify your understanding of Git's basic operations and how they can be applied in a practical, real-world context.
+
+# Rubric
+
+## Day 2 Practical Git Operations: Cloning, Committing, and Syncing - /20
+
+### Cloning and Making Changes - /10
 
 - **Fully Achieved - 10 pts**
-  - The necessary files are created and correctly named index.html and functions.js.
-  - The functions.js file is properly linked to the index.html file.
-  - Functions are created and named appropriately.
+
+  - Successfully cloned a repository.
+  - Created `git-experience.txt` with a learning summary.
+  - Committed the file successfully.
 
 - **Partially Achieved - 5 pts**
-  - One or two of the required files are missing or improperly named.
-  - Attempt was made to create functions with some correct naming.
+
+  - Cloned a repository.
+  - Created `git-experience.txt` with content.
+  - Did not commit the file successfully.
 
 - **Not Achieved - 0 pts**
-  - More than two of the required files are missing or improperly named.
-  - No attempt was made to create functions with correct naming.
+  - Did not clone a repository.
+  - Did not create `git-experience.txt` with content.
+  - Did not commit the file.
 
-## Implementation of JavaScript Functions - /10
+### Syncing with Remote - /10
 
 - **Fully Achieved - 10 pts**
-  - Functions are called with appropriate arguments and console logged.
-  - Functions return the correct values.
+
+  - Successfully pushed changes to a new GitHub repository.
+  - Documented the process in `git-experience.txt`.
+  - Reflected on Git's role in collaborative projects.
 
 - **Partially Achieved - 5 pts**
-  - Attempt was made to call functions with some correct arguments.
-  - Attempt was made to return values from functions.
+
+  - Pushed changes to a new GitHub repository.
+  - Documented the process or reflected on Git's role, but not both.
 
 - **Not Achieved - 0 pts**
-  - No attempt was made to call functions with correct arguments.
-  - No attempt was made to return values from functions.
+  - Did not push changes to a new GitHub repository.
+  - Did not document the process or reflect on Git's role.

@@ -1,126 +1,47 @@
+# Week 5: Day 3 – Review and Reinforcement of Git Basics
 
-# Week 5: Day 3 – Collaborative Workflows in Git: Branching, Merging, and Conflicts
+## Session Outline
 
-## Overview
+Focus: Reviewing the fundamentals of Git and basic terminal commands to reinforce understanding.
 
-This session will delve into Git's branching, merging, and conflict resolution, with a focus on practical exercises using VS Code.
+## Objectives
 
-## Detailed Schedule
+1. Reinforce understanding of basic Git concepts and operations.
+2. Review essential terminal commands used in Git operations.
+3. Solidify foundational skills in using Git for version control.
 
-### 6:30 PM - 7:30 PM: Lecture - Branches and Merging in Git
+## Key Concepts
 
-#### Setting Up for the Demo (5 minutes)
+### 1. Review of Basic Git Operations
 
-- Explain the setup process for a Git demo using VS Code.
+- Recap of Git initialization (`git init`) and basic configurations.
+- Review of basic Git commands: `git status`, `git add`, `git commit`.
 
-```bash
-# Create a new directory for the demonstration and navigate into it
-mkdir branching-demo
-cd branching-demo
+### 2. Revisiting Terminal Commands
 
-# Initialize a new Git repository
-git init
-```
+- Review of essential terminal commands for navigating directories (`cd`, `ls`) and file manipulation (`mkdir`, `touch`).
+- Integrating these commands with Git operations for a smoother workflow.
 
-- Open VS Code manually and use "Open Folder" to access the 'branching-demo' folder.
+### 3. Practical Application of Learned Concepts
 
-#### Understanding Branches in Git (15 minutes)
+- Hands-on exercises to apply basic Git and terminal commands in typical use cases.
+- Encouraging exploration and experimentation with different commands.
 
-- Discuss branches in Git, emphasizing their role in isolating development work without affecting other parts of the project.
+### 4. Group Activity: Creating and Managing Repositories
 
-```bash
-# Create a main file in VS Code and add initial content
-# Save the file as 'main.txt' in the 'branching-demo' folder
+- Collaborative exercise where students create a new repository and perform basic Git operations.
+- Emphasis on teamwork and peer-to-peer learning.
 
-# Add and commit the file to the main branch using the terminal in VS Code
-git add main.txt
-git commit -m "Initial commit on main branch"
-```
+## Interactive Elements
 
-#### Creating and Navigating Branches (20 minutes)
+- **Code-Along Segments**: Reinforcement of Git basics through guided practice.
+- **Group Exercises**: Encouraging collaboration and practical application of concepts.
 
-- Show how to create and switch to new branches within a project.
+## Wrap-Up
 
-```bash
-# Create a new branch named 'feature-branch' and switch to it
-git switch -c feature-branch
+- Summary of key points covered in the first three days.
+- Open discussion for questions, clarifications, and sharing experiences.
 
-# In VS Code, add a new file 'feature.txt' and add some content
-# Save the file in the 'branching-demo' folder
+---
 
-# Add and commit the new file to the feature branch
-git add feature.txt
-git commit -m "Add feature file"
-```
-
-#### The Merge Operation (20 minutes)
-
-- Explain merging branches and its importance in integrating features into the main project.
-
-```bash
-# Switch back to the main branch
-git switch main
-
-# Merge the feature branch into the main branch
-git merge feature-branch
-
-# Use VS Code to review the merged content
-# Show the current state of the repository using the terminal in VS Code
-git log --oneline
-```
-
-### 7:30 PM - 8:30 PM: Hands-On Exercise - Branching and Merging
-
-#### Exercise Setup (10 minutes)
-
-- Guide students to create a new directory and initialize a Git repository for the exercise.
-
-#### Practicing Branching (20 minutes)
-
-- Walk students through creating a feature branch and making changes using VS Code.
-
-```bash
-# Instruct students to create a new branch named 'student-feature'
-git switch -c student-feature
-
-# Create a new file in VS Code named 'student-feature.txt' and add content
-# Save the file in their project folder
-
-# Stage and commit the new file
-git add student-feature.txt
-git commit -m "Add student feature"
-```
-
-#### Practicing Merging (30 minutes)
-
-- Teach students how to merge their feature branch into the main branch and resolve any conflicts using VS Code.
-
-```bash
-# Instruct students to switch back to the main branch
-git switch main
-
-# Make a conflicting change in the 'main.txt' file using VS Code
-# Save the updated file
-
-# Commit the change in the main branch
-git add main.txt
-git commit -m "Update main.txt in main branch"
-
-# Attempt to merge the feature branch into the main
-git merge student-feature
-# Guide students through conflict resolution using VS Code if necessary
-```
-
-#### Reflection and Discussion (30 minutes)
-
-- Encourage students to share their experiences and discuss challenges encountered during the exercise.
-
-### 8:30 PM - 9:30 PM: Breakout Rooms - Collaborative Conflict Resolution
-
-- Arrange breakout rooms where students practice resolving merge conflicts, using VS Code, in a collaborative setting.
-
-## Conclusion
-
-- Summarize key takeaways about branching, merging, and conflict resolution in Git.
-- Emphasize the practical application of these skills in collaborative coding projects.
-- Preview the upcoming session on advanced Git topics and GitHub Pages deployment.
+**Note for Instructors**: Use this session as an opportunity to assess students' grasp of fundamental concepts. Adjust the pace based on their proficiency. Prepare to provide additional examples or alternative explanations to clarify complex topics.

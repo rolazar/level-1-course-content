@@ -154,4 +154,3 @@ git push origin main
 
 - Recap the practical aspects of using Git for version control and collaboration.
 - Encourage students to apply these skills in their projects.
-- Preview the next session's content, focusing on merge conflicts and advanced collaboration.

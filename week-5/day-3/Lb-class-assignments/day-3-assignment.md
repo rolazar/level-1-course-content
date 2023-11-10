@@ -1,75 +1,86 @@
-# Week 5: Day 3 - Collaborative Workflows in Git: Branching, Merging, and Conflicts
+# Week 5: Day 3 - Terminal Mastery and Git Basics
 
 Instructions:
 
-Following the lecture on Git branches and the merging process, it's time to put your knowledge into practice, simulating a realistic workflow in preparation for the next class session.
+Today's assignment is divided into two parts. The first part focuses on practicing terminal commands, and the second part involves basic Git operations including creating a repository, cloning, making changes, and pushing updates.
 
-## Part 1: Branching Mastery
+## Part 1: Terminal Command Practice
 
-- **Create a Feature Branch**: In your forked and cloned repository, create a new branch named "feature-yourname" where "yourname" is your name or a chosen identifier. Use the command `git switch -c feature-yourname`.
+- **Directory Navigation and File Creation**:
 
-- **Make a Minor Change**: Inside your feature branch, create a new text file (e.g., `branching-merging.txt`) and add any content to it.
+  - Open your terminal.
+  - Navigate to your Desktop using `cd Desktop`.
+  - Create a new directory named `GitPractice` using `mkdir GitPractice`.
+  - Navigate into this directory with `cd GitPractice`.
+  - Create a new file named `notes.txt` using `touch notes.txt`.
+  - List the contents of the directory using `ls`.
 
-- **Prepare for Merge**: Commit your change with a meaningful message using `git commit -m "Your message"`.
+- **Take a Screenshot**:
+  - After executing the above commands, take a screenshot of your terminal showing the commands used and the resulting directory contents.
 
-## Part 2: Conflict Resolution Challenge
+## Part 2: Git Repository Creation and Modification
 
-- **Create a Conflict**: Switch back to the main branch using `git switch main` and make a different change in the same file (`branching-merging.txt`).
+- **Create a New GitHub Repository**:
 
-- **Merge and Resolve Conflict**: Try merging your feature branch into the main branch using `git merge feature-yourname`. You will encounter a merge conflict.
+  - Go to GitHub and create a new repository named `GitPractice`.
+  - Initialize the repository with a README.
 
-- **Resolve the Conflict**: Manually resolve the conflict in the file by editing to combine changes from both the main and feature branches. Commit the resolved conflict with `git commit`.
+- **Clone and Modify**:
 
-## Part 3: Reflect and Share
+  - Clone your newly created repository to your local machine using `git clone <repository-URL>`.
+  - Navigate into the cloned repository directory.
+  - Move the `notes.txt` file into this directory.
+  - Add some text to `notes.txt` about what you learned in class today.
+  - Add the screenshot of your terminal to the repository.
 
-- **Reflection**: Write a brief reflection in `branching-merging.txt` about your experience with branching and resolving merge conflicts. Discuss any challenges and how you overcame them, emphasizing the role of careful planning and organization in such processes.
+- **Commit and Push**:
+  - Stage your changes using `git add notes.txt` and `git add <screenshot-file-name>`.
+  - Commit your changes with a meaningful message using `git commit -m "Added notes and terminal screenshot"`.
+  - Push your changes to the GitHub repository using `git push`.
 
 ## Submission:
 
-- **Push to GitHub**: Push your committed changes, conflict resolution, and reflection to your forked repository. Ensure your changes and the resolved conflict are clearly visible.
+- **Submit Your Work**:
+  - Ensure your `notes.txt` file and the terminal screenshot are visible in your GitHub repository.
+  - Submit the link to your GitHub repository in the "Your work" card.
 
-- **Submit the Link**: Submit the link to your forked repository in the "Your work" card.
-
-This exercise is a key step in understanding Git's role in collaborative development and conflict resolution.
+This assignment helps reinforce your understanding of terminal commands and basic Git operations, as well as the process of pushing updates to GitHub.
 
 # Rubric
 
-## Day 3 Collaborative Workflows in Git: Branching, Merging, and Conflicts - /20
+## Day 3 Terminal Mastery and Git Basics - /20
 
-### Branching Mastery - /10
-
-- **Fully Achieved - 10 pts**
-
-  - Successfully created a feature branch.
-  - Created `branching-merging.txt` with content.
-  - Prepared successfully for a merge operation.
-
-- **Partially Achieved - 5 pts**
-
-  - Created a feature branch.
-  - Created `branching-merging.txt` with content.
-  - Did not prepare successfully for a merge operation.
-
-- **Not Achieved - 0 pts**
-  - Did not create a feature branch.
-  - Did not create `branching-merging.txt` with content.
-  - Did not prepare for a merge operation.
-
-### Conflict Resolution Challenge - /10
+### Terminal Command Practice - /10
 
 - **Fully Achieved - 10 pts**
 
-  - Successfully created a conflict within their own work.
-  - Successfully merged the feature branch into the main branch.
-  - Successfully resolved the conflict while incorporating changes from both branches.
+  - Successfully used terminal commands `cd`, `ls`, `mkdir`, and `touch`.
+  - Took a clear screenshot showing the terminal with the executed commands.
 
 - **Partially Achieved - 5 pts**
 
-  - Created a conflict within their own work.
-  - Merged the feature branch into the main branch.
-  - Did not successfully resolve the conflict while incorporating changes from both branches.
+  - Used some but not all of the terminal commands.
+  - Took a screenshot that was not clear or did not show all the commands.
 
 - **Not Achieved - 0 pts**
-  - Did not create a conflict within their own work.
-  - Did not merge the feature branch into the main branch.
-  - Did not resolve the conflict while incorporating changes from both branches.
+  - Did not use the terminal commands as instructed.
+  - Did not take or submit a screenshot.
+
+### Git Repository Creation and Modification - /10
+
+- **Fully Achieved - 10 pts**
+
+  - Successfully cloned the GitHub repository.
+  - Added `notes.txt` and the terminal screenshot to the repository.
+  - Committed and pushed changes to GitHub.
+
+- **Partially Achieved - 5 pts**
+
+  - Cloned the GitHub repository.
+  - Added `notes.txt` or the terminal screenshot, but not both.
+  - Committed and pushed changes but missing some elements.
+
+- **Not Achieved - 0 pts**
+  - Did not clone the GitHub repository.
+  - Did not add `notes.txt` or the terminal screenshot.
+  - Did not commit and push changes to GitHub.
