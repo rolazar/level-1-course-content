@@ -1,5 +1,6 @@
 // Introduction to Object Literals
 // Instructor Note: Start by explaining what object literals are and how they are defined.
+
 const superhero = {
   name: 'Batman',
   city: 'Gotham',
@@ -72,7 +73,7 @@ console.log(
 );
 
 // Interactive "Quiz" Component
-
+//TODO update this quiz to remove the comparision stuff, and remove the loops and anything not covered up to this point
 // Question 1 - Easy
 // Instructor Note: Start with a very simple question to ensure everyone is on the same page.
 console.log(user.firstName); // Ask students what this will output.
@@ -137,3 +138,82 @@ for (let key in user) {
 // Expected output: A list of user object properties and their values, excluding any inherited properties.
 
 // Instructor Note: Use these quiz questions to reinforce the lessons and to challenge students' understanding. After each question, discuss the answer and the relevant concepts with the class to ensure comprehension before moving on.
+
+// Function to display details of a superhero
+function displaySuperheroDetails(superhero) {
+  console.log(`Name: ${superhero.name}`);
+  console.log(`Alias: ${superhero.alias}`);
+  console.log(`Powers: ${superhero.powers.join(', ')}`);
+  console.log(`City: ${superhero.city}`);
+  console.log(
+    `Base: ${superhero.base.location} - ${superhero.base.description}`
+  );
+  console.log('---');
+}
+
+// Superhero Object 1: Superman
+const superman = {
+  name: 'Clark Kent',
+  alias: 'Superman',
+  powers: ['Super strength', 'Flight', 'X-ray vision'],
+  city: 'Metropolis',
+  base: {
+    location: 'Fortress of Solitude',
+    description: 'Arctic headquarters',
+  },
+};
+
+// Superhero Object 2: Batman
+const batman = {
+  name: 'Bruce Wayne',
+  alias: 'Batman',
+  powers: ['Intellect', 'Detective skills', 'Martial arts'],
+  city: 'Gotham',
+  base: {
+    location: 'Batcave',
+    description: 'Underground headquarters beneath Wayne Manor',
+  },
+};
+
+// Superhero Object 3: Wonder Woman
+const wonderWoman = {
+  name: 'Diana Prince',
+  alias: 'Wonder Woman',
+  powers: ['Super strength', 'Speed', 'Flight'],
+  city: 'Themyscira',
+  base: {
+    location: 'Themysciran Embassy',
+    description: 'Diplomatic embassy and base of operations',
+  },
+};
+
+// Superhero Object 4: The Flash
+const flash = {
+  name: 'Barry Allen',
+  alias: 'The Flash',
+  powers: ['Super speed', 'Time travel', 'Enhanced reflexes'],
+  city: 'Central City',
+  base: {
+    location: 'Flash Museum',
+    description: 'Museum and secret base',
+  },
+};
+
+// Superhero Object 5: Green Lantern
+const greenLantern = {
+  name: 'Hal Jordan',
+  alias: 'Green Lantern',
+  powers: ['Power ring', 'Flight', 'Energy constructs'],
+  city: 'Coast City',
+  base: {
+    location: 'Green Lantern Corps Headquarters',
+    description: 'Headquarters located on the planet Oa',
+  },
+};
+
+// Calling the function with each superhero object
+displaySuperheroDetails(superman);
+displaySuperheroDetails(batman);
+displaySuperheroDetails(wonderWoman);
+displaySuperheroDetails(flash);
+displaySuperheroDetails(greenLantern);
