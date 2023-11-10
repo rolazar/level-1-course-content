@@ -138,7 +138,7 @@ for (let key in user) {
 // Expected output: A list of user object properties and their values, excluding any inherited properties.
 
 // Instructor Note: Use these quiz questions to reinforce the lessons and to challenge students' understanding. After each question, discuss the answer and the relevant concepts with the class to ensure comprehension before moving on.
-
+//* I found that during this lecture 3 objects was enough to get the point
 // Function to display details of a superhero
 function displaySuperheroDetails(superhero) {
   console.log(`Name: ${superhero.name}`);
