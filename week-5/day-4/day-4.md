@@ -1,45 +1,54 @@
-# Week 5: Day 4 – Introduction to GitHub Pages and Static Site Deployment
+# Week 5: Day 4 – Deployment with GitHub Pages
 
-## Format: Morning (2 hours)
+## Session Outline
 
-**Purpose:** Transition from Git's technical depths to the practical application of deploying static websites using GitHub Pages, enabling students to share their work with the world.
+Focus: Introducing students to GitHub Pages for deploying static sites, starting with a `README.md` and progressing to a basic HTML website.
+
+## Objectives
+
+1. Understand the basics of deploying static sites using GitHub Pages.
+2. Deploy a `README.md` file as a starting point for GitHub Pages.
+3. Transition to deploying a basic HTML website and observe the deployment process.
+
+## Key Concepts
+
+### 1. Introduction to GitHub Pages
+
+- Overview of GitHub Pages as a hosting platform for static websites.
+- The process of enabling GitHub Pages in a repository.
+
+### 2. Deploying a README.md
+
+- Step-by-step guide to deploy a `README.md` as a static site.
+- Discussion on the significance of `README.md` in GitHub repositories.
+
+### 3. Transitioning to HTML Deployment
+
+- Basics of creating a simple HTML file (`index.html`).
+- The importance of `index.html` as the entry point for static websites.
+
+## Hands-On Exercise: Deploying on GitHub Pages
+
+- Initial exercise: Students deploy their `README.md` using GitHub Pages.
+- Advanced exercise: Students clone their repository, add an `index.html`, and deploy it using GitHub Pages.
+- Observing the transition from `README.md` to `index.html` in their GitHub Pages site.
+
+## Assignment Preparation
+
+- Instructions for creating a basic `index.html` file.
+- Guidance on using Git for adding, committing, and pushing changes to deploy the HTML file.
+
+## Breakout Rooms: Practicing Deployment
+
+- Students work in groups to troubleshoot and successfully deploy their static sites.
+- Emphasis on the ACP (Add, Commit, Push) process in deployment.
+
+## Conclusion
+
+- Recap of the steps for deploying static sites using GitHub Pages.
+- Discussion on the practical applications of GitHub Pages in sharing and showcasing projects.
+- Preview of Day 5: Consolidating the week's learnings and preparing for the final project.
 
 ---
 
-## Hour 1: Introduction to GitHub Pages
-
-### Why GitHub Pages? (15 minutes):
-
-- Discuss the importance of deploying and sharing projects.
-- Introduce GitHub Pages as a tool for hosting static web content directly from a GitHub repository.
-
-### Setting Up GitHub Pages (25 minutes):
-
-- Guide students on how to configure a GitHub repository to host static content.
-- Explain the differences between deploying from the main branch vs. a dedicated 'gh-pages' branch.
-
-### Interactive Session (20 minutes):
-
-- Students follow along to set up GitHub Pages for a sample repository.
-- Challenge: Activate GitHub Pages for one of their repositories and share the live URL.
-
----
-
-## Hour 2: Updating and Managing Content
-
-### Continuous Deployment with GitHub Pages (20 minutes):
-
-- Emphasize that GitHub Pages automatically updates the hosted website upon new commits pushed to the relevant branch.
-- Demonstrate making changes, committing, pushing, and seeing the live update.
-
-### Best Practices and Tips (20 minutes):
-
-- Discuss the importance of clear folder structures, especially when deploying.
-- Introduce the concept of `.gitignore` to avoid uploading unnecessary files.
-- Highlight how custom domains can be integrated with GitHub Pages for a professional touch.
-
-### Wrap-Up and Reflection (20 minutes):
-
-- Recap the day's journey from Git to deploying live sites using GitHub Pages.
-- Address any questions, challenges, or concerns the students might have.
-- Preview Day 5's content: Consolidation of the week's learning, ensuring mastery of both Git and GitHub Pages, and setting the stage for the final day of the week.
+**Note for Instructors**: Encourage experimentation with HTML content and reinforce the importance of the ACP process in deployment. Be prepared to assist students with common issues related to GitHub Pages deployment.

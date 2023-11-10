@@ -1,41 +1,58 @@
-# Homework for Week 5: Day 4 - Introduction to GitHub Pages and Static Site Deployment
+# Week 5: Day 4 Assignment - Deploying with GitHub Pages
 
-## Instructions:
+## Objective
 
-After an informative lecture on deploying websites using GitHub Pages, it's time to put your knowledge into practice and prepare for the next class.
+Practice deploying a static site using GitHub Pages, starting with a `README.md` and then transitioning to a basic HTML website.
 
-Part 1: Deploy Your Website
+## Instructions
 
-    Choose a Repository: Select one of your existing repositories with HTML, CSS, and JavaScript files that you want to deploy as a website. If you don't have one, create a new repository with a simple webpage.
+This assignment is divided into two main parts: deploying a `README.md` file using GitHub Pages and then creating and deploying a basic HTML website.
 
-    Enable GitHub Pages: Go to the repository's settings on GitHub and configure GitHub Pages to publish your site. You can choose to publish from the main branch or create a dedicated gh-pages branch.
+### Part 1: Deploying README.md on GitHub Pages
 
-    Share the Live URL: Once your website is live, share the URL to your website in the repository settings with your instructor. If you're not sure how to find the URL, feel free to ask for help.
+- **Create a New Repository on GitHub**:
 
-Part 2: Continuous Deployment Practice
+  - If you haven't already, create a new repository on GitHub named `MyStaticSite`.
+  - Initialize the repository with a `README.md`.
 
-    Make a Change: Modify your website by adding new content, updating existing content, or improving the design. Make sure these changes are reflected in the HTML, CSS, or JavaScript files.
+- **Deploy README.md Using GitHub Pages**:
+  - In your repository settings, enable GitHub Pages for your repository.
+  - Set the source for GitHub Pages to the `main` branch.
+  - Once deployed, visit the provided URL to ensure your `README.md` is live.
 
-    Commit and Push: Commit your changes and push them to your repository on GitHub.
+### Part 2: Transition to HTML Deployment
 
-    Observe Live Update: Visit your live website URL and observe how the changes are automatically reflected without any manual intervention. Take a screenshot of the updated webpage and add it to your file directory.
+- **Develop a Basic HTML Website**:
 
-Part 3: Best Practices and Custom Domain
+  - Clone your repository to your local machine.
+  - Create an `index.html` file with basic HTML content (e.g., a brief introduction about yourself or a topic of interest).
+  - Add and commit your changes locally.
 
-    Document Your Workflow: In a text file (e.g., workflow.txt), briefly describe your experience deploying your website with GitHub Pages and any challenges you faced.
+- **Deploy Your HTML Website**:
+  - Push your changes to your GitHub repository.
+  - Verify that GitHub Pages now serves your `index.html` instead of the `README.md`.
+  - Visit the GitHub Pages URL to ensure your HTML page is live.
 
-    Reflect on Best Practices: Write a paragraph about the importance of maintaining clear folder structures and using .gitignore files to optimize your website deployment.
+## Submission
 
-    Optional Challenge: Research how to set up a custom domain for your GitHub Pages website (if you have one) and list the steps you would take to implement this feature.
+- **Submit Your Work**:
+  - Ensure both your `README.md` and `index.html` are visible in your GitHub repository.
+  - Submit the link to your GitHub Pages site in the "Your work" card.
 
-Submission:
+## Rubric
 
-Submit your homework by pushing any changes made to your repository and your documentation file (e.g., workflow.txt) to your GitHub repository. Ensure that your updated website is accessible and that your documentation file provides insights into your experience.
+### GitHub Pages Deployment - /20
 
-After checking to ensure your files were properly pushed to your forked repository, submit the link to your forked repository in the card with the label "Your work", and click on the "+ Add or create" button. Within that dropdown, click "Link," and attach your link. Click the submit button.
+- **Fully Achieved - 10 pts**
 
-# Rubric
+  - Successfully deployed `README.md` and `index.html` on GitHub Pages.
+  - The live site is accessible and displays the intended content correctly.
 
-## Day 4 Introduction to GitHub Pages and Static Site Deployment - /20
+- **Partially Achieved - 5 pts**
 
-### Deploy Your Website - /10
+  - Deployed either `README.md` or `index.html`, but not both.
+  - The live site is accessible but does not display content as intended.
+
+- **Not Achieved - 0 pts**
+  - Did not deploy using GitHub Pages.
+  - The live site is not accessible or does not exist.
