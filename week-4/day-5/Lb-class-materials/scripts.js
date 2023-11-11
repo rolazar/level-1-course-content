@@ -85,15 +85,33 @@ console.log(`Does ${superhero.name} still live in ${superhero.city}?`);
 // Understanding `var` and its peculiarities
 // Instructor Note: Explain that `var` has function scope and is hoisted, which can lead to unexpected behavior.
 
-// Example of var hoisting
+// Example of var hoisting and scoping
+
+// Function-scoped variable with var
 function varHoistingExample() {
-  console.log(hoistedVar); // Output: undefined due to hoisting
+  // At this stage, hoistedVar is declared due to hoisting but not initialized, so it's undefined.
+  console.log(hoistedVar); // Output: undefined
   var hoistedVar = 'var is hoisted';
+  // Now hoistedVar is initialized, so it will print its value.
   console.log(hoistedVar); // Output: 'var is hoisted'
 }
 varHoistingExample();
 
-// Instructor Note: Explain why modern JavaScript favors `let` and `const` due to block scoping, which prevents the issues seen with `var`.
+// hoistedVar is not accessible here; it's confined to the varHoistingExample function.
+console.log(window.hoistedVar); // Output: undefined
+
+// Global-scoped variable with var
+var globalVar = "I'm a global variable";
+// globalVar is declared in the global scope, so it becomes a property of the window object.
+console.log(window.globalVar); // Output: "I'm a global variable"
+
+// Additional Notes:
+// 1. Variables declared with 'var' inside a function are function-scoped.
+//    They exist only within the function and are not added to the global object.
+// 2. Variables declared with 'var' outside any function are added to the global object,
+//    which is 'window' in a web browser. This can potentially lead to conflicts
+//    if different scripts use the same variable names.
+
 
 // Template Literals and Expressions
 // Instructor Note: Explain template literals and how they can be used to embed expressions.
