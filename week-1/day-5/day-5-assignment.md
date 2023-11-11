@@ -1,4 +1,4 @@
-# Homework for Week 1: Day 5 - Finalizing HTML Badge and Introduction to Forms
+# Week 1: Day 5 - Finalizing HTML Badge and Introduction to Forms
 
 The goal of this assignment is to reinforce **ALL** of the HTML elements and structures you have learned this week. You will be tasked with creating new HTML page(s) that will showcase all of your learning this week! Repetition is key to learning, so this will be a great way to practice and solidify your understanding of HTML.
 
@@ -10,11 +10,11 @@ Use all the skills we have learned so far.
 
 ## New Concepts
 
-* creativity in using new found skills
+- creativity in using new found skills
 
 ## Reviewed Concepts
 
-* any/all
+- any/all
 
 ## Instructions
 
@@ -33,19 +33,19 @@ Use all the skills we have learned so far.
 
 4. **Combining Knowledge**
 
-   - This will be the portion of the lab where you will get to experiment with all you have learned with HTML.  You will be creating new pages or building a large page that will have multiple elements of what you have learned.
+   - This will be the portion of the lab where you will get to experiment with all you have learned with HTML. You will be creating new pages or building a large page that will have multiple elements of what you have learned.
    - Don't worry about how your page look with all these different elements on the pages, we will be learning how to style these pages next week!
    - We encourage you to try and use everything you have learned this week, but you are not limited to that. Feel free to get creative and try something new!
    - The content of your page can be anything you want, but it should be relevant to you and appropriate for the assignment.
    - **Our expectation will be that you will have a minimum of 2 pages linked together and that you tried to use as many of the elements you have learned this week as possible.**
 
 5. **Submission**
-    - Zip the "HTML_Day5_Assignment" folder.
-    - In the card with the label "Your work" click on the "+ Add or create."
-    - Within that dropdown click file, and attach your zipped folder.
-    - Click the submit button.
-      **or**
-    - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "HTML_Day5_Assignment".
+   - Zip the "HTML_Day5_Assignment" folder.
+   - In the card with the label "Your work" click on the "+ Add or create."
+   - Within that dropdown click file, and attach your zipped folder.
+   - Click the submit button.
+     **or**
+   - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "HTML_Day5_Assignment".
 
 ## Rubric
 

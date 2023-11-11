@@ -1,6 +1,6 @@
-# Homework for Week 5: Day 1 – Introduction to Git and Basic Concepts
+# Week 5: Day 1 – Introduction to Git and Basic Concepts
 
-You've had an informative morning session learning about the significance of source control and the basics of Git. Your homework assignment is designed to reinforce what you've learned so far and prepare you for the next class.
+You've had an informative session learning about the significance of source control and the basics of Git. Your workshop assignment is designed to reinforce what you've learned so far and prepare you for the next class.
 
 ## Instructions
 
@@ -12,7 +12,7 @@ Now, it's time to extend your hands-on experience with Git.
 
     Clone your fork: Use the Git command-line or your preferred Git client (e.g., VS Code) to clone the repository you just forked. You should have a local copy on your computer.
 
-    Create a new markdown file: Inside your local repository, create a simple markdown file (e.g., reflections.md) with your answers to the next portion of the homework(Part 2).
+    Create a new markdown file: Inside your local repository, create a simple markdown file (e.g., reflections.md) with your answers to the next portion of the assignment(Part 2).
 
     Add and commit changes: After completing your questions in part 2, stage your changes and commit them with a meaningful commit message. Push your changes to your remote repository.
 
@@ -26,7 +26,7 @@ Please answer the following questions in a well-structured paragraph(utilize you
 
 Submission:
 
-Please submit your homework by pushing the changes to your forked repository on GitHub. Make sure your markdown file and any other changes are visible in your repository.
+Please submit your assignment by pushing the changes to your forked repository on GitHub. Make sure your markdown file and any other changes are visible in your repository.
 
 After checking to ensure your files were properly pushed to your forked repository, submit the **link** to your forked repository in the card with the label "Your work", and click on the "+ Add or create" button. Within that dropdown, click "Link," and attach your link. Click the submit button.
 

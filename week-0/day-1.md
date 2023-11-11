@@ -52,7 +52,7 @@ Introduce the instructors to the students, the students to each other, and the c
 
 ## Wrap Up (20 minutes)
 
-- Homework reminder: Complete the Dev Tools Badge and start (and ideally finish) the VSCode Badge before the next meeting.
+- Assignment reminder: Complete the Dev Tools Badge and start (and ideally finish) the VSCode Badge before the next meeting.
 - Encourage independent work on badges and emphasize the importance of self-learning.
 - Answer questions and comments.
 - Assign a task, like posting in the Slack channel or forming study groups.

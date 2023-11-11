@@ -23,27 +23,28 @@ Today you were introduced to CSS positioning/display properties and utilizing ad
 
 4. **index.html**
 
-    - Setup your `index.html` with at *LEAST* 9 elements.
-    - You will be applying one of the positioning/display properties to each element.
-    - **These elements do not need to be complex, feel free to use simple elements with any amount of you want. An example could be some `<p>` with your name, or `<div` holding a small sentence. These are not meant to be difficult to generate, just create some simple ones you can manipulate with the properties learned today**
-    - Don't worry if they are overlapping or not positioned correctly, we just want you to practice using these properties so you can see how they interact with your webpage.
+   - Setup your `index.html` with at _LEAST_ 9 elements.
+   - You will be applying one of the positioning/display properties to each element.
+   - **These elements do not need to be complex, feel free to use simple elements with any amount of you want. An example could be some `<p>` with your name, or `<div` holding a small sentence. These are not meant to be difficult to generate, just create some simple ones you can manipulate with the properties learned today**
+   - Don't worry if they are overlapping or not positioned correctly, we just want you to practice using these properties so you can see how they interact with your webpage.
 
 5. **styles.css**
-    - As mentioned above each element will need to be manipulated with one of the positioning/display properties.
-    - You will be applying CSS positioning to these elements, so you will have 1 with `position: static`, 1 with `position: relative`, 1 with `position: absolute`, 1 with `position: fixed`, and 1 with `position: sticky`.
-    - Ensure you have your live server open as you apply these position properties so you can see how they interact with each other. Change the border color of each element to make it easier to see.
-    - The remaining elements will be using the `display` property, so you will have 1 with `display: block`, 1 with `display: inline`, 1 with `display: inline-block`, and 1 with `display: none`.
-    - Try setting distinct borders to each element with different colors so you can see how they interact with each other. (Remember to use your class/id selectors to make your life easier!)
-    - Feel free to experiment with the Flexbox properties you learned as well, however we will be diving deeper into these tomorrow!
+
+   - As mentioned above each element will need to be manipulated with one of the positioning/display properties.
+   - You will be applying CSS positioning to these elements, so you will have 1 with `position: static`, 1 with `position: relative`, 1 with `position: absolute`, 1 with `position: fixed`, and 1 with `position: sticky`.
+   - Ensure you have your live server open as you apply these position properties so you can see how they interact with each other. Change the border color of each element to make it easier to see.
+   - The remaining elements will be using the `display` property, so you will have 1 with `display: block`, 1 with `display: inline`, 1 with `display: inline-block`, and 1 with `display: none`.
+   - Try setting distinct borders to each element with different colors so you can see how they interact with each other. (Remember to use your class/id selectors to make your life easier!)
+   - Feel free to experiment with the Flexbox properties you learned as well, however we will be diving deeper into these tomorrow!
 
 6. **Submission**
-      - **This is your first larger homework day, this assignment is broken into the two portions with the CSS Diner game and the webpage. Please make sure you submit the screenshot of CSS diner levels with your webpage for this assignment.**
-      - Zip the "CSS_Day3_Assignment" folder.
-      - In the card with the label "Your work" click on the "+ Add or create."
-      - Within that dropdown click file, and attach your zipped folder.
-      - Click the submit button.
-        **or**
-      - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "CSS_Day3_Assignment".
+   - **This is your first larger assignment day, this assignment is broken into the two portions with the CSS Diner game and the webpage. Please make sure you submit the screenshot of CSS diner levels with your webpage for this assignment.**
+   - Zip the "CSS_Day3_Assignment" folder.
+   - In the card with the label "Your work" click on the "+ Add or create."
+   - Within that dropdown click file, and attach your zipped folder.
+   - Click the submit button.
+     **or**
+   - If you are using Replit for your assignments, submit the link to your Replit assignment in the card with the label "CSS_Day3_Assignment".
 
 ## Rubric
 
@@ -52,10 +53,12 @@ Today you were introduced to CSS positioning/display properties and utilizing ad
 ### CSS Diner - /10
 
 - **Fully Achieved - 10 pts**
+
   - First 16 levels of the game are completed.
   - Screenshot of all completed levels is attached to submission.
 
 - **Partially Achieved - 5 pts**
+
   - Majority of first 16 levels of the game are completed.
   - Screenshot of completed levels is attached to submission.
 
@@ -66,12 +69,14 @@ Today you were introduced to CSS positioning/display properties and utilizing ad
 ### Implementation of CSS - /10
 
 - **Fully Achieved - 10 pts**
+
   - Integrated the majority of the CSS elements learned this week appropriately.
   - Populated content to fill elements.
   - Utilized both positioning and display properties.
   - Utilized external styling methods.
 
 - **Partially Achieved - 5 pts**
+
   - Integrated some of the CSS elements learned this week appropriately.
   - Populated content to fill elements.
   - Utilized both positioning and display properties.
