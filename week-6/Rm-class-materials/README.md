@@ -84,3 +84,20 @@ We could contrast this with...
     console.log(dereksPaper.news);
 
 The analogy isn't perfect, but it gets to how to manage responsibility for data and what choices you make when you pass by value vs. reference.
+
+### Homework
+
+The point of this is to practice assigning and re-assigning values in different contexts.
+
+Play the telephone game with different variables. Play it adding something to a number to increment it, and other simple variations.
+
+Like: add your name to the guestbook.
+
+  guestbook: {
+    "alice": "Hi!",
+    "bob": "I had a wonderful time!"
+  }
+
+  carolsBook = guestBook;
+  carolsBook.carol = "Hope to come again!"
+
