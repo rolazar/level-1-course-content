@@ -37,7 +37,7 @@ Today marks the beginning of our journey into Git, a cornerstone tool in modern 
 - Give examples: handling complex scenarios like reverting changes.
 - Note: Emphasize the utility of Git in real-world scenarios.
 
-**Practical Demonstration**:
+## **Practical Demonstration**:
 
 - Create a simple HTML project for demonstration.
 - Steps: Initialize Git repo, make commits, create and switch branches.
