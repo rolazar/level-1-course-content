@@ -16,7 +16,6 @@ This is a set of notes that I've been thinking as I prepare the the JavaScript 2
 * Callbacks (Review)
 * Touch on other statements such as switch, try/catch, for, for..in
 
-
 ## Loops
 
 Loops are actually a simple idea.
