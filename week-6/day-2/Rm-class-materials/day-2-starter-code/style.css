@@ -1,15 +1,17 @@
 .telephone-container {
-  position: relative;
+  border: solid;
+  display: flex;
+  flex-wrap: wrap;
 }
 
 .telephone-container div {
   padding: .5em;
-  margin: .5em;
+  margin: .63em;
   border: 2px solid #000;
   border-radius: 10px;
   position: relative;
   width: 6em;
-  display: inline-block
+  display: inline-block;
 }
 
 /* CSS for connecting line */
