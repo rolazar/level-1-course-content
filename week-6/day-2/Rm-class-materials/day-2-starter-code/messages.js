@@ -35,5 +35,3 @@ function setNames () {
     elm.textContent = message;
   }
 }
-
-setNames();

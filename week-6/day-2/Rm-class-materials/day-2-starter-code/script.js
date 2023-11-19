@@ -9,4 +9,10 @@ var aliceSays, bobSays, CarolSays, danSays, ellieSays, frankSays, harrySays, ivy
 
 aliceSays = "Kathy loves Larry";
 bobSays = aliceSays;
+carolSays = bobSays;
 
+
+
+// call setNames from 'messages.js'
+// to set the messages in the DOM.
+setNames();
