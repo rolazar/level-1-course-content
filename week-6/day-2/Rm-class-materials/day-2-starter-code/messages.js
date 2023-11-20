@@ -15,7 +15,7 @@ names = [
   "Jack"
 ];
 
-function setNames () {
+function setMessages () {
   for(let name of names) {
     let lowerName, divId, propertyName, message, elm;
     // make name lowercase
