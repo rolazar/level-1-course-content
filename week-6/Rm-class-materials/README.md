@@ -109,3 +109,33 @@ Like: add your name to the guestbook.
 
   carolsBook = guestBook;
   carolsBook.carol = "Hope to come again!"
+
+Example: changing a name....
+
+    scooby = {
+      name: "Scoobs",
+      age: 2
+    }
+    shaggysDog = scooby;
+    fredsDog = scooby;
+    fredsDog.name = "Scooby";
+    shaggysDog; // "Scooby" or "Scoobs"?
+
+Example with an array:
+ 
+    dogs = ["Scooby"];
+    thelmasDogs = dogs;
+    fredsDogs = dogs;
+    
+    thelmasDogs[1] = "Scrappy Doo";
+    console.log(fredsDogs[1])
+
+### Notes on variables
+
+Students are still having trouble comprehending the concept of a variable and will need some time to practice with the example code. There were some "ah-ha" moments when students discovered that there was a difference depending on the order of code.
+
+There is value in this activity even if students don't completely grasp the idea of value vs. reference. They will get practice with assigning and re-assigning variables.
+
+The bonuses also give a change to practice with callback functions and html.
+
+Some other topics we talked about during Q&A were variable scoping and let vs. var.
