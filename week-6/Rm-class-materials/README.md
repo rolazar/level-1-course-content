@@ -16,6 +16,10 @@ This is a set of notes that I've been thinking as I prepare the the JavaScript 2
 * Callbacks (Review)
 * Touch on other statements such as switch, try/catch, for, for..in
 
+## General Notes
+
+As students get their feet wet with JavaScript, in addition to these topics listed above, a few additional concepts will be mastered: **code blocks**, **variable assignment/re-assignment**, and **variable scoping**. Once students begin to have an intuition for these concepts, their coding skills will be greatly improved. Seeing these ideas in action in a variety of different contexts over the course of the week should help. Try making students aware of their progress by pointing out when we make a code block, pass the value of a variable to another variable, or choose to create a `let` statement in a certain context.
+
 ## Loops
 
 Loops are actually a simple idea.
