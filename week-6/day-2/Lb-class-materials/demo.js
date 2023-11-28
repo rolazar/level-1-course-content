@@ -111,18 +111,40 @@ What to Draw:
 A flowchart that starts with "Is the number of iterations known?" leading to either a `for` loop or a `while` loop.
 
 5. Nested Loops and Advanced Concepts
--------------------------------------
+
+/*
 What to Say:
-"Nested loops are loops inside loops. They are useful for working with multi-dimensional arrays or complex data structures."
-Code to Show:
+"Nested loops are loops within loops. They're particularly useful for working with multi-dimensional arrays, such as matrices. Let's see how we can use nested loops to print out the elements of a matrix."
 */
-// nested loop example
-console.log('nested loop example:');
-for (let i = 0; i < 3; i++) {
-  for (let j = 0; j < 2; j++) {
-    console.log(i, j);
+
+// Nested Loop Example: Printing a Matrix
+const matrix = [
+  [1, 2],
+  [3, 4],
+  [5, 6],
+];
+
+console.log('Nested Loop Example: Printing a Matrix');
+for (let i = 0; i < matrix.length; i++) {
+  // Outer loop iterating over rows
+  for (let j = 0; j < matrix[i].length; j++) {
+    // Inner loop iterating over columns
+    process.stdout.write(matrix[i][j] + '\t'); // Using process.stdout.write to stay on the same line
   }
+  console.log(); // New line after each row
 }
+
+/*
+Explain: In this example, we have a matrix with three rows and two columns. The outer loop iterates over each row, and the inner loop iterates over each column within that row. We use 'process.stdout.write' for printing elements in the same line, separated by a tab space, and 'console.log()' to move to the next line after each row is printed.
+*/
+
+/*
+What to Say:
+"Nested loops are powerful for iterating over complex data structures. They can be used for various purposes, from processing images to generating game maps. Understanding how to manipulate nested loops opens up a wide array of possibilities in programming."
+*/
+
+// Reminder: You can further explore nested loops by introducing more complex matrices or different data structures, allowing the students to see the versatility of this concept.
+
 // Explain: This nested loop prints pairs of numbers, showing how the inner loop completes its iteration for every single iteration of the outer loop.
 /*
 Wrap-Up
