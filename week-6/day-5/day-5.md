@@ -11,6 +11,8 @@ Focus: A comprehensive review of the key JavaScript concepts covered during the 
 3. Review callback functions and array methods (`map`, `filter`, `forEach`).
 4. Strengthen grasp on reference vs. primitive types and their implications in JavaScript.
 
+<!--TODO continue keyword needs added -->
+
 ## Key Concepts
 
 ### 1. Review of DOM Manipulation
