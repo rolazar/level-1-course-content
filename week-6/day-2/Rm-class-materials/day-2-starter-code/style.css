@@ -1,0 +1,52 @@
+.telephone-container {
+  border: solid;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.telephone-container div {
+  padding: .5em;
+  margin: .63em;
+  border: 2px solid #000;
+  border-radius: 10px;
+  position: relative;
+  width: 6em;
+  display: inline-block;
+}
+
+/* CSS for connecting line */
+.telephone-container div:not(:last-child)::after {
+  content: '';
+  position: absolute;
+  width: 1em; /* Adjust this value for the desired width of the line */
+  height: 2px;
+  background-color: #000;
+  top: 1em;
+   /* Adjust this value for the desired spacing between boxes */
+  left: 7em;
+}
+
+/* CSS for arrow head */
+.telephone-container div:not(:last-child)::before {
+  content: '';
+  position: absolute;
+  width: 0;
+  height: 0;
+  border-style: solid;
+  border-width: 8px 0 8px 12px; /* Adjust the values for the desired arrow size */
+  border-color: transparent transparent transparent #000;
+  top: .55em; /* Align with the bottom of the line */
+  left: 7.7em; /* Adjust this value for the desired spacing between the line and the arrow */
+}
+
+.telephone-container span {
+  background-color: aquamarine;
+}
+
+.telephone-container span::after {
+  content: '"';
+}
+
+.telephone-container span::before {
+  content: '"';
+}
