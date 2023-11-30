@@ -13,7 +13,8 @@ Welcome to the Level 1 Front-End Web Development Codex Academy! This course is t
 - **Week 4:** JavaScript Developer 1 (Basic Concepts)
 - **Week 5:** Git, Github, and Deployment
 - **Week 6:** JavaScript Developer 2 (Intermediate Concepts)
-- **Week 7:** Capstone Project
+- **Week 7:** Review Week
+- **Week 8:** Capstone Project
 
 ## Detailed Weekly Breakdown:
 
@@ -57,7 +58,11 @@ Welcome to the Level 1 Front-End Web Development Codex Academy! This course is t
 - Browser DOM manipulation insights.
 - Emphasize popular coding conventions and best practices.
 
-### Week 7: Capstone Project
+### Week 7: Review week
+
+- Review each week per day, to ensure students are ready for capstone project.
+
+### Week 8: Capstone Project
 
 - Synergize all Level 1 skills to deploy a "Professional/Personal Website."
 - The project emphasizes originality, with no room for templates or boilerplates.
