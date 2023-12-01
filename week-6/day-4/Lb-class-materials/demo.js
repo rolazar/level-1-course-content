@@ -25,7 +25,8 @@
 <div id="main-content">Main Content</div>
 <button class="btn">Button 1</button>
 <button class="btn">Button 2</button>
-<!-- Add more buttons as needed -->
+<button class="btn">Button 3</button>
+
 */
 
 // Example 1: querySelector
@@ -41,6 +42,12 @@ document.addEventListener('DOMContentLoaded', function () {
 const listItems = document.querySelectorAll('li');
 console.log('List items:', listItems);
 
+for (let i = 0; i < listItems.length; i++) {
+  listItems[i].addEventListener('click', () => {
+    listItems[i].style.backgroundColor = 'black';
+  });
+}
+
 // Example 3: getElementById
 const mainContent = document.getElementById('main-content');
 console.log('Main content:', mainContent);
@@ -49,6 +56,22 @@ console.log('Main content:', mainContent);
 // returns an HTMLCollection which allows for live updating, but does not allow for modification directly unless coverted to an Array using the Array.from method. HTMLCollections are Read Only.
 const buttons = document.getElementsByClassName('btn');
 console.log('Buttons:', buttons);
+
+const buttons2 = document.querySelectorAll('button');
+
+console.log(buttons2);
+console.log(buttons2[0]);
+buttons2[0].addEventListener('click', () => {
+  const ul = document.querySelector('ul');
+  const li = document.createElement('li');
+  ul.appendChild(li);
+});
+
+buttons2[1].addEventListener('click', () => {
+  const indexToRemove = listItems.length - 1;
+  // Do a search on google to show .remove method
+  listItems[indexToRemove].remove();
+});
 
 /**
  * Section 2: Modifying DOM Elements
@@ -115,6 +138,9 @@ console.log('Bootstrap classes added:', bootstrapAlert.classList);
 const clickButton = document.querySelector('#click-button');
 clickButton.addEventListener('click', function () {
   alert('Button clicked!');
+  const p = document.createElement('p');
+  p.innerText = 'Button Clicked';
+  mainContent.appendChild(p);
 });
 
 // Example 10: Mouseover Event
