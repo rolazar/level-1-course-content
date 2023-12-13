@@ -160,6 +160,7 @@ let complexPerson = {
   name: 'Eve',
   address: { city: 'New York', country: 'USA' },
 };
+//! Without creating prototype functions there is no way to see a difference between deep and shallow copies
 let deepClonedPerson = JSON.parse(JSON.stringify(complexPerson));
 
 // Modifying deepClonedPerson's address does not affect complexPerson
