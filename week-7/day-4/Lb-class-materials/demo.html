@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Roofing Calculator</title>
+  </head>
+  <body>
+    <h1>Roofing Project Calculator</h1>
+    <form id="roofingCalculator">
+      <!-- Roof type selection -->
+      <label for="roofType">Select Roof Type:</label>
+      <select id="roofType">
+        <option value="shingles">Shingles</option>
+        <option value="metal">Metal Roof</option>
+        <option value="tile">Tile Roof</option></select
+      ><br /><br />
+
+      <!-- Roof area input -->
+      <label for="area">Enter Roof Area (in square feet):</label>
+      <input type="number" id="area" required /><br /><br />
+
+      <!-- Disposal charges option -->
+      <div>
+        <input type="checkbox" id="disposal" value="disposal" />
+        <label for="disposal">Include Disposal Charges</label><br />
+      </div>
+
+      <!-- Calculation button -->
+      <button type="submit">Calculate</button>
+    </form>
+
+    <!-- Displaying the total cost -->
+    <h2>Total Cost: $<span id="totalCost">0.00</span></h2>
+
+    <script src="calculator.js"></script>
+  </body>
+</html>
