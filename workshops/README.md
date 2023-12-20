@@ -8,4 +8,4 @@ You can divide students into groups of 2, 3 or 4 and questions that one person s
 
 ## Mini code reviews
 
-If there is a big project that students are working on, sometimes a 5-10 minute code review is helpful. Having each student undergo a mandatory mini code review each day can help them open up and help you discover blockers that they wouldn't otherwise tell you about.
+If there is a big project that students are working on, sometimes a 5-10 minute code review is helpful. Having each student undergo a mandatory mini code review each day can help them open up and help you discover blockers that they wouldn't otherwise tell you about. Not all students are willing to share their issues with other present. It will also make sure students are accountable for what they produce in the hour.
