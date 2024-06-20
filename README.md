@@ -1,8 +1,5 @@
 # Front-End Web Development Codex Academy: Level 1
 
-## Overview
-
-Welcome to the Level 1 Front-End Web Development Codex Academy! This course is tailored to introduce beginners to the fundamentals of web development, guiding them from basic tools to building simple applications with JavaScript. By the course's conclusion, participants will possess a solid foundation in front-end web development.
 
 ### Course Structure:
 
