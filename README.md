@@ -1,72 +1,81 @@
-# Front-End Web Development Codex Academy: Level 1
+## **Level 1 Course: 8-Week Program**
 
+---
 
-### Course Structure:
+### **Week 1: DevTools, Mimo, and Code Editors**
 
-- **Week 0:** Orientation & Introduction to Code Editor and Browser Tools
-- **Week 1:** Introduction and In-depth Study of HTML
-- **Week 2:** Cascading Style Sheets (CSS)
-- **Week 3:** Bootstrap Framework
-- **Week 4:** JavaScript Developer 1 (Basic Concepts)
-- **Week 5:** Git, Github, and Deployment
-- **Week 6:** JavaScript Developer 2 (Intermediate Concepts)
-- **Week 7:** Review Week
-- **Week 8:** Capstone Project
+- **Day 1:** Introduction to Developer Tools
+- **Day 2:** Setting Up Development Environment (VSCode, GitHub Codespaces)
+- **Day 3:** HTML Basics with Mimo
+- **Day 4:** GitHub Basics (Getting code to GitHub for grading)
+- **Day 5:** Review of DevTools, HTML structure, and GitHub workflow
 
-## Detailed Weekly Breakdown:
+---
 
-### Week 0: Orientation & Introduction to Tools
+### **Week 2: HTML Fundamentals & Website Structure**
 
-- **Day 1:** Kickoff the lessons, get acquainted with fellow students, set course objectives, and familiarize with the Code Editor and Browser Tools.
+- **Day 1:** Introduction to HTML Document Structure
+- **Day 2:** Links, Images, and Navigation
+- **Day 3:** Building a Simple Website with Semantic HTML
+- **Day 4:** Styling Basics and Fonts
+- **Day 5:** Review of HTML structure, styling, and navigation
 
-### Week 1: HTML
+---
 
-- Brief review of Developer Tools and Visual Studio Code.
-- Deep dive into the structure and elements of HTML.
-- Hands-on practice sessions focused on building foundational web pages.
+### **Week 3: CSS & Bootstrap**
 
-### Week 2: Cascading Style Sheets (CSS)
+- **Day 1:** Introduction to CSS and Selectors
+- **Day 2:** CSS Box Model & Layout (Margins, Padding, Flexbox, Grid)
+- **Day 3:** Bootstrap Basics (Grid System, Components)
+- **Day 4:** Responsive Design with Bootstrap
+- **Day 5:** Review of CSS and Bootstrap fundamentals
 
-- Basics of website styling explored.
-- Mastery over selectors, properties, and values.
-- Live styling, responsive design, and other hands-on activities.
+---
 
-### Week 3: Bootstrap Framework
+### **Week 4: Pseudocode and Why We Use It**
 
-- Introductory sessions on the Bootstrap framework.
-- Work with Bootstrap components: Navs, Cards, Badges, etc.
-- Construct responsive web layouts using Bootstrap's utilities.
+- **Day 1:** What is Pseudocode? Why Learn It?
+- **Day 2:** Data Types & Variables in Pseudocode
+- **Day 3:** Writing Simple Logic with Pseudocode
+- **Day 4:** Simple Loops in Pseudocode (high level examples only)
+- **Day 5:** Review of Pseudocode Concepts
 
-### Week 4: JavaScript Developer 1
+---
 
-- Unveil the magic of the JavaScript programming language.
-- Grasp key concepts: variables, arrays, functions, and objects.
-- Engage in real-world scenarios using foundational JavaScript.
+### **Week 5: Introduction to JavaScript**
 
-### Week 5: Git, Github, and Deployment
+- **Day 1:** JavaScript Fundamentals (Variables, Data Types, Operators)
+- **Day 2:** Conditional Statements & Logic
+- **Day 3:** JavaScript Functions
+- **Day 4:** User Input Handling
+- **Day 5:** Review of JavaScript fundamentals
 
-- Dive deep into the world of Git source control and GitHub collaboration.
-- Understand the workflow of commits, branches, and merges.
-- Deployment lessons with GitHub Pages.
+---
 
-### Week 6: JavaScript Developer 2
+### **Week 6: JavaScript - Arrays & Objects (High-Level Only)**
 
-- Further delve into advanced topics: control structures, loops, and event listeners.
-- Browser DOM manipulation insights.
-- Emphasize popular coding conventions and best practices.
+- **Day 1:** Introduction to Arrays
+- **Day 2:** Array Methods (High-Level)
+- **Day 3:** Introduction to Objects
+- **Day 4:** Object Basics in JavaScript
+- **Day 5:** Review of Arrays & Objects
 
-### Week 7: Review week
+---
 
-- Review each week per day, to ensure students are ready for capstone project.
+### **Week 7: JavaScript Review with Mock Data**
 
-### Week 8: Capstone Project
+- **Day 1:** Displaying Arrays as Lists
+- **Day 2:** Looping Through Mock Data
+- **Day 3:** Event Listeners & User Interaction
+- **Day 4:** Updating the UI Dynamically
+- **Day 5:** Review & Debugging JavaScript
 
-- Synergize all Level 1 skills to deploy a "Professional/Personal Website."
-- The project emphasizes originality, with no room for templates or boilerplates.
-- Course mentors will provide reviews and feedback.
+---
 
-## Conclusion:
+### **Week 8: Capstone Project Development**
 
-This Codex Academy promises a blend of rigor and reward. Participants will notice their web development prowess enhancing with each passing week. Upon wrapping up Level 1, they'll be primed to confront advanced challenges in the subsequent levels. We're thrilled to have you onboard - let's commence this coding journey!
-
-Outline of Level 1 progress (day by day): [Excel](https://1drv.ms/x/s!AsxXYiIrLOeepWL90sG-1wEwX9xH)
+- **Day 1:** Capstone Project Planning and Setup
+- **Day 2:** Implementing Frontend & Styling
+- **Day 3:** Adding JavaScript Functionality
+- **Day 4:** Finalizing Project Features
+- **Day 5:** Capstone Project Presentations & Review
