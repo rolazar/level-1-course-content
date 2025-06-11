@@ -13,21 +13,19 @@ Launch the unit with the problem-solving process and begin hands-on programming 
 
 #### **Monday: Unit 2 Wrap-up**
 
-## **Monday: Unit 2 Wrap-up**
-
-### **Goals**
+##### **Goals**
 
 The main goals for today are to review core HTML and CSS concepts, help everyone consolidate their learning by creating a personal cheatsheet, and reinforce understanding of how files work both online and locally. There will also be time to finish one-on-one interviews or code reviews to check in on individual progress.
 
 ---
 
-### **Topics Covered**
+##### **Topics Covered**
 
 Today’s topics include a fundamental review of HTML and CSS, an introduction to how clients and servers interact with web files, and hands-on practice downloading, editing, and running files locally. The class will also focus on synthesizing learning by building a custom cheatsheet and sharing it with the group.
 
 ---
 
-### **Materials**
+##### **Materials**
 
 * [How Clients and Servers Work with HTML (Slides)](https://1drv.ms/p/c/9ee72c2b226257cc/EX6p4w74gvRPuGVmh0QRu1wBjFnMKVI_bWZHPQpl6V9Ahg)
 * [Guide: Creating an HTML & CSS Cheatsheet](https://github.com/rmccrear/codex-lv1-may-2025/blob/main/guides/creating-html-and-css-notes.md)
@@ -36,7 +34,7 @@ Today’s topics include a fundamental review of HTML and CSS, an introduction t
 
 ---
 
-### **Plan for Monday**
+##### **Plan for Monday**
 
 **Hour 1:**
 
@@ -53,48 +51,36 @@ Today’s topics include a fundamental review of HTML and CSS, an introduction t
 * Post completed cheatsheets to the Moodle forum
 * TAs continue one-on-one code interviews as needed
 
-#### **Tuesday: Lesson 1 & Lesson 3**
+---
 
-* **Lesson 1: Programming for a Purpose**
+#### **Tuesday: [Lesson 1: Programming for a Purpose](https://studio.code.org/courses/csd-2024/units/3/lessons/1/levels/1) & [Lesson 3: Drawing in Game Lab](https://studio.code.org/courses/csd-2024/units/3/lessons/3/levels/1)**
 
-  * Investigate user-focused design for animations/games
-  * Prototype with paper or digital templates
-* **Lesson 3: Drawing in Game Lab**
+* Investigate user-focused design for animations/games
+* Prototype with paper or digital templates
+* Learn Game Lab IDE and basic drawing commands (`rect`, `ellipse`, `fill`)
+* Emphasize sequencing and debugging
 
-  * Learn Game Lab IDE
-  * Practice drawing commands:
+---
 
-    * `rect(x, y, w, h)`
-    * `ellipse(x, y, w, h)`
-    * `fill(color)`
-  * Emphasize sequencing and debugging
+#### **Wednesday: [Lesson 4: Shapes and Parameters](https://studio.code.org/courses/csd-2024/units/3/lessons/4/levels/1) & [Lesson 5: Variables](https://studio.code.org/courses/csd-2024/units/3/lessons/5/levels/1)**
 
-#### **Wednesday: Lesson 4 & Lesson 5**
+* Use parameters for width/height
+* Introduce `background(color)`
+* Learn about variables and storing data (numbers, text, color)
 
-* **Lesson 4: Shapes and Parameters**
+---
 
-  * Use parameters for width/height
-  * Introduce `background(color)`
-  * Define: *parameter*
-* **Lesson 5: Variables**
+#### **Thursday: [Lesson 6: Random Numbers](https://studio.code.org/courses/csd-2024/units/3/lessons/6/levels/1)**
 
-  * Store and label data (numbers, text, color)
-  * Syntax: `var x = ___`
-  * Define: *variable*
+* Use `randomNumber()` for varied program behavior
+* Update and reuse variables
 
-#### **Thursday: Lesson 6**
+---
 
-* **Lesson 6: Random Numbers**
+#### **Friday: [Lesson 7: Mini-Project: Robot Faces](https://studio.code.org/courses/csd-2024/units/3/lessons/7/levels/1)**
 
-  * Use `randomNumber()` for varied program behavior
-  * Update and reuse variables
-
-#### **Friday: Lesson 7**
-
-* **Mini-Project: Robot Faces**
-
-  * Combine shapes, variables, randomness
-  * Apply the structured problem-solving process
+* Combine shapes, variables, randomness
+* Apply the structured problem-solving process
 
 ---
 
@@ -107,48 +93,39 @@ Move from drawing to objects, text, and the building blocks of animation.
 
 ### **Daily Breakdown**
 
-#### **Monday: Lesson 8 & Lesson 9**
+#### **Monday: [Lesson 8: Sprites](https://studio.code.org/courses/csd-2024/units/3/lessons/8/levels/1) & [Lesson 9: Sprite Properties](https://studio.code.org/courses/csd-2024/units/3/lessons/9/levels/1)**
 
-* **Lesson 8: Sprites**
+* What is a sprite? How are sprites created and controlled?
+* Use `drawSprites()`
+* Modify properties using dot notation
 
-  * What is a sprite? How are sprites created and controlled?
-  * Use `drawSprites()`
-* **Lesson 9: Sprite Properties**
+---
 
-  * Modify: `sprite.x`, `sprite.y`, `sprite.rotation`, `sprite.scale`
-  * Use *dot notation* for properties
+#### **Tuesday: [Lesson 10: Text](https://studio.code.org/courses/csd-2024/units/3/lessons/10/levels/1)**
 
-#### **Tuesday: Lesson 10**
+* Add text to the screen
+* Set text size, position using arguments
 
-* **Lesson 10: Text**
+---
 
-  * Add text to the screen
-  * Set text size, position using arguments
+#### **Wednesday: [Lesson 11: Mini-Project: Captioned Scenes](https://studio.code.org/courses/csd-2024/units/3/lessons/11/levels/1)**
 
-#### **Wednesday: Lesson 11**
+* Plan and create a scene using sprites and text
+* Focus on the problem-solving process
 
-* **Mini-Project: Captioned Scenes**
+---
 
-  * Plan and create a scene using sprites and text
-  * Focus on the problem-solving process
+#### **Thursday: [Lesson 12: The Draw Loop](https://studio.code.org/courses/csd-2024/units/3/lessons/12/levels/1) & [Lesson 13: Sprite Movement](https://studio.code.org/courses/csd-2024/units/3/lessons/13/levels/1)**
 
-#### **Thursday: Lesson 12 & Lesson 13**
+* Introduce the `draw()` loop for animation
+* Animate sprites with the *counter pattern*
 
-* **Lesson 12: The Draw Loop**
+---
 
-  * Introduce `draw()` loop for animation
-  * Discuss code inside/outside the loop
-* **Lesson 13: Sprite Movement**
+#### **Friday: [Lesson 14: Mini-Project: Animation](https://studio.code.org/courses/csd-2024/units/3/lessons/14/levels/1)**
 
-  * Animate sprites with the *counter pattern*:
-    `sprite.x = sprite.x + 1`
-
-#### **Friday: Lesson 14**
-
-* **Mini-Project: Animation**
-
-  * Plan and code an animated scene
-  * Emphasize creative movement and planning
+* Plan and code an animated scene
+* Emphasize creative movement and planning
 
 ---
 
@@ -161,40 +138,37 @@ Make programs interactive with conditional logic and user input.
 
 ### **Daily Breakdown**
 
-#### **Monday: Lesson 15**
+#### **Monday: [Lesson 15: Conditionals & Booleans](https://studio.code.org/courses/csd-2024/units/3/lessons/15/levels/1)**
 
-* **Conditionals & Booleans**
+* Use `if (condition) { ... }`
+* Operators: `==`, `!=`, `<`, `>`, etc.
 
-  * Use `if (condition) { ... }`
-  * Operators: `==`, `!=`, `<`, `>`, etc.
+---
 
-#### **Tuesday: Lesson 16**
+#### **Tuesday: [Lesson 16: Keyboard Input](https://studio.code.org/courses/csd-2024/units/3/lessons/16/levels/1)**
 
-* **Keyboard Input**
+* Check for key presses: `keyDown(code)`
+* Use input to control sprites
 
-  * Check for key presses: `keyDown(code)`
-  * Use input to control sprites
+---
 
-#### **Wednesday: Lesson 17**
+#### **Wednesday: [Lesson 17: Mouse Input & If-Else](https://studio.code.org/courses/csd-2024/units/3/lessons/17/levels/1)**
 
-* **Mouse Input & If-Else**
+* Respond to mouse events
+* Use `if-else` for different outcomes
 
-  * Respond to mouse: `mouseWentUp()`, `mouseDidMove()`
-  * Use `if-else` for different outcomes
+---
 
-#### **Thursday: Lesson 18**
+#### **Thursday: [Lesson 18: Project: Interactive Card](https://studio.code.org/courses/csd-2024/units/3/lessons/18/levels/1)**
 
-* **Project: Interactive Card**
+* Bring together: drawing, variables, sprites, input, and conditionals
+* Plan and build an interactive greeting card
 
-  * Bring together: drawing, variables, sprites, input, and conditionals
-  * Plan and build an interactive greeting card
+---
 
-#### **Friday: Lesson 19**
+#### **Friday: [Lesson 19: Velocity](https://studio.code.org/courses/csd-2024/units/3/lessons/19/levels/1)**
 
-* **Velocity**
-
-  * Simplify movement with:
-    `sprite.velocityX`, `sprite.velocityY`, `sprite.rotationSpeed`
+* Simplify movement with velocity blocks
 
 ---
 
@@ -207,44 +181,36 @@ Introduce abstractions, collisions, and more complex motion.
 
 ### **Daily Breakdown**
 
-#### **Monday: Lesson 20**
+#### **Monday: [Lesson 20: Collision Detection](https://studio.code.org/courses/csd-2024/units/3/lessons/20/levels/1)**
 
-* **Collision Detection**
+* Use `isTouching()` as an abstraction
 
-  * Use `isTouching()` as an abstraction
+---
 
-#### **Tuesday: Lesson 22**
+#### **Tuesday: [Lesson 22: Complex Sprite Movement](https://studio.code.org/courses/csd-2024/units/3/lessons/22/levels/1)**
 
-* **Complex Sprite Movement**
+* Combine velocity and counter pattern
+* Simulate gravity and more advanced motion
 
-  * Combine velocity and counter pattern
-  * Simulate gravity and more advanced motion
+---
 
-#### **Wednesday: Lesson 23**
+#### **Wednesday: [Lesson 23: Advanced Collisions](https://studio.code.org/courses/csd-2024/units/3/lessons/23/levels/1)**
 
-* **Advanced Collisions**
+* Learn collision blocks: `collide()`, `displace()`, `bounce()`, `bounceOff()`
 
-  * Learn collision blocks:
+---
 
-    * `collide()`
-    * `displace()`
-    * `bounce()`
-    * `bounceOff()`
+#### **Thursday: [Lesson 21: Mini-Project: Side Scroller](https://studio.code.org/courses/csd-2024/units/3/lessons/21/levels/1)**
 
-#### **Thursday: Lesson 21**
+* Build a side-scroller game using velocity and collisions
+* Emphasize planning and problem-solving
 
-* **Mini-Project: Side Scroller**
+---
 
-  * Build a side-scroller game using velocity and collisions
-  * Emphasize planning and problem-solving
+#### **Friday: [Lesson 25: Functions](https://studio.code.org/courses/csd-2024/units/3/lessons/25/levels/1)**
 
-#### **Friday: Lesson 25**
-
-* **Functions**
-
-  * Define and call functions:
-    `function myFunction() { ... }`
-  * Build your own abstractions to simplify code
+* Define and call functions
+* Build your own abstractions to simplify code
 
 ---
 
@@ -257,22 +223,18 @@ Synthesize all prior skills to plan, design, and build an original game.
 
 ### **Daily Breakdown**
 
-#### **Monday: Lesson 26**
+#### **Monday: [Lesson 26: The Game Design Process](https://studio.code.org/courses/csd-2024/units/3/lessons/26/levels/1)**
 
-* **The Game Design Process**
+* Plan variables, sprites, and functions for a new game
+* Analyze a sample game from a design perspective
 
-  * Plan variables, sprites, and functions for a new game
-  * Analyze a sample game from a design perspective
+---
 
-#### **Tuesday–Friday: Lesson 27 & Lesson 28**
+#### **Tuesday–Friday: [Lesson 27: Using the Game Design Process](https://studio.code.org/courses/csd-2024/units/3/lessons/27/levels/1) & [Lesson 28: Project – Design a Game](https://studio.code.org/courses/csd-2024/units/3/lessons/28/levels/1)**
 
-* **Lesson 27: Using the Game Design Process**
-
-  * Independently complete project planning for a game
-* **Lesson 28: Project - Design a Game**
-
-  * Plan, build, and iterate on an original game
-  * Collaborate and participate in peer review
+* Complete project planning for a game
+* Plan, build, and iterate on an original game
+* Collaborate and participate in peer review
 
 ---
 
