@@ -67,10 +67,6 @@ This unit introduces students to the fundamentals of web development using HTML 
 * **Day 4:** Collaborative Website Building (Web Lab, Uploading Images)
 * **Day 5:** Peer Feedback, Project Interviews, Final Project Work
 
-Certainly! Here’s a summary of your **Unit 3: Game Lab Programming** curriculum, in the style you provided, with a focus on both programming and soft skills:
-
----
-
 ### Weeks 4–8: Computer Science Discovery, Unit 3 — Interactive Animations & Game Lab Programming
 
 #### Unit 3 Overview
