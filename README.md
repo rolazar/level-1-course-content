@@ -13,12 +13,13 @@
 ### Weeks 1-3: Computer Science Discovery, Unit 2 -- Web Development
 
 
-#### Unit Overview
+#### Unit 2 Overview
 
 This unit introduces students to the fundamentals of web development using HTML and CSS while placing a strong emphasis on essential **soft skills**. Students not only learn how to build and style web pages but also practice communication, teamwork, giving and receiving feedback, and collaborative problem-solving. Through interactive lessons, mini-projects, and group work, students gain confidence working both independently and as part of a team.
 
 * Unit 2 Materials on [code.org](https://studio.code.org/courses/csd-2024/units/2)
 * Detailed teaching guide for [CodeX Academy](./unit-2.md)
+* Google Folder with extra material [folder](https://drive.google.com/drive/folders/183MYBR1JYLeGGrMS9NPF9avjGGJmjAP9?usp=sharing)
 
 **Goals:**
 
